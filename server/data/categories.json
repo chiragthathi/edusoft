@@ -1,0 +1,112 @@
+[
+  {
+    "id": "handheld-xray",
+    "label": "Handheld X-Ray",
+    "group": "imaging",
+    "order": 1,
+    "tagline": "Point-of-care radiography in a sub-4 kg body.",
+    "description": "Ultra-portable ERAY SMART HS handheld X-ray units for TB screening, NICUs, disaster sites, outreach camps and home care — battery powered and ready wherever the patient is.",
+    "liveUrl": "https://edusofthealth.com/handheld-portable-x-raysolutions.php",
+    "hero": "eray-smart-6hs"
+  },
+  {
+    "id": "mobile-xray",
+    "label": "Mobile X-Ray",
+    "group": "imaging",
+    "order": 2,
+    "tagline": "Imaging that comes to the bedside.",
+    "description": "The ERAY SMART series of high-frequency digital mobile X-ray systems for human and veterinary use — compact, lightweight and paired with wireless flat panel detectors for wards, critical care units and operating rooms.",
+    "liveUrl": "https://edusofthealth.com/mobile-x-ray-solutions.php",
+    "hero": "eray-40kw-digital-mobile"
+  },
+  {
+    "id": "fixed-xray",
+    "label": "Fixed X-Ray",
+    "group": "imaging",
+    "order": 3,
+    "tagline": "High-throughput radiography rooms.",
+    "description": "ERAY RAD and ERAY SMART ECO DR high-frequency fixed X-ray systems — anatomical programming, rapid patient positioning and wireless flat panel detectors for hospitals, institutions and diagnostic centres.",
+    "liveUrl": "https://edusofthealth.com/fixed-x-ray-solutions.php",
+    "hero": "eray-ceiling-suspended-dr"
+  },
+  {
+    "id": "c-arms",
+    "label": "Surgical C-Arms",
+    "group": "imaging",
+    "order": 4,
+    "tagline": "Flat panel fluoroscopy for the operating room.",
+    "description": "ERAY Smart 5C mobile C-Arms for orthopaedics, trauma, neurosurgery, spine surgery, gastroenterology and urology — high image quality at low dose, with DICOM 3.0 integration.",
+    "liveUrl": "https://edusofthealth.com/surgical-c-arms.php",
+    "hero": "eray-smart-5c-gold"
+  },
+  {
+    "id": "dr-detectors",
+    "label": "DR Detectors",
+    "group": "digital",
+    "order": 5,
+    "tagline": "Wireless DR, without the cost barrier.",
+    "description": "ERAY and TRIMAX flat panel detectors that bring wireless digital radiography to new rooms, mobile systems and retrofits of existing X-ray equipment.",
+    "liveUrl": "https://edusofthealth.com/dr-systems.php",
+    "hero": "eray-gold-100"
+  },
+  {
+    "id": "cr-systems",
+    "label": "CR Systems",
+    "group": "digital",
+    "order": 6,
+    "tagline": "The practical route from film to digital.",
+    "description": "Compact TRIMAX and ERAY computed radiography readers for small-to-medium hospitals, clinics and practices that need in-house digital imaging at an accessible price.",
+    "liveUrl": "https://edusofthealth.com/cr-systems.php",
+    "hero": "trimax-cr"
+  },
+  {
+    "id": "printers",
+    "label": "Medical Printers",
+    "group": "output",
+    "order": 7,
+    "tagline": "Diagnostic-grade hard copy.",
+    "description": "TRIMAX dry laser imagers, the ERAY thermal dry imager and ERAY inkjet printing — reliable diagnostic film output for CR, DR, CT, MR and mammography.",
+    "liveUrl": "https://edusofthealth.com/laser-x-ray-printer.php",
+    "hero": "trimax-tx55"
+  },
+  {
+    "id": "films-media",
+    "label": "Films & Media",
+    "group": "output",
+    "order": 8,
+    "tagline": "Film and print media matched to the imager.",
+    "description": "TRIMAX laser imaging film, ERAY medical and inkjet films, and SONY ultrasound print media for consistent diagnostic clarity.",
+    "liveUrl": "https://edusofthealth.com/x-ray-films.php",
+    "hero": "trimax-digital-films"
+  },
+  {
+    "id": "software-ai",
+    "label": "Software & AI",
+    "group": "digital",
+    "order": 9,
+    "tagline": "From acquisition to archive to AI.",
+    "description": "PACS, RIS, image acquisition software and partner AI platforms that connect every modality into one reporting workflow, including tele-radiology.",
+    "liveUrl": "https://edusofthealth.com/it-solution.php",
+    "hero": "pacs-ris"
+  },
+  {
+    "id": "accessories",
+    "label": "Accessories",
+    "group": "output",
+    "order": 10,
+    "tagline": "Everything around the exposure.",
+    "description": "Detector stands, carry bags, protection barriers, tables and radiology accessories built to integrate with existing radiography infrastructure.",
+    "liveUrl": "https://edusofthealth.com/ultrasound-thermal-paper.php",
+    "hero": "tables-accessories"
+  },
+  {
+    "id": "specialty",
+    "label": "Dental & Vision",
+    "group": "specialty",
+    "order": 11,
+    "tagline": "Specialist screening devices.",
+    "description": "Digital intraoral sensors for dental imaging and the AI-Optics handheld vision screener for early detection of refractive disorders.",
+    "liveUrl": "https://edusofthealth.com/products.php",
+    "hero": "ai-optics-vision-screener"
+  }
+]

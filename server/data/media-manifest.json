@@ -1,0 +1,1704 @@
+{
+ "products": {
+  "eray-smart-6hs": [
+   {
+    "src": "/media/p/eray-smart-6hs/00",
+    "widths": [
+     320,
+     570
+    ],
+    "w": 570,
+    "h": 465,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRggBAABXRUJQVlA4WAoAAAAQAAAAFwAAEwAAQUxQSDIAAAABL6AmAAE25iLVKiUiArN4qGkkBeITcBpQgARM4N/NltQR/Z8Aw2roe7CG5G+WlBq6YVZQOCCwAAAA0AQAnQEqGAAUAD7tarBQKaWkoqgKqTAdiWcAznWMOm8qk1A3hy8HLtOfT7G1sAAA/vHU+qzeh7LWKKhQ1Ziqa9yqySRQPDGRvlukjAcCA5SvoHlxPvQYdw8h1OtzXffXpHehMZO3LLhxqHaHmqU4J60JbZq7L/m/Y0dF6BnlRmX/u98zDs+MRUgpLPD7GlKkYSUu/k/CtIpvKYgr/6Hn48vT2DD8Ys9Tdf/gHh1cAAA="
+   },
+   {
+    "src": "/media/p/eray-smart-6hs/01",
+    "widths": [
+     320,
+     560
+    ],
+    "w": 560,
+    "h": 458,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   }
+  ],
+  "eray-smart-5hs": [
+   {
+    "src": "/media/p/eray-smart-5hs/00",
+    "widths": [
+     320,
+     508
+    ],
+    "w": 508,
+    "h": 378,
+    "bg": "white",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADwBACdASoYABIAPu1ur1IppiQiqAgBMB2JaQAD5AkLD5Z7tpjH6lyINmxU/EgLoAAA/vN/D45PlAQXrmQBfLW2CWu+FhOmEvIauXIiNExmk6KxqCvephXnGUHmYBscpseJgMNos4GF3LkLBzhHZl0YI8zOUI+mfvSlh7z8ZeezOb4BlTx2L+2enPLeCS/OITOIy7A+LxjtL16IOFv+yDtjeGuDTf/kMlAbUv30HrwE4AAA"
+   },
+   {
+    "src": "/media/p/eray-smart-5hs/01",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1560,
+    "h": 1163,
+    "bg": "white",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-5hs/02",
+    "widths": [
+     320,
+     549
+    ],
+    "w": 549,
+    "h": 422,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-5hs/03",
+    "widths": [
+     320,
+     336
+    ],
+    "w": 336,
+    "h": 542,
+    "bg": "alpha",
+    "kind": "accessory",
+    "lqip": null
+   }
+  ],
+  "eray-smart-3hs": [
+   {
+    "src": "/media/p/eray-smart-3hs/00",
+    "widths": [
+     320,
+     550
+    ],
+    "w": 550,
+    "h": 447,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRpoBAABXRUJQVlA4WAoAAAAQAAAAFwAAEwAAQUxQSOkAAAABgGtb2zHnjW3btu1Uk85mZye3MCul7aR1UtlOm8pGaed9i//7ZiZ3EBETAP/v2ZjpoyOdcXDiFdHP9XJLcbCRnCRdX9/Exce9oWobltw8EQoQkYS1nHZCHgpiWZBJiMggZjinghCJCHlBDLnaS0RiIiIR/fkKLMebp4iFrG8PABCtHim0cYj16QIQNefcq5GGiAJkvdkDiONhUNmH2JwnC4CmSBjJH39BRCIi1o8ngDgp73QwuJ8kP7YEKDlsdQewGzv7I2ouu7y5Jjr2AABlY2BqBZUXgv9mnH54sjlIL5qVA9naesK/AwBWUDggigAAABAEAJ0BKhgAFAA+7W6wUqmmJKKoCAEwHYlnAAAlsz57VmvPrhWSx5sAAP65/C/UlteG5TdZ921IFoIv1TN0jHdgIdfDD4GVw40ZLDxsgJy/+n4j+ADd5YRhgHRJRXCipAnPchVvCEwrRZp80A/PdArbe3grXtUYwuWj4tb1/6US0OSM+fxvLXpgAA=="
+   },
+   {
+    "src": "/media/p/eray-smart-3hs/01",
+    "widths": [
+     320,
+     509
+    ],
+    "w": 509,
+    "h": 439,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   }
+  ],
+  "eray-40kw-digital-mobile": [
+   {
+    "src": "/media/p/eray-40kw-digital-mobile/00",
+    "widths": [
+     248
+    ],
+    "w": 248,
+    "h": 352,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRowBAABXRUJQVlA4WAoAAAAQAAAAEAAAFwAAQUxQSNwAAAABgLpt2/FX/v37zfYW0bzkJTPZtr1k24r2lrylJbMp2W7WE773HSJiAvC/vmW2DDNHfdY45TGWaM26qqamumqHchmTdLJJbIbSLi0oh87fjpwT5QhkejfqALkG5SCibMEPJRcp8xfo/d0QpQMQmTJkdEUYoVQAAR+dsvJOnXuPXRilZADGp7SxT0T0qTdIiQAQQlyPPooXaG5xgji+07x+VtEix2uYYgQ9T5yWJUoUTBD384WuXAH08oRpAGo/OI8HNGgFQM086uwqxs7JycBzWwtsTR0RAEhI408BVlA4IIoAAADwAwCdASoRABgAPu1krU+ppSQiMBgIATAdiWcAA+QJAquk0pb8+enMAP5TKfEpLL0lEtZgKLmJIkmsVb/5G1l+fNScNtUdr3/En4O2CJJmWiT4OG44heeAqaUbz3PN+2HZXFfTSyHxCn+6QjteSd2SsvTh9sWFkn5LF/BxlreDi3Ybeh1w93+yEAA="
+   },
+   {
+    "src": "/media/p/eray-40kw-digital-mobile/01",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "alpha",
+    "kind": "in-use",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-40kw-digital-mobile/02",
+    "widths": [
+     248
+    ],
+    "w": 248,
+    "h": 352,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-40kw-digital-mobile/03",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "photo",
+    "kind": "in-use",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-40kw-digital-mobile/04",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "photo",
+    "kind": "in-use",
+    "lqip": null
+   }
+  ],
+  "eray-50kw-motorized-mobile": [
+   {
+    "src": "/media/p/eray-50kw-motorized-mobile/00",
+    "widths": [
+     320,
+     405
+    ],
+    "w": 405,
+    "h": 398,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRtQBAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSO8AAAABgGPb2rHniW07qZyUaa3Ktm3bxgxY/isTcCpWtq3S1lN8r1ZGEBETAP9QUZUU0pasQVAP6uhwU1T0SlZUUkiGpsfZ7hiCLyKubm2d321tz+/IvvCrR4UQiPh7jdSz8wdcNCIEIP5eSbYb89z1jJYRZRqUv3tJNgCA8vzH+6gC7RkRf7scAQC07W0UgUL8w7e5Shc5AIf+MDbix1Ln9NOgmQBEPPQHIt+AsqjfEFHYKS8vqEBFQVCEGghKUyR4cX15AgA4j81x7ZtI/JeRe0hJ4nHA9REC0hrkvRoPtLdTATBPyC+sbWAty0lMCdcH8QBWUDggvgAAAJAFAJ0BKhgAGAA+7VysTamkpKIwGAwBMB2JaQAIEC5/zthoN7Evb1AHfa9sZG616sGwA3AAAP7gcShn2QkvZrkr3S6ZBGUGn2ZjanniEJ2lpUcmW3B4eKPZUbbU0zpxsMxFzRV0V9Jcrfaamvs2hvQV2AQ40yXIlgJXvaMmXqoZQpvoOgR8bYu0AcfMum8RszJg4T+fw+LqN2gbeaRFosWs4qu3rcEBa1KXtj71YP5JyfbjGD/utBgYu1UgAAA="
+   }
+  ],
+  "eray-smart-t-series": [
+   {
+    "src": "/media/p/eray-smart-t-series/00",
+    "widths": [
+     320,
+     373
+    ],
+    "w": 373,
+    "h": 539,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRsABAABXRUJQVlA4WAoAAAAQAAAAEAAAFwAAQUxQSO0AAAABgLNt2/FW//MlqW3btm3bdidrylpO7tZOPfID6nb0aturrad4j6eJiAkAMfJkDFX/UbS71cnSZTUjzhb7WhuohXRlcH8aEScTcgpLW59wAf46PWIxAICe8GQ2Ll4XgCdadvujaFd1qaseAQAScrw/vNSIzwW1EKBmFrxiuRfJX7gy3O9NCpzZCI5zIhmOiJyMOIrB0PrjjiZQExDxWovCzeMXXipTzB/xEw9lKZqn+IV7kiy5/IkQ5Vr8ws9KVkvJyvj2GX69Xs3wGCMBtllL8zd4t10CTB9D8F8emF+LNgOixODhvi3Qed4mIG4AVlA4IKwAAACQBACdASoRABgAPu1qrVCppaQiqAqpMB2JZAAD4qEaqs+KcfJPrasAMJiY4AAA/tUDXTHpDvUnQMEvmiG/cKjPM544ucJPABDOhpmu2yPj+tPCuIiYsop77zkjaD/pnH9SBoD0bB52vvY8FjJF2xND0VD8PNwOc8UWegCM/5u6wHS19eEiizKFILsxezLm5pxLSltiWDQo0Xjeh1KuIYDroB4OERHpSsIogAAA"
+   },
+   {
+    "src": "/media/p/eray-smart-t-series/01",
+    "widths": [
+     319
+    ],
+    "w": 319,
+    "h": 506,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-t-series/02",
+    "widths": [
+     320,
+     464
+    ],
+    "w": 464,
+    "h": 570,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "eray-smart-integrated": [
+   {
+    "src": "/media/p/eray-smart-integrated/00",
+    "widths": [
+     320,
+     422
+    ],
+    "w": 422,
+    "h": 507,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRgoCAABXRUJQVlA4WAoAAAAQAAAAEwAAFwAAQUxQSBIBAAABkHPbtrG9us9n27Zt27Zt251tf5W/GK1t105l28mziwdJImIC6N8a11cG6LKMvZX4ugFcIpKz2z66x46nBww+re05cBvAdmJeeaMjUQGAww56cnZr9zBmoCRnWUpk8BqPtYiIpPN+Pz6yZGiSSUTzr7uJs/YPgEHrOCKS05ThKgCAezEBJNgX56+duNrlIERMKxHD2Y6uLfqCimfQ6+kX6UQC5Quq53BptFORhIYAYABYCxE/CjAA3ukKUX0DhvVUWYjpQxaDOxI8satXZpZYwCNNLolTfRWnLwEsbHAZf4nRfg8wAAPcl+AQs5XIAIDHL3/+wkFRDiIKBHDuUtTmeLQC8UtfAIJtZekvddtS6T8DVlA4INIAAAAwBQCdASoUABgAPu1sqlEppaOiqAqpMB2JaQAD5EpgH6zBXEkkdCqL/2XhiT5QvEctAAD+7XEPyzCMUrPNBbPrPalMb7p0WtjLiq5h2FmOowd38bHt8bZ/n74p0o3SJlOMfZO5aSFgi0AIC4PmcZctOXphHfgxxaUYjOB/Upptl7ZwwPbs9HrOM4QhWBcjUCAAZd1jd41IZCWbMscrOQh1gphSdcFgc6UIFbmqlK7/QWLZQcVZ5et0viR5d1fssKU0777l+k5bGSwbcRlLuewAAAA="
+   },
+   {
+    "src": "/media/p/eray-smart-integrated/01",
+    "widths": [
+     320,
+     411
+    ],
+    "w": 411,
+    "h": 473,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   }
+  ],
+  "eray-2kw-portable": [
+   {
+    "src": "/media/p/eray-2kw-portable/00",
+    "widths": [
+     274
+    ],
+    "w": 274,
+    "h": 460,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4WAoAAAAQAAAADQAAFwAAQUxQSJkAAAABgJpt27Ll+t3d/38BVxwyyZ0FOBgAmkvSyhJMAQNIgq9hDaK7vt/z/itExATQev/S1tbWxnzeZOPH/LYMRO6En30g/y4dAV0/8okdejWOXXqnXr1zP3R9S0YQ6l/SWRhqGhcRaGrc5GD1R36agEFDOugDtqVxgD1pRtmQhpQ1aVxZED4GlCnhPqukDLNDt0J2bnFzZWk2TusAVlA4IH4AAADQAwCdASoOABgAPu1iqU2ppaOiMAgBMB2JaQAAW2Op5rvNuRFy9AAA/ppK+yRWMMWF/hFWBe8Exfu/rX5LaDde/cJFSI4s6Ps8fVj3X+3tlHBdEt/E2Z6rM6IT/TLfhcHg5X8+wQBS8Ax1+ehHG02Lja/t+GT7q3MNoAmwAAA="
+   }
+  ],
+  "eray-ceiling-suspended-dr": [
+   {
+    "src": "/media/p/eray-ceiling-suspended-dr/00",
+    "widths": [
+     320,
+     494
+    ],
+    "w": 494,
+    "h": 324,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4WAoAAAAQAAAAFwAADwAAQUxQSM8AAAABgGPb2rHn/lZs20bnlFmpbNu2Uf4rM3CqzOBHGyd9Otvu+Pz8MIOImADwLZB6Zs4OdnS2FuQmOItZpNSdEBHpxpwYQWifXLxJRF+LOfZCs9xRoRkEIknI0VRtOiCAufoeDDWBYDj/nM1Al8hkmnatZf2uCxhprcUcdgsZzN8FWoMDmM6fClA5ketbO94+MDzWOzxXFmRh9lSMXdI6J1xdfxN9/m5EuFq6kWKH9EDwMRHRnASWu1ds0KyuAzw+zBZgVS6GZeeK1rbWylRrnAMAVlA4IEgAAADwAgCdASoYABAAPu1iqU2ppaOiMAgBMB2JaWd7ADdYAAD+77dMxd1I2/Fcjb18x/jkJwD6X4v/XOU6Pud1C0ky4VcBEQnAAAA="
+   },
+   {
+    "src": "/media/p/eray-ceiling-suspended-dr/01",
+    "widths": [
+     320,
+     387
+    ],
+    "w": 387,
+    "h": 538,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-ceiling-suspended-dr/02",
+    "widths": [
+     320,
+     380
+    ],
+    "w": 380,
+    "h": 486,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-ceiling-suspended-dr/03",
+    "widths": [
+     320,
+     342
+    ],
+    "w": 342,
+    "h": 483,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   }
+  ],
+  "eray-ceiling-free": [
+   {
+    "src": "/media/p/eray-ceiling-free/00",
+    "widths": [
+     320,
+     528
+    ],
+    "w": 528,
+    "h": 408,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRm4BAABXRUJQVlA4WAoAAAAQAAAAFwAAEgAAQUxQSOIAAAABgLtt2/F1QPfPZq6Jk+2mfls2J9u2m21MrY1Ntt1UU6228abvDRExAfhDTSiLQmkpoGg74FBEP9sy8fuWQBlGKHj9azQBxIYJtbsU3CFSTVF0Vipi4MySJIp8cqfPgCriTpFLboyYfIgLRebbrh6TL/GkuTICs4a4UGRcqwCwLEKCAoObSENUbFwA90v6jTYAeOU+7B8SQiZPqjWsLym3OgAMHYybj8jXDY25iwRA5osRH6gd6e56+GavfXA0ANAb3u3yBjiAMK26rbW1KRRgcQCBUioBwBPwefiWxecLOPj/VlA4IGYAAABwAwCdASoYABMAPu1sqlGppaOiqAqpMB2JaQAAIlRniNE/0mAA/q8rV+rKpc4sE5Shm76H3DyB1x4wOScLChxzbYDc1EXFF6PWjbW5Q8Vsh8GxhGg9HM27EbTuugkLe1CvCcpgAAA="
+   },
+   {
+    "src": "/media/p/eray-ceiling-free/01",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "alpha",
+    "kind": "in-use",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-ceiling-free/02",
+    "widths": [
+     320,
+     570
+    ],
+    "w": 570,
+    "h": 441,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-ceiling-free/03",
+    "widths": [
+     320,
+     441
+    ],
+    "w": 441,
+    "h": 387,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-ceiling-free/04",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "white",
+    "kind": "in-use",
+    "lqip": null
+   }
+  ],
+  "eray-smart-eco-dr": [
+   {
+    "src": "/media/p/eray-smart-eco-dr/00",
+    "widths": [
+     320,
+     496
+    ],
+    "w": 496,
+    "h": 325,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRp4BAABXRUJQVlA4WAoAAAAQAAAAFwAADwAAQUxQSNoAAAABkGzbtmlXK7Zt27aTml20bdu2bado2y7Ztp33Yn5BREwA/EFjEQPZn5lUr4j7mR6phOAf2jz2+JmB50vnnxmcXQl9h0RGgI30pW7mPP93oYf7K7wfkUqJCfGMqdSFc3DzENHb9KgSf4CUGhQckXAwd94Zn5RcwSyVC9gAig2tLTYAQLy3/5gFACLcCpkAAJHPz8+eAIA2qTvtAAA8LMpJ78Kfn5+3u5oaeh8Xbrbqq5NymA0T31kU54y0KomIigpIikvKK5gnGmn7igIAMgC5CHxVjhJoyOEXAVZQOCCeAAAAkAQAnQEqGAAQAD7tZKlOKaWjojAIATAdiUAKnFmhkROL2PpNJt+yZLM/1oAAAP70JT93n20zB0PztHmizZQOc5SPmfHrsSW6pxG7Q+OySlg9GlRlZY5G4gAqBquKnyso4EP/obzkmLAfBx5ENDG9r4e2MzRLxPntjryUJ7yyXdd/9sSl43N0Da5RWq4NJoXARL4Ji255vted2GgAAAA="
+   },
+   {
+    "src": "/media/p/eray-smart-eco-dr/01",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 2973,
+    "h": 1951,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-eco-dr/02",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1395,
+    "h": 1421,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-eco-dr/03",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1394,
+    "h": 1372,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   }
+  ],
+  "eray-rad-series": [
+   {
+    "src": "/media/p/eray-rad-series/00",
+    "widths": [
+     320,
+     485
+    ],
+    "w": 485,
+    "h": 348,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRtABAABXRUJQVlA4WAoAAAAQAAAAFwAAEAAAQUxQSPoAAAABgLJt2/lX+v3/z7Zt20hWY/q3eUu2PoCTt7ZkRdtes237CT9sETEB+H+1wmwjFsmcckVeem/kyiLY/tHhJbF9rsnwzL+9UGFot3V0mQKGdz9ragBaiZ5DGRZEFAn4E32ZAgjZpGsWs1eiKED/7mdDAwBEI9eqDPMfIg9AaudSB6wZd0oM3cG5JVtAcutMWUlXV0NZtogNgACME5+kwburk92rr7nBgfYGkQSYklvn8sgkzqdIZwlwKSCV60RKKyw1PkwNkDl61kIA17qgjogoBrDsbfGBC9cUWhhxYJf2isqs7Zo/nHBHxRfRUwgHp6IEIOuUmG4u/AtvVlA4ILAAAAAQBQCdASoYABEAPu1sq1EppaOiqAqpMB2JYwDA/L1DgbSIb6TbLgwv8V6cnIeNHwf4AP7HTTHyNkHJT2lRSveoNMfWdhLXgyrg75sVMNclHyhRSleqtLWXuU0oPXx0W+8BzEAUSgoqxXxAAQpc8aj+6NaKYtoh6Kpkilg/v5jm0dToQG15E1tRlkP2rVxrJC1v+fw3H/InFR1La7zYSOnq+b5XH2D3oT/NM4qP0AAAAA=="
+   },
+   {
+    "src": "/media/p/eray-rad-series/01",
+    "widths": [
+     320,
+     543
+    ],
+    "w": 543,
+    "h": 422,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-rad-series/02",
+    "widths": [
+     320,
+     549
+    ],
+    "w": 549,
+    "h": 468,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "eray-smart-5c-premium-pro": [
+   {
+    "src": "/media/p/eray-smart-5c-premium-pro/00",
+    "widths": [
+     320,
+     456
+    ],
+    "w": 456,
+    "h": 286,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRrQBAABXRUJQVlA4WAoAAAAQAAAAFwAADgAAQUxQSO4AAAABkHPbtrG92vdn27ZtW5Vt21Zn299X2zZilxmpnFS2eYL7viOJiAnAv5cIriiy5sLYjakF+BwuDscXCgLRJSXJWCVmG6Dk6m2KsFjgOtEjbLAawdFPHPtEd3kbdjYuHG3sRnHKsFPbfPx2QRC8yuGB6uAyt6Pk542WHEDw+NWnPC7ED1+8o1n/hTSI3Saq/ovfIdNMsec6Mc9B4TlRB8P/5rVUo2jWEOSfErX9xet1ewLw+cqYgtgjosa/BGStNbVSat4y9mDykeiiLtgxZ5sHnl5cu3PLWexwpWv6jhIHHgFATwDyihANAsSc8D8BVlA4IKAAAAAwBACdASoYAA8APu1iqU2ppaOiMAgBMB2JaQAD4/IaqNr4dt3IaGApAAAA/rD5rjk68N8a00WI06osi9oZePUD31YE4+Le0ra6y449VY6hspfQLq+8bhRhcMTTWDR2rpM2yS0nWlBvKMM1NdP3u/JrJIB/8ZdqJcc5KNFNN5qL4wIHgrbxZ6ma+XY4oVKlvnK5atcUTo8hq8P4w0DWAAAA"
+   },
+   {
+    "src": "/media/p/eray-smart-5c-premium-pro/01",
+    "widths": [
+     320,
+     570
+    ],
+    "w": 570,
+    "h": 321,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-5c-premium-pro/02",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1190,
+    "h": 1271,
+    "bg": "alpha",
+    "kind": "motion",
+    "lqip": null
+   }
+  ],
+  "eray-smart-5c-gold": [
+   {
+    "src": "/media/p/eray-smart-5c-gold/00",
+    "widths": [
+     320,
+     457
+    ],
+    "w": 457,
+    "h": 278,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRqQBAABXRUJQVlA4WAoAAAAQAAAAFwAADgAAQUxQSOYAAAABgLNt2/lV/f3XlDHZtm3brsl2Tbbtqcmub8DJGu3mJveE3+/3P4qICcA/6uekWXKR1NfT09NXBJw3XsZ7SwHIyMtLACEvf+sBNV8vbYx7Q7T+9DQCRNHfTjBb9QMHX59TgF5T3VJ9sxuLyoRE1uTRTgQg6Nq52K0Gq9HVMdF2Q6weD01ElMQgI8EbISI6mr2uFKGRiMIBqKzdnXbf/CGiMDBEAjB9pzuVkhemIKZoALyIVHu+0jFTJFBPRMlg7jx7ZkoDhoiojCXEWqfprqDsosUMaKupbKhiAaDiAqgKAUgDkOIiPlZQOCCYAAAA8AMAnQEqGAAPAD7tYqlNqaWjojAIATAdiWkAA+XpSlmcfg5vC87aAAD+34ejvLsqQbs38Ijy/JrukuyoiAa157ZRfoZD9N0WB27cByCAlEiWXnP25iGD1F882s3z4yGbsuKMiX8f/92T2V3Nl5+NDKjqL+v2vGeVcH+LbPVB1kehyFd1/lo8/PpOEvyCtwGs/kwhr0OioAA="
+   },
+   {
+    "src": "/media/p/eray-smart-5c-gold/01",
+    "widths": [
+     320,
+     525
+    ],
+    "w": 525,
+    "h": 347,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-5c-gold/02",
+    "widths": [
+     320,
+     570
+    ],
+    "w": 570,
+    "h": 321,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-5c-gold/03",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1190,
+    "h": 1271,
+    "bg": "alpha",
+    "kind": "motion",
+    "lqip": null
+   }
+  ],
+  "eray-smart-5c-premium": [
+   {
+    "src": "/media/p/eray-smart-5c-premium/00",
+    "widths": [
+     320,
+     360
+    ],
+    "w": 360,
+    "h": 313,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRtQBAABXRUJQVlA4WAoAAAAQAAAAFwAAFAAAQUxQSAkBAAABkHNb27HH0u/Yqmzbtp10tm076WxXtm27tEalbc97F++7nplExATAPbKb5VRnm/8Hy6mDpqiEnlGtf4p/0pI+yguOe/oMjl2Dg0N5ACCipqGhygFgtiVCK0FEnAXi+DhaPm2ATHmQBQAKEJHqJBMc4wEWbmm7vXA9KTLRXT71tZuDrdO5Cj4ymdeXrxG/r8d3J8qTJSEiPqrMn76YbxNnYgMAnXdvEZH6++P711+/fWkCdatZXFaXdRtIyBC5vHKyv+XiTJG40foQMYgbSpDUhyZVWJHECtHLFEkSjVHqKxJbE6hRz28fXv1m+q5BwOMhysXNeYifnn74+H5YkIDZKF1FWFJaAu4TAFZQOCCkAAAAMAUAnQEqGAAVAD7tbKpRKaWjoqgKqTAdiWcAA+K5G/zWdhA+iegbvfOjHNTYtqX4CwAA/rQA80d2G7F9KYn0YPjcJX5UpRL80QY23vuPS7rPKFXX+sF5s69ZNjZoLGU5gUuyhPptlVZigeErFXzxwfh8Wxxr6Z71KZI/trCU/z/E4sGRwo4MKhsXBYfPqu1tSnejaaDfpxijt0YZEW3iCbyHAAA="
+   },
+   {
+    "src": "/media/p/eray-smart-5c-premium/01",
+    "widths": [
+     320,
+     542
+    ],
+    "w": 542,
+    "h": 339,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-smart-5c-premium/02",
+    "widths": [
+     320,
+     447
+    ],
+    "w": 447,
+    "h": 477,
+    "bg": "alpha",
+    "kind": "motion",
+    "lqip": null
+   }
+  ],
+  "eray-gold-100": [
+   {
+    "src": "/media/p/eray-gold-100/00",
+    "widths": [
+     320,
+     478
+    ],
+    "w": 478,
+    "h": 516,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4WAoAAAAQAAAAFQAAFwAAQUxQSFQAAAABYBPZtpNXYQAXIAFE4OAnE1D+TM6uUIGSHDvKiJgA+NZJqrKsjPskWk7jKx8jhNB0NjOEEPYA0uXFHkC/0f5L+RsjQJhVmU2rynJRlFWpi0IF8DZWUDggZgAAAHAEAJ0BKhYAGAA+7W6sUSmmJCKoCqkwHYlnAMPoEFx8/lDZffNAODB1TJgAAP53PKbEViRBciAQTznaHBo54nYXfNc7QrEO8qzRJ/ZXvt2i26zj2cDWx/yv2Qz3V3svvc4T1YAAAA=="
+   },
+   {
+    "src": "/media/p/eray-gold-100/01",
+    "widths": [
+     320,
+     407
+    ],
+    "w": 407,
+    "h": 496,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-gold-100/02",
+    "widths": [
+     320,
+     498
+    ],
+    "w": 498,
+    "h": 427,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-gold-100/03",
+    "widths": [
+     320,
+     505
+    ],
+    "w": 505,
+    "h": 547,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-gold-100/04",
+    "widths": [
+     320,
+     483
+    ],
+    "w": 483,
+    "h": 414,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "eray-gold-breakfree": [
+   {
+    "src": "/media/p/eray-gold-breakfree/00",
+    "widths": [
+     320,
+     546
+    ],
+    "w": 546,
+    "h": 470,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4WAoAAAAQAAAAFwAAFAAAQUxQSEEAAAABYGLbtpLzkXGxiCTXEUBy6Tpu4r+JHBETgN4tzvexfK/Kg/STxnBoNth+3yQbZYtsks2ySbNDq4nAD7rBug8NegBWUDggRAAAABADAJ0BKhgAFQA+7W6vUimmJCKoCAEwHYllAL/sGHxfAAD+7XXF4rlQ248xzZUXST9W3sTOFGlgOREa4UMwrI2AAAAA"
+   },
+   {
+    "src": "/media/p/eray-gold-breakfree/01",
+    "widths": [
+     320,
+     570
+    ],
+    "w": 570,
+    "h": 227,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   }
+  ],
+  "trimax-dr": [
+   {
+    "src": "/media/p/trimax-dr/00",
+    "widths": [
+     320,
+     458
+    ],
+    "w": 458,
+    "h": 492,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4WAoAAAAQAAAAFQAAFwAAQUxQSDkAAAABT6CgbRs22HYbqw9qERFIHoPOh5pIkqJ7gfC8YAEBSDk7CN4NiSP6PwHC1sbaD69LjK9rYtXBJiwAVlA4IC4AAADwAgCdASoWABgAPu1wsFIppiSiqAgBMB2JaQAAPa7BwAD+6zstXb4xXzkwAAAA"
+   },
+   {
+    "src": "/media/p/trimax-dr/01",
+    "widths": [
+     320,
+     640,
+     720
+    ],
+    "w": 720,
+    "h": 720,
+    "bg": "white",
+    "kind": "in-use",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-dr/02",
+    "widths": [
+     320,
+     589
+    ],
+    "w": 589,
+    "h": 500,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-dr/03",
+    "widths": [
+     320,
+     640,
+     706
+    ],
+    "w": 706,
+    "h": 622,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   }
+  ],
+  "eray-igzo": [
+   {
+    "src": "/media/p/eray-igzo/00",
+    "widths": [
+     320,
+     428
+    ],
+    "w": 428,
+    "h": 524,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRkABAABXRUJQVlA4WAoAAAAQAAAAEwAAFwAAQUxQSKIAAAANgFxt2/Ho+f2v8qeArGzbRo8pYVCCjZ3tvT3z/t/4CxqIiAlAfwPtja1rrnY3aT2ZWtx9+pcFsCXqWW1zauXw4w8mAIBkz9Sj5urU+sUPU/zxU/cU6u6bmd4lPuS/fhrh6t4YNHCLJpjAxdDnd6UfJPVDRD+Fvqh8+gv6KH/0Y+QFPolwa/zBiIje30kBxhaM26fHp+en1w8ixgAZuJq8BTdWUDggeAAAADAEAJ0BKhQAGAA+2V6jTagloyI3+qgBABsJQBjPsWRWZnyue67oWyUPgAD+quqKoscBU8eEqs1TkfDOc4xhiadHYiBMOG5LB6sk7ilr+Frl5hgZuNTh2/Vj2nKK+oIXWQVgX19WyiWt2fkBPQpJKywojGecyUAAAA=="
+   },
+   {
+    "src": "/media/p/eray-igzo/01",
+    "widths": [
+     320,
+     411
+    ],
+    "w": 411,
+    "h": 502,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-igzo/02",
+    "widths": [
+     320,
+     449
+    ],
+    "w": 449,
+    "h": 435,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-igzo/03",
+    "widths": [
+     320,
+     562
+    ],
+    "w": 562,
+    "h": 148,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   }
+  ],
+  "trimax-cr": [
+   {
+    "src": "/media/p/trimax-cr/00",
+    "widths": [
+     320,
+     418
+    ],
+    "w": 418,
+    "h": 319,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4WAoAAAAQAAAAFwAAEQAAQUxQSK4AAAABgKtt+/nmjW07OQC72LrZu7V2t80zwKrR7dirs+3Ndhsnv5xBREwAUi0qaGgaGWuty1InwSgJxr2ZkcRzDi9vXcULBuetsTLfg8m+DisB0Iaaq8prF34TeXk8MgKsvsXJ5srBj0Qe/oM1QPZmkGQv0BEkOgI0kWkHishUAcJdEn8+AFMkzvgALNPfyfUhpm/i4Dexa10sgOusnlg/eYy14UGSXH2grHFgqFaClAJWUDggcgAAAJADAJ0BKhgAEgA+7WaqTamlpCIwCAEwHYlpAABSnshUy26BI8AA/uc/YnkJRNJvfZY+l5uBDMpz9I0BOq0iK3+Sn1bYVMRg/66lcxkOgMUfSZVmGaVAR5TT9/az//+JulH1EKEQa9dK/Z6CZ2vooGBAAA=="
+   },
+   {
+    "src": "/media/p/trimax-cr/01",
+    "widths": [
+     320,
+     526
+    ],
+    "w": 526,
+    "h": 246,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-cr/02",
+    "widths": [
+     320,
+     350
+    ],
+    "w": 350,
+    "h": 362,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-cr/03",
+    "widths": [
+     320,
+     519
+    ],
+    "w": 519,
+    "h": 342,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-cr/04",
+    "widths": [
+     320,
+     372
+    ],
+    "w": 372,
+    "h": 226,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "eray-firecr-spark": [
+   {
+    "src": "/media/p/eray-firecr-spark/00",
+    "widths": [
+     310
+    ],
+    "w": 310,
+    "h": 534,
+    "bg": "white",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoOABgAPu1kqk4ppaQiMAgBMB2JZwAAW33hiuZSc5x0ygAA/uuwgObISWLUXOqVWb3eY2JdzHMNeCUdVRqJvctaFhza2zaPyo6wuqJaQPAAAA=="
+   }
+  ],
+  "trimax-tx55": [
+   {
+    "src": "/media/p/trimax-tx55/00",
+    "widths": [
+     320,
+     499
+    ],
+    "w": 499,
+    "h": 515,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRlYBAABXRUJQVlA4WAoAAAAQAAAAFgAAFwAAQUxQSI4AAAABgJtt27Hn/ktP8NesrRls27ZtRHO4zCbZICmdlMbzbRAREwAG1cX6YDQajaa76Wg00vwivnv/+21X9sPp+7/v5QCEj/97v2IBznfCNxGwpXivAsckJ8ARyRGwJFkBM5IZAz2SPtAmaQNNqjxJjSrPQIwkAYRJIoCbJAFYCG6uDYAg60z/Hvf7LEY/GwwCVlA4IKIAAAAQBQCdASoXABgAPu1qqFAppiOiqA1RMB2JaQAAI7kgXalyBT2pwhwK/1sJWG40geHgAP5YeJMQ7mSlvd+x/Qj1QJlcbf4dNl0CC/TK9Q1Xw6vDl67aXM2z+T7xfFNgdJk6DqB1KWo0gHP+cxvx8/chifoDGZWJhNaHPgEL6JyAmDBoHW8sVDX65pqPgAeternAwhbmClfn48oDEoTBwTR4EAA="
+   },
+   {
+    "src": "/media/p/trimax-tx55/01",
+    "widths": [
+     320,
+     424
+    ],
+    "w": 424,
+    "h": 435,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "trimax-tx40": [
+   {
+    "src": "/media/p/trimax-tx40/00",
+    "widths": [
+     320,
+     640,
+     932
+    ],
+    "w": 932,
+    "h": 762,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": "data:image/webp;base64,UklGRlABAABXRUJQVlA4WAoAAAAQAAAAFwAAEwAAQUxQSJcAAAABgGNt2/HoOSeVu5TJElTZdirbtu0sI2uYbjbj3rU982YHETEBOCY3GE2k8qVaq9sfjMYT6S+Mw/s/z/Q/ed///Vr84eR/77cCAPwbgvctAPs75TUPmJC8u4AtTQnY0FSBNU0TWNF0gCVNF5jTDIApzRgY08yACc0eyL8+vvzn5enUCTB9QpFOJbOqtA6VxaF2mpUyP44JAFZQOCCSAAAAsAQAnQEqGAAUAD7taqxRKaWkIqgKqTAdiWcAyrQKLLNXCMpAH/sUYZYblzgFAAD8de8ohmnjI+qSBgBkFebBHPXvGoNa1dfZayJDXJUHX5ac+//usHrOBAlQzgiw8haXEdjaYivyqEU2I8s08DFZCL3/roRX6SRXbH/z3pcm0DWqUb74zEFwjrod1ROruD7fQAA="
+   },
+   {
+    "src": "/media/p/trimax-tx40/01",
+    "widths": [
+     320,
+     640,
+     832
+    ],
+    "w": 832,
+    "h": 811,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-tx40/02",
+    "widths": [
+     320,
+     640,
+     857
+    ],
+    "w": 857,
+    "h": 773,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-tx40/03",
+    "widths": [
+     320,
+     640,
+     813
+    ],
+    "w": 813,
+    "h": 817,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-tx40/04",
+    "widths": [
+     320,
+     480
+    ],
+    "w": 480,
+    "h": 432,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "trimax-tx65": [
+   {
+    "src": "/media/p/trimax-tx65/00",
+    "widths": [
+     320,
+     640,
+     780
+    ],
+    "w": 780,
+    "h": 1276,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4WAoAAAAQAAAADgAAFwAAQUxQSGkAAAABcGLb1rIc3C25W3UbCxOgujtTJP3rb2jS5pD+j0aOiAngZ0u9WU2HzQZDqqYBvLfvd7eWJemwNQPu41dxYwV8VyXZBVQeSs9VDMZf0TbMhGYwFZr+ZTNYijx7kGm1Wq12fzyZ9As2fgYAVlA4IHIAAAAQBACdASoPABgAPu1iqk4ppaQiMAgBMB2JaQAD5Gn1v7s8J9i75X9HAAD+aVyr9scG8UobpvA1UP46C1Gq5AL/y/ESMj0upmBwefHgw51fLh+yc//ceUa0vD6x9Yp35rgnLzor9vzZ/xRDaTBxQIp6jgA="
+   },
+   {
+    "src": "/media/p/trimax-tx65/01",
+    "widths": [
+     320,
+     629
+    ],
+    "w": 629,
+    "h": 886,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-tx65/02",
+    "widths": [
+     313
+    ],
+    "w": 313,
+    "h": 513,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "eray-thermal-printer": [
+   {
+    "src": "/media/p/eray-thermal-printer/00",
+    "widths": [
+     320,
+     490
+    ],
+    "w": 490,
+    "h": 422,
+    "bg": "white",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwBACdASoYABUAPu1srVCppaQiqAqpMB2JZwAALtfcuNdIMP3yjsiYN6W7tkAAAP7x9NStQc4dkC3Ecq7sq9FUyZvJJrDYB7n9BsdUT7qs2uKG2QhNpYO+K+X/BLv9DDNyIvvrvq2w/IKlo0c44AAA"
+   }
+  ],
+  "eray-inkjet-printer": [
+   {
+    "src": "/media/p/eray-inkjet-printer/00",
+    "widths": [
+     299
+    ],
+    "w": 299,
+    "h": 249,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRnwBAABXRUJQVlA4WAoAAAAQAAAAFwAAEwAAQUxQSLIAAAABgGtb2zHnGXsmtjpV6VTZtiubnSvnCpx+ynTp7FRJbXY2f6/3mzuIiAmAiy0hMbWhpICu+dWTZ44bISVw8vsaivVC7jOSEn8tx/VQCjjFQzsh7E2BKyJYr5RW6svSsryVojaUZM/rzDI5738Ejlt1SFo4hhNBAKpZcLtaoITJkQbIZvG/ASCaxX2/CdD3vZLettvsAJB/vL60tTw9OuO847hrZ0O4CvIGHTSQ+qSkeMDVVlA4IKQAAADwBACdASoYABQAPu1wr1IppiQiqAgBMB2JQBidP/xaw4pG7bA/zNy0WqtgoKi6zTAA/hRxRItvOGpbniQulxos/zl4+dUQlle5tTHs6nmaQXJ2kdqP4+SsqvuzftB2wYap90jzTahSc6XtafWqf+hk/bjGVCjcx7Yf2ijzd/ax7aCET9/SPmDqNR4rjItdU5prj3haxZ9WisvN0Fq+8Ph0AAAAAA=="
+   }
+  ],
+  "trimax-digital-films": [
+   {
+    "src": "/media/p/trimax-digital-films/00",
+    "widths": [
+     320,
+     519
+    ],
+    "w": 519,
+    "h": 342,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4WAoAAAAQAAAAFwAADwAAQUxQSIkAAAABcFpr25u8NFU34KB67xrZURmAE0fxzbMAigVyfokiOzADFgVx9Jae//8zQURMANxYHzdZBPr7j/oiTZqoeFAtX6TpJLY6qg5fpGHhqW8vKuVLKgNo/VSGPwEIbljICQBYUykzHyyXFHIG9rOvg/PEB6ejp80uCUrhajqJHlC3FVWV4mCZmw/hSgBWUDggKgAAALACAJ0BKhgAEAA+7WKpTamlpCIwCAEwHYlpAAB7IAD+8BXScvwoYAAQAA=="
+   },
+   {
+    "src": "/media/p/trimax-digital-films/01",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1036,
+    "h": 682,
+    "bg": "white",
+    "kind": "packaging",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-digital-films/02",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1052,
+    "h": 872,
+    "bg": "white",
+    "kind": "packaging",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/trimax-digital-films/03",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1059,
+    "h": 546,
+    "bg": "white",
+    "kind": "packaging",
+    "lqip": null
+   }
+  ],
+  "eray-medical-films": [
+   {
+    "src": "/media/p/eray-medical-films/00",
+    "widths": [
+     320,
+     360
+    ],
+    "w": 360,
+    "h": 418,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4WAoAAAAQAAAAFAAAFwAAQUxQSE8AAAABZ2AgbdvgWl37L+sRETktgPhgSFt7mw8hCBMiAAEIQiw2wOhEKEgQqrVbgIj+TwDOEn0ose2HHfZofC7D3GRfNJ4z/7IedVDnnCulFIXTAFZQOCBKAAAAsAMAnQEqFQAYAD7tZKlNqaWkIjAIATAdiWkAAHrb+Sl+upe9WAAA/u/U8AhLwkRsafHdoQdqCdH/RvFLva9Dbt1TbgKwF1CcAAA="
+   },
+   {
+    "src": "/media/p/eray-medical-films/01",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1110,
+    "h": 795,
+    "bg": "white",
+    "kind": "packaging",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-medical-films/02",
+    "widths": [
+     320,
+     640,
+     679
+    ],
+    "w": 679,
+    "h": 826,
+    "bg": "white",
+    "kind": "packaging",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/eray-medical-films/03",
+    "widths": [
+     320,
+     640,
+     764
+    ],
+    "w": 764,
+    "h": 864,
+    "bg": "white",
+    "kind": "packaging",
+    "lqip": null
+   }
+  ],
+  "eray-inkjet-films": [
+   {
+    "src": "/media/p/eray-inkjet-films/00",
+    "widths": [
+     320,
+     476
+    ],
+    "w": 476,
+    "h": 541,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAFAAAFwAAQUxQSGQBAAANkHNt2yHJ0u9y1di2PbO2bWQTbbShkdu2c9u2bXtsq2p71IqICcDNfkGat6xriqLphq7rNaXl7wqYtbh2vVlQEbUEu36hwScOoUhVBeOKQr8VJNoB2qFdUC8eDm8xLy7t6wAQEFqtWhsVC/PzRUcGCO14NlK+oHx2eopiRwArbvybwLjQyG3lkxemgWICmAOm7gyur/9s/gxU40Ft66aIB/t8eNciiy95MRaa6S4f/ZUSlqVa7zSPbf2isdmheWZGdVWZllh34dfajWJ7Nwue/bAabK2aACdubAmpA2ztxBt/32J//+EpAMJ/PvwL9kazWgAeVYBA8PYVhWGh7QUt1Xa6G0jj5oy/W4WTQjsCEDN2G4B/kxFe3Cv+cAN2Rz1rzOtTpmDGjT/z5jJI3RKPVx7+LL/55vvigCUCx4eGgBQbk7bmq2/yx3/YfbxuXwiNRZ/e92vC2Ydrkj4WC7j89CEuA1ZQOCDiAAAA8AQAnQEqFQAYAD7taq1RKaWkIqgKqTAdiWwAnS/nuCJACi6ChKUlYKTBidrVG8pAANxS/YcjdmOetvrqL88Xl/BZ1nc82pe1LmUYHdCgFDHjmwwjm3itNNSNzSnJ7Ut02+rKcTf/wbP5a0hP/aI/ij/Tef/+7WFIUj0KlkvY55aH7zNS8hEPae5CR9dP3aLNDGhGJ8cxtH96YOlw3U3KW9NEq7/ZSuhn4bGBA3TKmPCxJwoxDa6ujS0u8PM1/+XYApMttiJF/6Ab1rd9wd+3h9QGzEVYHifFJfWu6uRjKAAAAA=="
+   },
+   {
+    "src": "/media/p/eray-inkjet-films/01",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1050,
+    "h": 1192,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": null
+   }
+  ],
+  "sony-upp-110s": [
+   {
+    "src": "/media/p/sony-upp-110s/00",
+    "widths": [
+     320,
+     493
+    ],
+    "w": 493,
+    "h": 380,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": "data:image/webp;base64,UklGRo4BAABXRUJQVlA4WAoAAAAQAAAAFwAAEgAAQUxQSMQAAAANgFvbtmplXfluuLtDSGgxvwI0gowSKIGUFuiDQeSWubu7wxP8XjqIiAngP1VfUut3x0VIqfTT7Zk39QjZPWmAgFb8GE3luf0n0NmOuYrdwVKTBVm9Dht5STNaJrCcHn+h2LdRF1ukAZuifIeVkaFSo53BIMwsDASNEu4NkHzDOFudASksvgLU+Bacb7VYDL0C+TZKDoCdjIxvnvPmhULAi9ZVW8DocPP1qXQ9x0GGc/IPT1RtB4B/NAYe359vL07hdRkAVlA4IKQAAACQBACdASoYABMAPu1sqlEppaOiqAqpMB2JZQ22AAEpVOUdvAq3gGFqWBvaBAAA/tWdaEaitpQUb+/jVqOld7bZvuHzzQmKOCvgg5SqehGrd8knZLw3t/emlINvSNK3ZgdWhiQ9mHhE6Ku/TYwtRBhY8t8LWsPml8/d5xq7H396QkApNzmSUfPfOqG6Gd1X/qHThlaqBNLMJv/ar6nW0juwBzMAAA=="
+   },
+   {
+    "src": "/media/p/sony-upp-110s/01",
+    "widths": [
+     320,
+     640,
+     872
+    ],
+    "w": 872,
+    "h": 610,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/sony-upp-110s/02",
+    "widths": [
+     320,
+     640,
+     810
+    ],
+    "w": 810,
+    "h": 627,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": null
+   }
+  ],
+  "sony-upp-110hg": [
+   {
+    "src": "/media/p/sony-upp-110hg/00",
+    "widths": [
+     320,
+     482
+    ],
+    "w": 482,
+    "h": 347,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": "data:image/webp;base64,UklGRlwBAABXRUJQVlA4WAoAAAAQAAAAFwAAEAAAQUxQSKkAAAABgGRt2/HmiZ2M7NS2PbLNGaZdQKaddR9dQjdh27YV69e7hIiYANBLevQobmyoqaqqrCgvr6isKC1IgwgwPO/O+2O8o+GzuRQg/T9G+G0EbG8UGxIgL0ixBGAyRrkiAgbDFDsSQFLlWxQUHJOC2SPIv5DD0i8oFitn8RG0MRRbBNMM1z/BLKPm7uj61+8PhqNc4RmG1qjUp6Rn5OQXl1fUNTV3Dk81ShjEAFZQOCCMAAAAEAQAnQEqGAARAD7tZqtPqaUjojAYCAEwHYliAK4cDJuA58GizAXqHoAA9liK7q/IeLFKT1vuuVrJHITjgifwybfGOJsgwUQcBFGT0Uw/4JQ9ggCe9KCYlr8hTQf75vAqS/gqHHgb6CV47PLQM24wqMCG8L/gOn4ROtVSac934d/RP1+onS8KVZ2AAAA="
+   },
+   {
+    "src": "/media/p/sony-upp-110hg/01",
+    "widths": [
+     320,
+     640,
+     929
+    ],
+    "w": 929,
+    "h": 676,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/sony-upp-110hg/02",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 985,
+    "h": 708,
+    "bg": "alpha",
+    "kind": "packaging",
+    "lqip": null
+   }
+  ],
+  "pacs-ris": [
+   {
+    "src": "/media/p/pacs-ris/00",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "photo",
+    "kind": "screen",
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACwBACdASoYABgAPu1qqVAppiOiqA1RMB2JaQAALnEKun2fYTQfxnXX1/lhI1ZAAP7zcC5y1xZKYbO/Op9o8/r4H43fYlrHUdQany1TdG7nijY9RoiBcfQOeaetjvbuY6gmZljMPX3nr+s11et6IpfH3jViZL/6JaBkR//ak9Z+hB9IgjAAAA=="
+   },
+   {
+    "src": "/media/p/pacs-ris/01",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "white",
+    "kind": "screen",
+    "lqip": null
+   }
+  ],
+  "image-acquisition-software": [
+   {
+    "src": "/media/p/image-acquisition-software/00",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "photo",
+    "kind": "screen",
+    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACwBACdASoYABgAPu1gp06ppSMiMBgMATAdiWoAuwAQ67GWc7ioy31xsrYUavEgAP7zcC7dvbFh+i/KEpbK2SbyiDOjGG9mjAzVN8+XKmhd7B0lWSavgwKn4xFuxU0Vb8gP5/3+n4Pxy8HK/REIH+aoqoN8vRK/mjTIU7eAAAA="
+   }
+  ],
+  "ai-radiology": [
+   {
+    "src": "/media/p/ai-radiology/00",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "white",
+    "kind": "logo",
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYABgAPu1qqk8ppiOiMBgIATAdiWcAyrWK0m+1Rd5weAPWTAAA/vNp7EJSc+X1n7qDr9/kLexTSmy9/HGP2LDPGjfJvWnJyi0sWcsa1q5nDOJ7mLLjsVQrfHtMZtZPvWudfh4WFxMMTuTHi8qO7g56GY417IRm8AQxyx3EzAAAAA=="
+   },
+   {
+    "src": "/media/p/ai-radiology/01",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "white",
+    "kind": "logo",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/ai-radiology/02",
+    "widths": [
+     320,
+     500
+    ],
+    "w": 500,
+    "h": 500,
+    "bg": "photo",
+    "kind": "logo",
+    "lqip": null
+   }
+  ],
+  "tables-accessories": [
+   {
+    "src": "/media/p/tables-accessories/00",
+    "widths": [
+     320,
+     555
+    ],
+    "w": 555,
+    "h": 312,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRnYBAABXRUJQVlA4WAoAAAAQAAAAFwAADQAAQUxQSNYAAAABgLtt2/FV+v3Lnmzbtl2T7c227Vqbml1To23brq3ReHJvREwA2POmmDPivo5EfJY9A7O7fvEjamVQSmS2SLU/yXTODvd1tJVLAH7PJxob1PKTaGLDERHtywH8JwHqTzTyE4B8oh4hALzH3uZEO8K/2Ay83IYAAP+RuzXRgXdde3NFQbRV8tDBbEKoGMB/6OhAtJLxRETUzb9K3zUBvmOn0OPDuTb6PoiJ843do3sdQPw0jUdIQND/7VuvQKKaqq4lFQN8yjIAIGZk5eIRZA8AfM6FLmAPVlA4IHoAAADwAwCdASoYAA4APu1iqU2ppaQiMAgBMB2JQBYhjgBOxojfVNOAlAZgAP6xrIIn1VaLQhQmJDJqVh4cEX2OOm+vvODhxQufvOrm+jNFQ/6MAm+ntzntaVFSyFySC/yIzIjogoJr/0AlUCx1Zw994G5poGseFEIFbAAAAA=="
+   },
+   {
+    "src": "/media/p/tables-accessories/01",
+    "widths": [
+     320,
+     543
+    ],
+    "w": 543,
+    "h": 333,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/tables-accessories/02",
+    "widths": [
+     320,
+     551
+    ],
+    "w": 551,
+    "h": 242,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/tables-accessories/03",
+    "widths": [
+     320,
+     533
+    ],
+    "w": 533,
+    "h": 328,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/tables-accessories/04",
+    "widths": [
+     320,
+     534
+    ],
+    "w": 534,
+    "h": 315,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/tables-accessories/05",
+    "widths": [
+     177
+    ],
+    "w": 177,
+    "h": 501,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/tables-accessories/06",
+    "widths": [
+     232
+    ],
+    "w": 232,
+    "h": 463,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": null
+   }
+  ],
+  "protection-barrier": [
+   {
+    "src": "/media/p/protection-barrier/00",
+    "widths": [
+     320,
+     355
+    ],
+    "w": 355,
+    "h": 452,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRggBAABXRUJQVlA4WAoAAAAQAAAAEgAAFwAAQUxQSIYAAAABgGRt2/HmiW1nN3aGtpOh7UzVdgNeSFdhj2zM3X7/STcQERMAannGUrU1Ho1G48lsnNQCMOy8//0yAeTfSVeAINEI8BMNqZguyJCK/v8ZUNECPERFwElUWhwXUQGQrxJs6wEgsv90cn5xcXFx83a3JcaP8mWJSCaTyZTeLH43M/Gj0vIHUlZQOCBcAAAAcAQAnQEqEwAYAD7taqpPKaYjojAYCAEwHYlpAAApyK0AfxfFrtzUslRIKAAA/KptpkRlqiG/ah6WFWgH2lfT4NvIXiLrS+OgK12sFVDVBRAeXKgoN2G821SYAAA="
+   }
+  ],
+  "detector-stand": [
+   {
+    "src": "/media/p/detector-stand/00",
+    "widths": [
+     248
+    ],
+    "w": 248,
+    "h": 448,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4WAoAAAAQAAAADAAAFwAAQUxQSKYAAAABgJtt27Hn/m3bre0/qWzbNjp3f5VdsoDXyDdBrBX06sgGETEBEPVPLjbO19fGlMTEN/XDQozRHv5tgvZKaZXuX74k6c5AyNSq5kWVWgnm2aUcbF3jIsaRnT+a5pgobEzbGbpd32GpnxFvU81o5mW0AQ+60BOhqKdlKMvDg5ToGFDTyw50RFsQsClQTQJQjMpBWkYABFpAH7QAfVFGtgdI6hjGJggCVlA4IHgAAACQAwCdASoNABgAPu1kqU2ppaQiMAgBMB2JaQAD5XF6EievDxIAAP7MChuYw8NXq1CGAlLJqj9DnTl/ehqVSnEIK30wCEwnQDqMQGw4oey9gbWMP/LGGGeTioujLHOvL//32dNQfhsFz7W56fnRbjvpGkjVoH0AAAA="
+   }
+  ],
+  "xray-carry-bag": [
+   {
+    "src": "/media/p/xray-carry-bag/00",
+    "widths": [
+     320,
+     355
+    ],
+    "w": 355,
+    "h": 460,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRnABAABXRUJQVlA4WAoAAAAQAAAAEgAAFwAAQUxQSJgAAAABgGNt2zHnGau00XmmZ2fPVDbq2EnFRXgVOVmBbe4gJ5XtfIMNRMQEoPF0FwPcrOwvnlarW/xYmdn92Msn/EYKQFu6vX38+OdjBOBffxB2AZYbkg6AtU/SCdAOSEYA1mkDOJckne3T0Yh6IyqNSDYi3Ag3wDwmsQHUbYJnA0DZILhXA8zll/9diQBwrPn+8bGp6Z8jcTEaC1ZQOCCyAAAAsAQAnQEqEwAYAD7taq5QqaWkIqgKqTAdiWoAqPQPg67SFpS3HwN57NCac57QAAD+2WAQ4hbehlMv0X/mvow9jWNGHdVe3vVhYGbvevWLsjUAbzPhVRMzRgW/+3Llam7G/wnsrBTXx/XO6rLe3E8HndXvaqr3p4YIBKfzTsjjvbtwa5UiXxaotdIRFIalevqE39/Vq/FRmSqILdG/T1G/qqcFSZo7Xs3GF029AJANp8gAAA=="
+   }
+  ],
+  "digital-intraoral-sensor": [
+   {
+    "src": "/media/p/digital-intraoral-sensor/00",
+    "widths": [
+     320,
+     538
+    ],
+    "w": 538,
+    "h": 535,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRlYCAABXRUJQVlA4WAoAAAAQAAAAFwAAFwAAQUxQSCABAAABkCvbtmlb49q2bdu27cx+tm3byGzbiGzbkf3eCDbrfUFETAD+z8yBPqoYz/vDp24qhJ0nyX3aigLfU3SYoi6Kf01UEvpFjDctFGCABNdoy9DsWOqssUvip4uU4zbyqI7jM5E3TZoSXvdJchyKfpP8mwrpKgq/p2E2/0w/tlUDzvUi5pcFvGdjMLsUnh+7tI4uFkHUJwFXQ1j3bjubxdAn+NAsgrNcqglYdpgDmjvIvwMh2vfn9ywAlTxUAjheXlR2x1nQzX35X4sB7Uv8nQfoAZMOaAIDedwc4xYC2Eg+dwcAndPDMJpHLACDZADOD8mj+gDgcXkTd5pAOuUrOVFgeo6r9SC3m7wAaMTc+nt1lZYsdE1pBAx6ZhabjbaXpypWUDggEAEAADAGAJ0BKhgAGAA+7WinTammoyIwGAwBMB2JaADNCUBfAG8MleB7TXpqQcY8PJfDOPlWjwT5aZivfAAA/vtoxdhboKqALa3Uvu1Z78fXcO+hGizkkfU55MfpjgNabiVkrzmhaIM8Zl6ZcJrBxqFxIVeUxT3Chyln9YJI6WoDHk2Av4kdleGDqW6Ob3tIHBO4wuHIEqZdyC13YBf9SL/J/MoOF843/wb2MFj1RKQt9d0BQDD9ZBxqbNkvGtL5uj30+8VT+djojxi0yZq6oN5hgZLfQV6leh83jXtPZ6ndLyvqlFvu6sX4M19Pp9/4BsvesflxcfwSYZIZ+oU04yDXCgC/1TDMn7m9/r3lhYllrIAA"
+   }
+  ],
+  "ai-optics-vision-screener": [
+   {
+    "src": "/media/p/ai-optics-vision-screener/00",
+    "widths": [
+     320,
+     570
+    ],
+    "w": 570,
+    "h": 413,
+    "bg": "alpha",
+    "kind": "studio",
+    "lqip": "data:image/webp;base64,UklGRo4BAABXRUJQVlA4WAoAAAAQAAAAFwAAEAAAQUxQSOcAAAABuS5E9D8ccKttW558XxLc3R1G8AWciino6ZmCHbyTLdypoAqdu8V9gvvN+0vEBEyASQGWqFStVr0mfqtH+8LS9FvitGjmF+tUq1AKYNGuVNaaOWQcNYLUU6aRudUrzYqgLHiQJDpqnpHtsyQCiiWyekfQP0OkhJH1hxJioO6qdXVu3SvRZUATK9WVA2V+GATU+rCsyo9Kvt/EHTKoA86pPTvCotTAinDulCDEw6NMjQZcu/EiSv9hID8+BAVYIhAV8e/XD8MiKkIV1LFESFZVFY1QVAEVLFKBoigKEPHHIoOUSrJGkFsAVlA4IIAAAAAwBACdASoYABEAPu1qr1CppiQiqAqpMB2JaQAAKcDZaKkSKGm6tIZZxgAA/FlGoAfPg0+FI7cecfLjtfVjsxTKt46fEmTBB6Xf0HDfUOrCSWEL/5QDvWCeyI589TWMCCnwGGorZiG7LRe0US83lh2O6hhIziIT9YPTGD7+S2AAAA=="
+   },
+   {
+    "src": "/media/p/ai-optics-vision-screener/01",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1103,
+    "h": 867,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/ai-optics-vision-screener/02",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1000,
+    "h": 1000,
+    "bg": "white",
+    "kind": "in-use",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/ai-optics-vision-screener/03",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1140,
+    "h": 810,
+    "bg": "alpha",
+    "kind": "angle",
+    "lqip": null
+   },
+   {
+    "src": "/media/p/ai-optics-vision-screener/04",
+    "widths": [
+     320,
+     640,
+     960
+    ],
+    "w": 1140,
+    "h": 724,
+    "bg": "alpha",
+    "kind": "detail",
+    "lqip": null
+   }
+  ]
+ },
+ "site": {
+  "lab": {
+   "src": "/media/s/lab",
+   "widths": [
+    640,
+    1280,
+    1500
+   ],
+   "w": 1500,
+   "h": 844,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoYAA4APu1iqU2ppaQiMAgBMB2JZgCdAA7HNmXD4QC97MIAANuHBSyBVdo02phtZaEmwR/hnXDX5rzfZqDVr00qsnzo6SZJJ1Jki/t1JC6xu8N1S0snEHtBTh0V97UuoLtFb36ZTpCuVm7pMj9WRd8wiAXXRv3lDKQZnGAoZGwLboAA"
+  },
+  "team": {
+   "src": "/media/s/team",
+   "widths": [
+    500
+   ],
+   "w": 500,
+   "h": 536,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASoWABgAPu1qq08ppiOiMBgIATAdiWcAy6QQ7+/sU+qOH4LrE75dFAAA/u52XBpDuiI4AJe8dEwPQLru0mMsIzChG/zqo+uBlWCuLmcfxQr31fw0IixNFenH3ij9TMwOwAAAAA=="
+  },
+  "clinicians": {
+   "src": "/media/s/clinicians",
+   "widths": [
+    685
+   ],
+   "w": 685,
+   "h": 503,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACwBQCdASoYABIAPu1srlIppaQiqAgBMB2JQBkWaxygAybQcNX3ztBSzVv8bGislOdQAWZsoAAA/vHP6oJD/dyKR4j0Mdfx7Dtlzt9ie6u9mMMl5SSYKvk6o5MWhkuF86Y61KNrTLYr98StBUnJQ7n63q33XqC2RQx1jMZwMoz8ex315tIfpx0PeMn2Qy40DRQAkEUn0eeWNweWQqa8CCQ1LQuCZz3ZpgY7spyvAH1sXJ9bjtIS0PCK0Ezg4AAA"
+  },
+  "workspace": {
+   "src": "/media/s/workspace",
+   "widths": [
+    500
+   ],
+   "w": 500,
+   "h": 450,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAABwBwCdASoYABYAPu1qrlCppaQiqAqpMB2JbACdMoS2B0EEAliveYkbctbSN/uGfr7B/LUC/rzqlg5b//4jj/ScyysaAAD+wOVUEcQNznsopUHq4FBsQxGSqznBqhrKs84qcQwAyG/nkY3txsYa+HWeVWmKDABr50sbj5xQuJlRylf7QSnnHKL8FI6fSiTlGEb74EmDnlFSFIG87kqTOddo6nKPeYKdMsM06XN0wW/yovcy9f2zzT/SHzEMkdFOw0Ia+bG9daoPth+SktqcgTm7LASwEtW0qK9vxC+o+PxoHyES69S3eLkr1Z8/DghnpqUYZ3hwUDfAljm263gU1ztf+i86gdfoKrDr2SVkv0MAAA=="
+  },
+  "hites-300": {
+   "src": "/media/s/hites-300",
+   "widths": [
+    640,
+    1280,
+    1599
+   ],
+   "w": 1599,
+   "h": 700,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQBACdASoYAAsAPu1iqU2ppaQiMAgBMB2JbACdMoR4GCHvRhn+NoGaLCnS0FAA/UnFXHBoZYKFU1wKqs9wcweBUmtF9cVEDCUVeuurfBNfhkcIUb/HQerZWR/Ayqp/qR4+Cegut/IAPob+dbL8drX4kPIVcgjetBJNe58lGijCBKKHqA/WLMaOCrAAAA=="
+  },
+  "install-odisha": {
+   "src": "/media/s/install-odisha",
+   "widths": [
+    640,
+    1280,
+    1500
+   ],
+   "w": 1500,
+   "h": 750,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBACdASoYAAwAPu1iqU2ppaOiMAgBMB2JQBbZMXIb80GyR+Eb8wk/DYAA/rI62HigrC+u4au1x3xo0G7ZKIdHn9IvTIQ2NtnbtkFBZoavvC1LtHKMX2TeDa3JoSptmJVHHrDWZ/qrvF119+jlouiLPhXrvhrTtK/iP1eRz1lcx1a8UXpsYS2fWu6x/3/cAWCAPSZL0w2g08OI1oSxnbInINRAAA=="
+  },
+  "install-up": {
+   "src": "/media/s/install-up",
+   "widths": [
+    640,
+    1280,
+    1500
+   ],
+   "w": 1500,
+   "h": 750,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABQBACdASoYAAwAPu1iqU2ppaQiMAgBMB2JYgCdIHAgrxgn8vfRGmxMygsAAP7VwgeONYuesTz5CzjbZAxYfKhayvLe7HQ+/7bFxaqgGc0ACdzX3lyiJvia0Fadre3p5DrZrMHB47wNbw46Ov2uEj8qH7H6J9p2jNiri5ypfevlKgfqYvk0vXc36s4/qsGXqZQKbpcMppnbXETX78QAnD6QeKGmVRdxG5YWYe0s+V+XDFYr6AAAAA=="
+  },
+  "install-meghalaya": {
+   "src": "/media/s/install-meghalaya",
+   "widths": [
+    640,
+    1280,
+    1500
+   ],
+   "w": 1500,
+   "h": 700,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADwAwCdASoYAAsAPu1iqU2ppaOiMAgBMB2JbACdMoRwAc9EUfpKlbg0AO++iRNGd83KXK+HSaHVPwmDvwT8LF9w6Wit+Dflu/feNztPn+kJ0vjm95kzq/SbnfbtnjwJ68wJ3P2zYTBL8/mP/HjmWX/ENiS6Lzw7Xqwh3loiMO1gmTI37o7bo8w069iGEazoY5OsE2f1UC4YrfnGo5HsVmWLaUJXaa4A"
+  },
+  "install-telangana": {
+   "src": "/media/s/install-telangana",
+   "widths": [
+    640,
+    1280,
+    1500
+   ],
+   "w": 1500,
+   "h": 700,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYAAsAPu1iqU2ppaOiMAgBMB2JbACdMoADgzlEIFDXbX5kLswAAP4A+qVzOx41nyxkPdQNgnBy4JO3ghKVOh8VlIe7iV9YgqlVK6tKMnEdhPT1mrvWv3gz9m98GfmLxUpBVscVRuzhbYCeN0DB26yEvqOPwlDAjcaK2txwY/d9m26Awm/bijWSS7H4JPTLiyMgwMIAw6jvD6DYZdFAAA=="
+  },
+  "radiologist": {
+   "src": "/media/s/radiologist",
+   "widths": [
+    640,
+    1280,
+    1500
+   ],
+   "w": 1500,
+   "h": 839,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBACdASoYAA0APu1iqU2ppaQiMAgBMB2JQBOgMZFVTjWT2EjqTTadSMAA/CVWlzkeFQGB6hCvcuoTZSTVZBR/lIZzhxigr/GJ0gFQxVWMMbGlcbwvO691r5THxBkJ/XdFt8KNORdC9wI96n2Crvef62359SrBhmgbGn/4MHaqswV+IkbOJiCNKhKGgADLc+uEMpJPncQp5TIl5FfOsqmW5yLHr9pAAAA="
+  },
+  "handheld-field": {
+   "src": "/media/s/handheld-field",
+   "widths": [
+    640,
+    1280,
+    1600
+   ],
+   "w": 1600,
+   "h": 1219,
+   "bg": "white",
+   "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoYABIAPt1ap02opSOiN/qoARAbiWcAAFuzP7XPp3zZRAGmHoAA/uu8F3KAtoF6POOAuRgPw3o7FkG7jyTZO9vGb/Qvo4JAkH5hv2gP4P8imUq4AAA="
+  },
+  "logo": {
+   "src": "/media/s/logo",
+   "widths": [
+    303
+   ],
+   "w": 303,
+   "h": 71,
+   "bg": "alpha",
+   "lqip": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4WAoAAAAQAAAAFwAABQAAQUxQSJEAAAAACX2qfwccl5BCACRMAAAAAAAAAAAEf0MjTLNuy0MzvFwmaqWDVCtKZ34feYJNzamUhotep1k3wnRFn1OKlUaKpZ11f2mNj29pKruaLhEzwnBNoI+Bn5mHgbx9nJpnil6NAjlXOQMJP001Iz8YJzwWLD8ZLzkHIA8yAAAAAAAAC1NcXElWWE88YFFcJ0FHOSUpAFZQOCB6AAAA8AQAnQEqGAAGAD7taK1OqaYkojAIATAdiWQAnTKEe06C5AW/+A24/iuz+rbC8dgAAP6JP4gOlxgM/je1Ys/fnQsncjF3yPbd3BIv0uknj5ODyHR9kLxXmquR+7LnrKi9E+Om6M8U7ZaBhTJhKRcOwl5JefxdeHLAAAA="
+  },
+  "partner-iray": {
+   "src": "/media/s/partner-iray",
+   "widths": [
+    300
+   ],
+   "w": 300,
+   "h": 150,
+   "bg": "white",
+   "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoYAAwAPu1kq04ppaQiMAgBMB2JZQAAXBucVt4RPNlgAAD+83UTl2E8DwyIR7v8xrzND5EbLR+N4qXoM77nqOA9knfrpzMYXxNZtWeakcAAAA=="
+  },
+  "partner-lanmage": {
+   "src": "/media/s/partner-lanmage",
+   "widths": [
+    300
+   ],
+   "w": 300,
+   "h": 150,
+   "bg": "alpha",
+   "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4WAoAAAAQAAAAFwAACwAAQUxQSCMAAAABHyAQIDT5b2MjIoITitq2gUqyJEtyV15DENH/FAqBX4KCAABWUDggXAAAAPADAJ0BKhgADAA+7WaqTamlpCIwCAEwHYllALsAId6uTewy3jVmzwAA/vIPNSGqEnXO2IWSBV9MjiELq0MKYU48yPAtvaUPzU/6zvb4gX4dK1/s2CD6+P/ZEAAA"
+  },
+  "partner-poskom": {
+   "src": "/media/s/partner-poskom",
+   "widths": [
+    300
+   ],
+   "w": 300,
+   "h": 150,
+   "bg": "alpha",
+   "lqip": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4WAoAAAAQAAAAFwAACwAAQUxQSJ8AAAABgGPb2rHn/rZt29YUXP0dksq27aRSx9J1etuqMoLMwwOIiAnA/8iLUb7Gr6bDeFaDgiuV06ZdIXtJF4maIZW8F933pZDkZX1xaG516nqtbungujG7Zxo6uu0KfBxOKcfm8+tdvd2L7T3zVaJKy8Xb+rZ4q54Is9vp0Bs1YbMQZKDl3eP4NNIACDUWvVSqUCmZAHn4wQrEpPgy2cXBXwUAVlA4IHYAAAAwBACdASoYAAwAPu1iqU2ppaOiMAgBMB2JbACdGvNwTP1/wJ/5LE2+iwAA/umd4Qqo7KoSeqM8XEXlBYQIan6kpitTXUwTQHpSuEulFzXwm5+OndEPHTuhNw3FHtE6/d+Ufw+ESHrrt4REPTpXnZHynw6YAAAA"
+  },
+  "partner-vuno": {
+   "src": "/media/s/partner-vuno",
+   "widths": [
+    500
+   ],
+   "w": 500,
+   "h": 500,
+   "bg": "white",
+   "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYABgAPu1qqk8ppiOiMBgIATAdiWcAyrWK0m+1Rd5weAPWTAAA/vNp7EJSc+X1n7qDr9/kLexTSmy9/HGP2LDPGjfJvWnJyi0sWcsa1q5nDOJ7mLLjsVQrfHtMZtZPvWudfh4WFxMMTuTHi8qO7g56GY417IRm8AQxyx3EzAAAAA=="
+  },
+  "partner-deeptek": {
+   "src": "/media/s/partner-deeptek",
+   "widths": [
+    500
+   ],
+   "w": 500,
+   "h": 500,
+   "bg": "white",
+   "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoYABgAPu1mp02ppaMiMBgMATAdiWcAAC51jvw7gmXDwq1gAP7zauI8Udr65N5FRp3mN2VfXTwV0PPStWD8YWrjx0Xkx+1JH4Ti7jtJGAZ64LoJVCmuoW5xbH/KOoFf0oyRwAAA"
+  },
+  "partner-radisen": {
+   "src": "/media/s/partner-radisen",
+   "widths": [
+    500
+   ],
+   "w": 500,
+   "h": 500,
+   "bg": "photo",
+   "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYABgAPu1krE+ppSQiMBgIATAdiUAABc6zrfJtIUfOtdTQAP7K1MdegFnDuy/J1KFKdlEkoQLFS2DJv71ovBf//iHP62/6Y5eU1RlNwLzBvYon5BLgIIkxCK/BQAAA"
+  }
+ }
+}

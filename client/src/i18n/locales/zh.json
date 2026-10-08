@@ -1,0 +1,781 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "portfolio": "产品",
+    "services": "服务",
+    "about": "公司",
+    "news": "新闻",
+    "careers": "招聘",
+    "support": "支持",
+    "contact": "联系我们",
+    "language": "语言",
+    "requestQuote": "获取报价",
+    "all_products": "全部产品",
+    "view_all_in": "查看全部{{category}}",
+    "featured": "精选",
+    "menu": "菜单",
+    "close": "关闭",
+    "theme_dark": "切换到深色主题",
+    "theme_light": "切换到浅色主题",
+    "main_nav_aria": "主导航",
+    "mobile_nav_aria": "移动端导航",
+    "open_menu": "打开菜单",
+    "close_menu": "关闭菜单",
+    "products_menu": "产品菜单",
+    "groups": {
+      "imaging": "X 射线成像",
+      "digital": "数字化与软件",
+      "output": "输出与配件",
+      "specialty": "专科设备"
+    }
+  },
+  "hero": {
+    "eyebrow": "医学影像技术",
+    "line1": "在每一个诊疗现场，",
+    "line2": "看得更清晰。",
+    "sub": "Edusoft 设计、制造并支持 X 射线成像设备——从 3.5 公斤的手持式设备到 80 千瓦的悬吊式 DR 机房——装机量超过 4,200 台。",
+    "cta_primary": "浏览产品",
+    "cta_secondary": "获取报价",
+    "showing": "当前展示",
+    "select": "选择产品",
+    "view": "查看系统",
+    "slots": {
+      "handheld": "手持式",
+      "mobile": "移动式",
+      "carm": "C 形臂",
+      "room": "DR 机房"
+    },
+    "scroll": "向下滚动"
+  },
+  "home": {
+    "intro": {
+      "eyebrow": "Edusoft Healthcare",
+      "statement": "28 年多来，我们让医院、诊所和基层医疗项目都能用上诊断影像——",
+      "statement_em": "在印度设计与制造，在每一个装机地点提供支持。",
+      "body": "目前，392 家以上的公立医院和 3,106 家以上的私立医院正在使用 Edusoft 系统。我们通过 13 个分支机构提供服务，并不断拓展至尼泊尔、孟加拉国、菲律宾、中东、新加坡、非洲、拉丁美洲和美国。",
+      "stats": {
+        "installations": "装机量",
+        "years": "年行业经验",
+        "branches": "分支机构",
+        "people": "专业人员",
+        "awards": "奖项"
+      }
+    },
+    "ecosystem": {
+      "eyebrow": "产品生态",
+      "title": "一体化影像生态。",
+      "sub": "采集、数字化、输出与软件——每个环节都为协同工作而设计。",
+      "products_count_one": "{{count}} 款产品",
+      "products_count_other": "{{count}} 款产品",
+      "explore": "了解"
+    },
+    "tech": {
+      "eyebrow": "核心技术",
+      "title": "围绕成像链设计。",
+      "sub": "每一套 Edusoft 系统都建立在四个环节之上。强化每一环，诊断就更清晰。",
+      "steps": [
+        {
+          "k": "发生",
+          "title": "高频发生",
+          "body": "从 210 瓦的手持设备到 80 千瓦的悬吊式机房，80–270 kHz 的逆变式发生器输出稳定、纹波低，以更低剂量获得一致的图像。",
+          "stat": "80 kW",
+          "statLabel": "机房峰值功率"
+        },
+        {
+          "k": "采集",
+          "title": "无线平板探测器",
+          "body": "ERAY Gold 探测器将 CsI 闪烁体与非晶硅结合：100 μm 像素、73% DQE、IP56 防护外壳，两到三秒即可显示完整图像。",
+          "stat": "73%",
+          "statLabel": "DQE · ERAY Gold 100"
+        },
+        {
+          "k": "处理",
+          "title": "采集软件",
+          "body": "Edusoft IAS 与 ERAY ImageSuite（获 CDSCO 批准）可校正滤线栅和曝光误差、拼接全长检查，并通过 DICOM 3.0 将图像传送至 PACS。",
+          "stat": "<5 s",
+          "statLabel": "图像预览"
+        },
+        {
+          "k": "输出",
+          "title": "输出与归档",
+          "body": "最高 650 ppi 的 TRIMAX 干式激光相机、印度制造的 ERAY 热敏相机、PACS、RIS 与远程放射诊断，让每一份检查都送达所需之处。",
+          "stat": "650 ppi",
+          "statLabel": "TRIMAX TX65"
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "旗舰系统",
+      "title": "为永不停歇的科室而造。",
+      "drag": "拖动或滚动",
+      "all": "全部产品"
+    },
+    "settings": {
+      "eyebrow": "临床应用",
+      "title": "为每一个诊疗场景而设计。",
+      "items": [
+        {
+          "id": "bedside",
+          "title": "床旁与重症监护",
+          "body": "电池驱动的移动式 X 射线设备直达 ICU、急诊和新生儿病房——无法搬动的患者无需转运。",
+          "products": [
+            "eray-40kw-digital-mobile",
+            "eray-50kw-motorized-mobile",
+            "eray-smart-t-series"
+          ]
+        },
+        {
+          "id": "or",
+          "title": "手术室",
+          "body": "配备脉冲透视、双激光定位和 DICOM 3.0 的平板 C 形臂，适用于骨科、创伤、脊柱、泌尿外科和疼痛治疗。",
+          "products": [
+            "eray-smart-5c-premium-pro",
+            "eray-smart-5c-gold",
+            "eray-smart-5c-premium"
+          ]
+        },
+        {
+          "id": "radiology",
+          "title": "放射科",
+          "body": "具备自动定位功能的悬吊式与落地式 DR 机房，搭配干式激光相机和 PACS，满足高通量科室需求。",
+          "products": [
+            "eray-ceiling-suspended-dr",
+            "eray-smart-eco-dr",
+            "trimax-tx65"
+          ]
+        },
+        {
+          "id": "screening",
+          "title": "筛查与外展",
+          "body": "不足 4 公斤的手持式 X 射线设备与 AI 辅助阅片，服务于结核病筛查项目、巡回义诊、灾区和居家护理。",
+          "products": [
+            "eray-smart-6hs",
+            "eray-smart-5hs",
+            "ai-radiology"
+          ]
+        },
+        {
+          "id": "vet",
+          "title": "兽医",
+          "body": "ERAY SMART 与 RAD 系统可用于人医和兽医；ERAY Gold 探测器附带兽医专用测量工具。",
+          "products": [
+            "eray-rad-series",
+            "eray-gold-100",
+            "trimax-dr"
+          ]
+        }
+      ]
+    },
+    "service": {
+      "eyebrow": "工程与服务",
+      "title": "服务不止于保修期。",
+      "sub": "由为您配置系统的工程师负责安装、培训和维护。",
+      "steps": [
+        {
+          "t": "配置",
+          "d": "产品专家根据您的病例构成和机房条件选配发生器、探测器和输出设备。"
+        },
+        {
+          "t": "安装",
+          "d": "工程师上门安装、校准，并将系统接入您的网络和 PACS。"
+        },
+        {
+          "t": "培训",
+          "d": "为放射技师、技术人员和临床医生提供实操应用培训。"
+        },
+        {
+          "t": "维护",
+          "d": "保修期满后提供最长 10 年的 AMC 或 CMC 合同——定期检查、零部件和软件更新。"
+        },
+        {
+          "t": "支持",
+          "d": "技术团队通过免费热线 1800-120-280-280 提供远程和现场支持。"
+        }
+      ],
+      "cta": "了解服务",
+      "facts": {
+        "amc": "保修 · AMC · CMC",
+        "upto": "最长",
+        "years": "年",
+        "amc_body": "保修期内免费提供现场服务，之后可签订年度或全面维护合同——定期检查、零部件和软件更新。",
+        "network": "服务网络",
+        "network_body": "遍布印度的分支机构",
+        "line": "免费服务热线",
+        "line_body": "远程诊断，减少停机时间"
+      }
+    },
+    "why": {
+      "eyebrow": "为何选择 Edusoft",
+      "title": "Bharosemand Medical Co.",
+      "sub": "“Bharosemand”意为“值得信赖”。这是每一套系统都要达到的标准。",
+      "items": [
+        {
+          "t": "印度制造",
+          "d": "依托“印度制造”计划，在自有工厂生产移动式、固定式和手持式 X 射线设备。"
+        },
+        {
+          "t": "国际认证",
+          "d": "技术符合 BIS、NABL、AERB、CDSCO 和 ISO 要求。"
+        },
+        {
+          "t": "世界级合作伙伴",
+          "d": "与 Carestream Health（美国）合作，提供 CR、DR、胶片和高端 X 射线设备。"
+        },
+        {
+          "t": "政府认可",
+          "d": "印度政府电子采购平台（GeM）的授权认证供应商。"
+        }
+      ],
+      "band": [
+        "印度制造",
+        "装机超过 4,200 台",
+        "Carestream 合作伙伴",
+        "28 年以上"
+      ]
+    },
+    "presence": {
+      "eyebrow": "规模化部署",
+      "title": "从邦级项目到单体诊所。",
+      "hites_title": "HITES 手持设备项目",
+      "hites_body": "已获得 300 台配备探测器的手持式 X 射线设备订单，将部署于特伦甘纳邦、恰尔肯德邦、梅加拉亚邦、北方邦和奥迪沙邦。",
+      "units": "台已安装",
+      "reach": "国际业务",
+      "countries": [
+        "印度",
+        "尼泊尔",
+        "孟加拉国",
+        "菲律宾",
+        "阿联酋",
+        "新加坡",
+        "非洲",
+        "拉丁美洲",
+        "美国"
+      ]
+    },
+    "voices": {
+      "eyebrow": "客户评价",
+      "title": "日常诊疗中的信赖之选。"
+    },
+    "news": {
+      "eyebrow": "新闻中心",
+      "title": "Edusoft 最新动态。",
+      "all": "全部新闻"
+    },
+    "cta": {
+      "title": "与我们一起规划您的影像科室。",
+      "body": "告诉我们您的机构情况，产品专家将为您推荐配置并提供报价。",
+      "primary": "获取报价",
+      "secondary": "联系销售"
+    }
+  },
+  "product_card": {
+    "view": "查看",
+    "compare": "对比",
+    "comparing": "对比中",
+    "details_aria": "查看{{name}}详情"
+  },
+  "portfolio_page": {
+    "eyebrow": "产品目录",
+    "title": "影像系统，",
+    "title_em": "为清晰而生。",
+    "subtitle": "涵盖 X 射线成像、数字化 X 射线摄影、输出设备和软件的 {{count}} 款产品。",
+    "search_placeholder": "按名称、kV、探测器或应用搜索…",
+    "filter_all": "全部产品",
+    "categories": "类别",
+    "no_results": "没有符合搜索条件的产品。",
+    "clear_filters": "清除筛选",
+    "search_products_aria": "搜索产品",
+    "clear_search_aria": "清除搜索",
+    "filter_category_aria": "按类别筛选",
+    "results_one": "{{count}} 个结果",
+    "results_other": "{{count}} 个结果",
+    "compare_tray": "对比",
+    "compare_hint": "最多可选择 3 款产品",
+    "compare_go": "开始对比",
+    "compare_clear": "清除",
+    "need_help": "不确定哪套系统合适？",
+    "need_help_body": "我们的专家将根据您的机房、病例构成和预算推荐配置。",
+    "need_help_cta": "咨询专家"
+  },
+  "compare_page": {
+    "title": "产品对比",
+    "empty": "从产品目录中选择产品，即可并排对比。",
+    "back": "返回产品",
+    "spec": "参数",
+    "remove": "移除",
+    "not_listed": "—",
+    "only_diff": "突出显示差异"
+  },
+  "product_detail": {
+    "overview": "概述",
+    "key_features": "特点",
+    "highlights": "一览",
+    "specifications": "技术参数",
+    "applications": "应用",
+    "gallery": "图库",
+    "downloads": "下载",
+    "related": "相关系统",
+    "family": "更多{{category}}",
+    "request_quote": "获取报价",
+    "talk_sales": "联系销售",
+    "download_brochure": "产品手册",
+    "pdf": "PDF",
+    "not_found": "未找到该产品",
+    "back_to_portfolio": "返回产品",
+    "breadcrumb_aria": "面包屑导航",
+    "home": "首页",
+    "portfolio": "产品",
+    "spec_note": "技术参数以 Edusoft Healthcare 公布为准，如有变更恕不另行通知。订购前请与我们确认配置。",
+    "no_specs": "该产品的详细参数请参阅产品手册，或向我们的产品专家咨询。",
+    "expand_all": "全部展开",
+    "collapse_all": "全部收起",
+    "viewer_hint": "拖动以旋转",
+    "viewer_label": "旋转查看产品",
+    "service_title": "由 Edusoft 负责安装、培训和维护。",
+    "service_body": "每套系统均包含现场安装和应用培训，保修期满后可选择最长 10 年的 AMC 或 CMC 服务。",
+    "service_cta": "我们的服务",
+    "quote_title": "获取 {{name}} 的配置方案与报价。",
+    "quote_body": "请提供您的机构信息，我们的专家将在一个工作日内回复。",
+    "local_nav": "本页内容",
+    "image_of": "第 {{n}} 张，共 {{total}} 张",
+    "prev_image": "上一张",
+    "next_image": "下一张"
+  },
+  "services_page": {
+    "eyebrow": "服务与支持",
+    "title": "系统交付，",
+    "title_em": "只是开始。",
+    "sub": "从配置到运行第十年，Edusoft 工程师始终保障您的影像设备正常运转。",
+    "offer_title": "服务内容",
+    "items": [
+      {
+        "t": "安装与调试",
+        "d": "由 Edusoft 工程师上门安装、校准，并与您的网络、PACS 和打印设备集成。"
+      },
+      {
+        "t": "培训与教育",
+        "d": "应用培训帮助放射技师和临床医生熟练掌握所用设备。"
+      },
+      {
+        "t": "保修、AMC 与 CMC",
+        "d": "保修期内免费提供现场和远程服务，之后可签订最长 10 年的年度维护合同或全面维护合同。"
+      },
+      {
+        "t": "远程与在线支持",
+        "d": "技术团队远程诊断并解决问题，减少停机时间。免费热线：1800-120-280-280。"
+      },
+      {
+        "t": "医学影像服务",
+        "d": "涵盖移动式 X 射线、固定式 X 射线、DR、CR 和激光打印的现场及远程影像服务。"
+      },
+      {
+        "t": "数字化解决方案",
+        "d": "PACS、RIS、AI 与远程放射诊断，更高效地管理医学影像和数据。"
+      },
+      {
+        "t": "融资方案",
+        "d": "通过 NBFC 银行和金融机构提供灵活融资，包括零利率和长期分期付款方案。"
+      },
+      {
+        "t": "零部件与耗材",
+        "d": "提供与设备匹配的原厂零部件、胶片和打印介质（TRIMAX、ERAY 和 SONY）。"
+      }
+    ],
+    "process_title": "服务流程",
+    "request_title": "提交服务请求",
+    "request_body": "请告诉我们设备情况和故障现象，服务台将在一个工作日内回复。",
+    "toll_free": "免费服务热线",
+    "hours": "服务台"
+  },
+  "about_page": {
+    "eyebrow": "公司",
+    "title": "开拓医疗健康解决方案，",
+    "title_em": "共建更健康的世界。",
+    "sub": "Edusoft Healthcare Limited 以创新与协同提升医疗成效——将全球领先医疗企业的技术与自有工厂生产的印度制造产品相结合。",
+    "story_eyebrow": "关于我们",
+    "story_title": "十余年来，持续变革 X 射线摄影。",
+    "story_body": "Edusoft 已从值得信赖的经销商成长为移动式、固定式和手持式 X 射线系统制造商。我们的装机遍及印度 392 家以上的公立医院和 3,106 家以上的私立医院，并延伸至尼泊尔、孟加拉国、菲律宾、拉丁美洲、迪拜、新加坡和非洲。",
+    "story_body2": "我们服务于医院、诊所、诊断中心和兽医机构，并以一个词衡量自己：bharosemand——值得信赖。",
+    "values_eyebrow": "我们的信念",
+    "values_title": "六项承诺。",
+    "values": [
+      {
+        "t": "创新",
+        "d": "以前沿技术和解决方案提升患者护理质量。"
+      },
+      {
+        "t": "诚信",
+        "d": "以最高道德标准，将患者安全与福祉放在首位。"
+      },
+      {
+        "t": "卓越",
+        "d": "在每一项工作中提供卓越的服务与支持。"
+      },
+      {
+        "t": "合作",
+        "d": "与行业领导者携手，共同改善医疗成效。"
+      },
+      {
+        "t": "赋能",
+        "d": "助力医护人员为患者提供卓越护理。"
+      },
+      {
+        "t": "持续学习",
+        "d": "不断探索改进医疗行业的新途径。"
+      }
+    ],
+    "vision_label": "愿景",
+    "vision": "提供前沿、经济且可持续的医学影像解决方案，赋能医疗机构、提升患者护理，在印度及国际市场重新定义医疗健康。",
+    "mission_label": "使命",
+    "mission": "研发、制造并交付契合医护人员需求的高品质放射与医学影像设备，以合乎伦理、以患者为中心的解决方案弥合全球医疗差距。",
+    "make_eyebrow": "制造与合作",
+    "make_title": "印度制造，携手全球伙伴。",
+    "make_body": "依托“印度制造”计划，我们生产先进的移动式和固定式 X 射线设备，包括 50 千瓦移动数字系统、80 千瓦悬吊式 X 射线机、数字 C 形臂、2 千瓦便携式和手持式 X 射线设备。我们与 Carestream Health（美国）的合作为客户带来 CR、DR、胶片和高端影像设备。",
+    "compliance_eyebrow": "合规",
+    "compliance_title": "符合关键标准认证。",
+    "compliance_body": "Edusoft 的技术符合 BIS、NABL、AERB、CDSCO 和 ISO 要求，Edusoft 也是印度政府电子采购平台（GeM）的授权认证供应商。",
+    "certs": [
+      {
+        "k": "BIS",
+        "d": "印度标准局"
+      },
+      {
+        "k": "NABL",
+        "d": "印度国家检测和校准实验室认可委员会"
+      },
+      {
+        "k": "AERB",
+        "d": "印度原子能管理委员会"
+      },
+      {
+        "k": "CDSCO",
+        "d": "印度中央药品标准控制组织"
+      },
+      {
+        "k": "ISO",
+        "d": "国际标准化组织"
+      },
+      {
+        "k": "GeM",
+        "d": "认证供应商 · 政府电子采购平台"
+      }
+    ],
+    "people_eyebrow": "我们的团队",
+    "people_title": "工程师、技术专家和服务专员。",
+    "people_body": "我们的团队由工程师、技术专家、销售与市场专业人员和客户服务代表组成。我们为团队提供充分的培训和资源，大家为改善医疗这一共同目标而努力。",
+    "video_title": "走进 Edusoft",
+    "offices_eyebrow": "办公地点",
+    "offices_title": "联系地址。",
+    "future_title": "未来十年，医学影像将更加便携、数字化和互联。",
+    "future_body": "我们持续投入手持式 X 射线摄影、无线探测器和 AI 辅助工作流程，让高质量影像覆盖每一家县级医院、诊所和筛查点。",
+    "facility_alt": "Edusoft Healthcare 团队",
+    "gov_hospitals": "公立医院",
+    "pvt_hospitals": "私立医院",
+    "partners": "技术合作伙伴",
+    "range_motion": "运动范围"
+  },
+  "support_page": {
+    "eyebrow": "支持",
+    "title": "我们能为您做些什么？",
+    "subtitle": "常见问题、技术资料，以及直达服务团队的渠道。",
+    "faq_tag": "常见问题",
+    "faq_headline": "常见问题",
+    "faq_search": "搜索问题…",
+    "faq_no_results": "没有符合搜索条件的问题。",
+    "docs_tag": "资料",
+    "docs_headline": "产品手册与资料",
+    "docs_sub": "下载最新发布的产品手册。",
+    "contact_tag": "支持请求",
+    "contact_headline": "提交支持请求",
+    "form_product_placeholder": "选择产品（可选）",
+    "form_product_label": "产品",
+    "form_issue_label": "问题描述",
+    "form_issue_placeholder": "请注明型号、序列号（如有）以及出现的现象。",
+    "form_submit": "提交请求",
+    "form_success_title": "请求已收到",
+    "form_success_body": "服务台将在一个工作日内回复您。",
+    "form_submit_another": "提交其他请求",
+    "toll_free": "免费热线",
+    "search_faqs_aria": "搜索常见问题"
+  },
+  "news_page": {
+    "eyebrow": "新闻中心",
+    "title": "新闻与动态",
+    "subtitle": "Edusoft Healthcare 的产品发布、项目部署和公司新闻。",
+    "read_more": "阅读全文",
+    "filter_all": "全部",
+    "filter_category_aria": "按类别筛选",
+    "no_articles": "该类别暂无文章。",
+    "featured": "最新"
+  },
+  "news_article": {
+    "back": "新闻中心",
+    "share": "分享",
+    "related": "相关文章",
+    "not_found": "未找到该文章",
+    "back_to_news": "返回新闻",
+    "share_x": "分享到 X",
+    "share_linkedin": "分享到 LinkedIn",
+    "by": "作者"
+  },
+  "careers_page": {
+    "eyebrow": "招聘",
+    "title": "共同塑造",
+    "title_em": "医学影像的未来。",
+    "subtitle": "加入让诊断影像惠及每一个人的工程师、技术专家和专业人员团队。",
+    "apply_now": "立即申请",
+    "view_job": "查看职位",
+    "no_jobs": "目前没有符合筛选条件的职位，请稍后再来查看。",
+    "culture_tag": "在 Edusoft 工作",
+    "culture_headline": "使命与精准在此交汇。",
+    "open_positions": "开放职位",
+    "search_placeholder": "搜索职位或地点…",
+    "all_departments": "全部",
+    "culture": [
+      {
+        "t": "以人为本",
+        "d": "我们投资于培训、成长以及团队所需的各项资源。"
+      },
+      {
+        "t": "使命驱动",
+        "d": "每个岗位都在为更好的诊断和更广泛的医疗可及性贡献力量。"
+      },
+      {
+        "t": "经久耐用",
+        "d": "参与已在数千家医院使用的产品，并为其提供多年支持。"
+      }
+    ],
+    "search_jobs_aria": "搜索职位",
+    "filter_dept_aria": "按部门筛选",
+    "posted_on": "发布于"
+  },
+  "job_detail": {
+    "not_found": "未找到该职位",
+    "back": "全部职位",
+    "about_role": "职位介绍",
+    "responsibilities": "工作职责",
+    "requirements": "任职要求",
+    "apply_title": "准备好申请了吗？",
+    "apply_body": "请发送您的申请——招聘团队会审阅每一份材料。",
+    "apply_email_note": "也可将简历发送至",
+    "experience": "经验",
+    "location": "工作地点",
+    "type": "类型",
+    "department": "部门"
+  },
+  "contact_page": {
+    "eyebrow": "联系我们",
+    "title": "一起聊聊影像。",
+    "subtitle": "销售、报价、服务、合作或媒体——一张表单即可联系对应团队。",
+    "form_headline": "发送咨询",
+    "step_topic": "您需要什么帮助？",
+    "step_details": "您的信息",
+    "step_message": "您的留言",
+    "offices_headline": "办公地点",
+    "name": "姓名",
+    "email": "工作邮箱",
+    "phone": "电话",
+    "company": "医院 / 机构",
+    "product": "关注的产品",
+    "product_none": "尚未确定",
+    "department": "咨询类型",
+    "message": "留言",
+    "optional": "可选",
+    "submit": "发送咨询",
+    "success_title": "谢谢，我们已收到您的咨询。",
+    "success": "专家将在一个工作日内回复。如需紧急服务，请致电 1800-120-280-280。",
+    "error": "消息发送失败，请重试或直接与我们联系。",
+    "direct_contacts": "直线电话",
+    "toll_free": "免费热线（印度）",
+    "international": "国际",
+    "usa": "美国",
+    "general_inquiries": "一般咨询",
+    "privacy_note": "您的信息仅用于回复本次咨询。详见我们的",
+    "privacy_link": "隐私政策",
+    "send_another": "发送其他咨询",
+    "name_placeholder": "张医生",
+    "email_placeholder": "you@hospital.org",
+    "phone_placeholder": "138 0000 0000",
+    "company_placeholder": "市人民医院",
+    "message_placeholder": "请介绍您的机构、考虑中的系统以及计划时间。",
+    "directions": "路线",
+    "departments": {
+      "quote": "报价",
+      "sales": "销售咨询",
+      "support": "服务与支持",
+      "partnerships": "经销商 / 合作",
+      "media": "媒体与新闻",
+      "general": "一般咨询"
+    }
+  },
+  "legal": {
+    "updated": "以 Edusoft Healthcare 公布的内容为准",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "cookies": "Cookie 政策"
+  },
+  "footer": {
+    "tagline": "医学影像技术——由 Edusoft Healthcare 设计、制造与支持。",
+    "company": "公司",
+    "products": "产品",
+    "resources": "资源",
+    "contact": "联系",
+    "privacy": "隐私",
+    "terms": "条款",
+    "cookies": "Cookie",
+    "copyright": "© {{year}} Edusoft Healthcare Limited. 保留所有权利。",
+    "made_in_india": "印度制造",
+    "newsletter_title": "产品资讯",
+    "newsletter_body": "新品发布与部署动态，每年数次。",
+    "newsletter_cta": "订阅",
+    "newsletter_placeholder": "电子邮箱",
+    "newsletter_thanks": "谢谢，订阅成功。",
+    "social": "关注 Edusoft",
+    "back_to_top": "返回顶部",
+    "links": {
+      "about": "关于我们",
+      "services": "服务",
+      "news": "新闻",
+      "careers": "招聘",
+      "compliance": "合规",
+      "support": "支持",
+      "faq": "常见问题",
+      "brochures": "产品手册",
+      "contact": "联系我们",
+      "request_quote": "获取报价",
+      "all_products": "全部产品",
+      "compare": "产品对比"
+    }
+  },
+  "common": {
+    "loading": "加载中…",
+    "error": "出现错误，请重试。",
+    "retry": "重试",
+    "back": "返回",
+    "learn_more": "了解更多",
+    "read_more": "阅读更多",
+    "view_all": "查看全部",
+    "search": "搜索",
+    "clear": "清除",
+    "submit": "提交",
+    "required": "必填",
+    "optional": "可选",
+    "sending": "发送中…",
+    "submitting": "提交中…",
+    "name_required": "请输入您的姓名。",
+    "email_required": "请输入有效的电子邮箱。",
+    "message_required": "请填写留言。",
+    "not_found_title": "该页面已移动或不存在。",
+    "not_found_body": "网站改版后地址可能已变更。请浏览产品目录或返回首页。",
+    "return_home": "返回首页",
+    "watch_video": "观看视频",
+    "video_consent": "通过 YouTube（隐私增强模式）播放。",
+    "share_twitter": "X",
+    "share_linkedin": "LinkedIn",
+    "minutes": "分钟",
+    "previous": "上一个",
+    "next": "下一个",
+    "paused": "已暂停",
+    "skip_to_content": "跳到主要内容"
+  },
+  "footer_contact": {
+    "phone": "1800-120-280-280",
+    "phone_intl": "+91-88512-48073",
+    "phone_usa": "+1-773-313-5065",
+    "email": "info@edusofthealth.com",
+    "address": "B-83, Mangolpuri Industrial Area, Phase-II, New Delhi 110034, India"
+  },
+  "navbar_languages": {
+    "en": "English",
+    "ja": "Japanese",
+    "fr": "French",
+    "zh": "Chinese",
+    "ko": "Korean"
+  },
+  "phone_codes": {
+    "label": "国家/地区代码",
+    "codes": [
+      {
+        "code": "+91",
+        "country": "印度"
+      },
+      {
+        "code": "+1",
+        "country": "美国 / 加拿大"
+      },
+      {
+        "code": "+977",
+        "country": "尼泊尔"
+      },
+      {
+        "code": "+880",
+        "country": "孟加拉国"
+      },
+      {
+        "code": "+63",
+        "country": "菲律宾"
+      },
+      {
+        "code": "+971",
+        "country": "阿联酋"
+      },
+      {
+        "code": "+65",
+        "country": "新加坡"
+      },
+      {
+        "code": "+254",
+        "country": "肯尼亚"
+      },
+      {
+        "code": "+234",
+        "country": "尼日利亚"
+      },
+      {
+        "code": "+27",
+        "country": "南非"
+      },
+      {
+        "code": "+44",
+        "country": "英国"
+      },
+      {
+        "code": "+81",
+        "country": "日本"
+      },
+      {
+        "code": "+33",
+        "country": "法国"
+      },
+      {
+        "code": "+86",
+        "country": "中国"
+      },
+      {
+        "code": "+82",
+        "country": "韩国"
+      },
+      {
+        "code": "+49",
+        "country": "德国"
+      },
+      {
+        "code": "+61",
+        "country": "澳大利亚"
+      }
+    ],
+    "search": "搜索国家或区号"
+  },
+  "media_kind": {
+    "studio": "棚拍",
+    "angle": "角度",
+    "detail": "细节",
+    "in-use": "使用场景",
+    "motion": "运动范围",
+    "packaging": "包装",
+    "screen": "软件",
+    "logo": "合作伙伴",
+    "accessory": "配件"
+  }
+}

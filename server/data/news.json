@@ -1,0 +1,146 @@
+[
+  {
+    "id": "news-1",
+    "slug": "edusoft-launches-tb-screening-ai-platform",
+    "category": "Product Launch",
+    "date": "2025-08-15",
+    "author": "EduSoft Communications",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80",
+    "tags": ["AI", "TB Screening", "Software"],
+    "translations": {
+      "en": {
+        "title": "EduSoft Healthcare Launches AI-Powered TB Screening Platform for High-Burden Regions",
+        "excerpt": "EduSoft Healthcare has introduced its CE-marked TB Screening AI, a deep learning solution designed to extend radiological expertise to underserved health centres and support national tuberculosis control programs.",
+        "body": "EduSoft Healthcare Limited today announced the commercial availability of its TB Screening AI platform — a CE-marked medical device software solution that applies deep learning to chest X-ray analysis for tuberculosis screening and triage.\n\nThe TB Screening AI processes a standard chest PA DICOM image in under 30 seconds, returning a confidence score, structured findings report, and visual heatmap overlay for radiologist review. It is designed as a decision-support tool to help prioritize high-volume worklists and extend specialist reach in resource-constrained settings.\n\n\"Access to quality radiological interpretation remains a critical bottleneck in TB control programs worldwide,\" said the EduSoft product team. \"Our AI platform is built to support — not replace — clinicians, giving them reliable, rapid triage information that helps direct attention to the most urgent cases first.\""
+      },
+      "ja": {
+        "title": "EduSoft Healthcareが高負担地域向けAI搭載TB検診プラットフォームを発売",
+        "excerpt": "EduSoft HealthcareはCEマーク取得のTB検診AIを発売しました。深層学習を活用し、医療リソースが限られた地域における放射線専門知識の拡充と結核対策プログラムの支援を目的としています。",
+        "body": "EduSoft Healthcare Limitedは本日、TB検診AIプラットフォームの商業的提供開始を発表しました。これはCEマーク取得の医療機器ソフトウェアであり、深層学習を用いた胸部X線の結核スクリーニングおよびトリアージを行います。\n\nTB検診AIは標準的な胸部PA DICOM画像を30秒以内に処理し、信頼度スコア、構造化された所見レポート、放射線科医のレビュー用ヒートマップオーバーレイを返します。大量のワークリストの優先順位付けと専門家の診療範囲拡大を支援する意思決定支援ツールとして設計されています。\n\n「世界中のTB対策プログラムにおいて、質の高い放射線解釈へのアクセスが重要なボトルネックとなっています」とEduSoft製品チームは述べています。「当社のAIプラットフォームは臨床医を支援するために構築されており、代替するものではありません。」"
+      },
+      "fr": {
+        "title": "EduSoft Healthcare lance une plateforme de dépistage de la tuberculose alimentée par l'IA pour les régions à forte charge",
+        "excerpt": "EduSoft Healthcare a introduit son IA de dépistage de la tuberculose marquée CE, une solution d'apprentissage profond conçue pour étendre l'expertise radiologique aux centres de santé mal desservis.",
+        "body": "EduSoft Healthcare Limited annonce aujourd'hui la disponibilité commerciale de sa plateforme TB Screening AI — une solution logicielle de dispositif médical marquée CE qui applique l'apprentissage profond à l'analyse des radiographies thoraciques.\n\nL'IA de dépistage de la tuberculose traite une image DICOM PA thoracique standard en moins de 30 secondes, fournissant un score de confiance, un rapport de résultats structuré et une superposition de carte thermique pour l'examen radiologique.\n\n«L'accès à une interprétation radiologique de qualité reste un goulot d'étranglement critique dans les programmes de lutte contre la tuberculose dans le monde», a déclaré l'équipe produit d'EduSoft."
+      },
+      "zh": {
+        "title": "EduSoft Healthcare推出面向高负担地区的AI驱动结核病筛查平台",
+        "excerpt": "EduSoft Healthcare推出了其CE认证的结核病筛查AI，这是一种深度学习解决方案，旨在将放射科专业知识延伸至医疗资源匮乏地区，并支持国家结核病防控计划。",
+        "body": "EduSoft Healthcare Limited今日宣布其结核病筛查AI平台正式商业化——这是一款CE认证的医疗器械软件解决方案，将深度学习应用于胸部X光分析，用于结核病筛查和分诊。\n\n结核病筛查AI在30秒内处理标准胸部PA DICOM图像，返回置信度评分、结构化调查结果报告以及供放射科医生审阅的热图叠加层。\n\n“在全球结核病防控计划中，获得高质量放射学解读仍是关键瓶颈，”EduSoft产品团队表示。“我们的AI平台旨在支持——而非取代——临床医生。”"
+      },
+      "ko": {
+        "title": "EduSoft Healthcare, 고부담 지역을 위한 AI 기반 결핵 검진 플랫폼 출시",
+        "excerpt": "EduSoft Healthcare는 CE 인증 결핵 검진 AI를 출시했습니다. 의료 자원이 부족한 보건 센터에 방사선 전문 지식을 확장하고 국가 결핵 관리 프로그램을 지원하기 위한 딥러닝 솔루션입니다.",
+        "body": "EduSoft Healthcare Limited는 오늘 결핵 검진 AI 플랫폼의 상업적 출시를 발표했습니다. 이는 흉부 X선 분석에 딥러닝을 적용한 CE 인증 의료기기 소프트웨어 솔루션입니다.\n\n결핵 검진 AI는 30초 이내에 표준 흉부 PA DICOM 이미지를 처리하여 신뢰도 점수, 구조화된 소견 보고서, 방사선과 의사 검토를 위한 히트맵 오버레이를 반환합니다.\n\nEduSoft 제품팀은 \"전 세계 결핵 관리 프로그램에서 양질의 방사선 해석에 대한 접근성은 중요한 병목 현상으로 남아 있습니다\"라고 말했습니다."
+      }
+    }
+  },
+  {
+    "id": "news-2",
+    "slug": "edusoft-medicall-2025-exhibition",
+    "category": "Events",
+    "date": "2025-07-03",
+    "author": "EduSoft Communications",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80",
+    "tags": ["Events", "Exhibition"],
+    "translations": {
+      "en": {
+        "title": "EduSoft Healthcare to Showcase Full Imaging Portfolio at Medicall 2025, Chennai",
+        "excerpt": "EduSoft Healthcare will exhibit its complete range of imaging solutions — including the new FPD C-Arm, RVG Sensor, and TB Screening AI — at the Medicall trade exhibition in Chennai from 28–30 July.",
+        "body": "EduSoft Healthcare Limited confirmed its participation at Medicall 2025, India's premier medical equipment trade event, at Chennai Trade Centre from 28–30 July 2025. The company will be at Stall Nos. 3D21 & 3D22 (Hall 3).\n\nAttendees will be able to see live demonstrations of the full EduSoft product line, including the FPD C-Arm, digital RVG Sensor, medical dry laser X-ray Printer, and the newly launched TB Screening AI platform."
+      },
+      "ja": {
+        "title": "EduSoft Healthcare、Medicall 2025（チェンナイ）でフル製品ラインを展示",
+        "excerpt": "EduSoft Healthcareは、7月28〜30日にチェンナイで開催されるMedicall商業展示会に、FPD Cアーム、RVGセンサー、TB検診AIを含む完全な医用画像ソリューションを出展します。",
+        "body": "EduSoft Healthcare Limitedは、2025年7月28〜30日にチェンナイ・トレードセンターで開催されるインド最大の医療機器商業イベント「Medicall 2025」への参加を確認しました。ブース番号はホール3の3D21・3D22です。\n\n来場者はFPD Cアーム、デジタルRVGセンサー、医療用ドライレーザーX線プリンター、新発売のTB検診AIプラットフォームを含むEduSoftの全製品ラインのライブデモンストレーションをご覧いただけます。"
+      },
+      "fr": {
+        "title": "EduSoft Healthcare présentera son portefeuille d'imagerie complet au Medicall 2025, Chennai",
+        "excerpt": "EduSoft Healthcare exposera sa gamme complète de solutions d'imagerie — dont le nouveau FPD C-Arm, le capteur RVG et l'IA de dépistage de la tuberculose — à l'exposition commerciale Medicall de Chennai du 28 au 30 juillet.",
+        "body": "EduSoft Healthcare Limited a confirmé sa participation au Medicall 2025, le premier salon commercial d'équipements médicaux d'Inde, au Chennai Trade Centre du 28 au 30 juillet 2025. La société sera au stand n° 3D21 & 3D22 (Hall 3).\n\nLes visiteurs pourront assister à des démonstrations en direct de la gamme complète de produits EduSoft."
+      },
+      "zh": {
+        "title": "EduSoft Healthcare将在2025年金奈Medicall展会上展示完整影像产品组合",
+        "excerpt": "EduSoft Healthcare将于7月28日至30日在金奈举办的Medicall商业展览会上展出其完整的影像解决方案，包括新型FPD C臂、RVG传感器和结核病筛查AI。",
+        "body": "EduSoft Healthcare Limited确认将参加2025年7月28日至30日在金奈贸易中心举办的印度最重要的医疗设备商业活动Medicall 2025。公司将在3号馆3D21和3D22号展位亮相。\n\n参观者将能够观看EduSoft全产品线的现场演示，包括FPD C臂、数字RVG传感器、医用干式激光X线打印机和新推出的结核病筛查AI平台。"
+      },
+      "ko": {
+        "title": "EduSoft Healthcare, 2025년 첸나이 Medicall에서 전체 이미징 포트폴리오 선보여",
+        "excerpt": "EduSoft Healthcare는 7월 28~30일 첸나이에서 열리는 Medicall 무역 전시회에서 새로운 FPD C-암, RVG 센서, 결핵 검진 AI를 포함한 완전한 이미징 솔루션을 전시할 예정입니다.",
+        "body": "EduSoft Healthcare Limited는 2025년 7월 28~30일 첸나이 무역센터에서 열리는 인도 최대 의료기기 무역 행사인 Medicall 2025 참가를 확인했습니다. 부스 번호는 홀 3의 3D21 및 3D22입니다.\n\n참관객들은 FPD C-암, 디지털 RVG 센서, 의료용 건식 레이저 X선 프린터, 새로 출시된 결핵 검진 AI 플랫폼을 포함한 EduSoft 전체 제품 라인의 라이브 시연을 볼 수 있습니다."
+      }
+    }
+  },
+  {
+    "id": "news-3",
+    "slug": "edusoft-iso-recertification-2025",
+    "category": "Company News",
+    "date": "2025-05-20",
+    "author": "EduSoft Communications",
+    "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=800&q=80",
+    "tags": ["Certification", "Quality", "Company News"],
+    "translations": {
+      "en": {
+        "title": "EduSoft Healthcare Receives ISO 13485:2016 Recertification for Medical Device Quality Management",
+        "excerpt": "EduSoft Healthcare Limited has successfully completed the surveillance audit and received ISO 13485:2016 recertification, reaffirming its commitment to quality management systems for medical devices.",
+        "body": "EduSoft Healthcare Limited has successfully completed its annual ISO 13485:2016 surveillance audit and received recertification — reaffirming the company's adherence to international quality management standards for medical device design, manufacture, and distribution.\n\nISO 13485:2016 certification is a globally recognized benchmark for quality management in the medical device industry. The successful audit demonstrates that EduSoft's quality processes, supplier controls, and post-market surveillance activities meet the stringent requirements expected of a world-class healthcare technology company."
+      },
+      "ja": {
+        "title": "EduSoft Healthcare、医療機器品質管理のISO 13485:2016再認証を取得",
+        "excerpt": "EduSoft Healthcare Limitedは監視審査を無事完了し、ISO 13485:2016の再認証を取得しました。医療機器品質管理システムへのコミットメントを再確認するものです。",
+        "body": "EduSoft Healthcare Limitedは年次ISO 13485:2016監視審査を無事完了し、再認証を取得しました。これにより、医療機器の設計、製造、流通における国際的な品質管理基準への準拠が改めて確認されました。\n\nISO 13485:2016認証は医療機器業界の品質管理において世界的に認められたベンチマークです。"
+      },
+      "fr": {
+        "title": "EduSoft Healthcare reçoit la recertification ISO 13485:2016 pour la gestion de la qualité des dispositifs médicaux",
+        "excerpt": "EduSoft Healthcare Limited a réussi l'audit de surveillance et reçu la recertification ISO 13485:2016, réaffirmant son engagement envers les systèmes de management de la qualité pour les dispositifs médicaux.",
+        "body": "EduSoft Healthcare Limited a réussi son audit annuel de surveillance ISO 13485:2016 et reçu la recertification — réaffirmant le respect par la société des normes internationales de management de la qualité pour la conception, la fabrication et la distribution de dispositifs médicaux.\n\nLa certification ISO 13485:2016 est une référence mondialement reconnue pour la gestion de la qualité dans l'industrie des dispositifs médicaux."
+      },
+      "zh": {
+        "title": "EduSoft Healthcare获得医疗器械质量管理ISO 13485:2016再认证",
+        "excerpt": "EduSoft Healthcare Limited成功完成监督审核并获得ISO 13485:2016再认证，重申其对医疗器械质量管理体系的承诺。",
+        "body": "EduSoft Healthcare Limited成功完成了年度ISO 13485:2016监督审核并获得再认证——再次确认公司在医疗器械设计、制造和分销方面对国际质量管理标准的遵守。\n\nISO 13485:2016认证是医疗器械行业质量管理的全球公认基准。"
+      },
+      "ko": {
+        "title": "EduSoft Healthcare, 의료기기 품질 관리를 위한 ISO 13485:2016 재인증 획득",
+        "excerpt": "EduSoft Healthcare Limited는 감시 심사를 성공적으로 완료하고 ISO 13485:2016 재인증을 받아 의료기기 품질 관리 시스템에 대한 의지를 재확인했습니다.",
+        "body": "EduSoft Healthcare Limited는 연간 ISO 13485:2016 감시 심사를 성공적으로 완료하고 재인증을 받았습니다. 이는 의료기기 설계, 제조 및 유통에 관한 국제 품질 관리 표준 준수를 재확인하는 것입니다.\n\nISO 13485:2016 인증은 의료기기 산업의 품질 관리에 있어 세계적으로 인정받는 기준입니다."
+      }
+    }
+  },
+  {
+    "id": "news-4",
+    "slug": "edusoft-africa-middle-east-expansion",
+    "category": "Company News",
+    "date": "2025-03-11",
+    "author": "EduSoft Communications",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "tags": ["Expansion", "International", "Company News"],
+    "translations": {
+      "en": {
+        "title": "EduSoft Healthcare Expands Distributor Network Across Africa and Middle East",
+        "excerpt": "EduSoft Healthcare has signed distribution agreements with regional partners in five new markets across Africa and the Middle East, broadening access to its diagnostic imaging portfolio.",
+        "body": "EduSoft Healthcare Limited announced the signing of distribution agreements with authorized regional partners across five new markets in Africa and the Middle East. The expansion reinforces the company's commitment to making advanced medical imaging technology accessible in emerging markets.\n\nThe newly covered markets include Kenya, Nigeria, United Arab Emirates, Saudi Arabia, and Egypt.\n\n\"Global expansion is central to our mission,\" said EduSoft leadership. \"Ensuring that hospitals and diagnostic centres in high-growth markets have access to reliable, high-quality imaging solutions — with local technical support — is exactly the kind of impact we exist to create.\""
+      },
+      "ja": {
+        "title": "EduSoft Healthcare、アフリカと中東にわたって販売代理店ネットワークを拡大",
+        "excerpt": "EduSoft Healthcareはアフリカと中東の5つの新市場で地域パートナーと販売契約を締結し、診断用画像ポートフォリオへのアクセスを拡大しました。",
+        "body": "EduSoft Healthcare Limitedはアフリカと中東の5つの新市場で認定地域パートナーとの販売契約締結を発表しました。この拡大は、先進的な医療画像技術を新興市場でアクセス可能にするという同社のコミットメントを強化するものです。\n\n新たにカバーされる市場には、ケニア、ナイジェリア、アラブ首長国連邦、サウジアラビア、エジプトが含まれます。\n\n「グローバル展開は私たちの使命の中心です」とEduSoftのリーダーシップは述べています。"
+      },
+      "fr": {
+        "title": "EduSoft Healthcare étend son réseau de distributeurs en Afrique et au Moyen-Orient",
+        "excerpt": "EduSoft Healthcare a signé des accords de distribution avec des partenaires régionaux dans cinq nouveaux marchés en Afrique et au Moyen-Orient.",
+        "body": "EduSoft Healthcare Limited a annoncé la signature d'accords de distribution avec des partenaires régionaux autorisés dans cinq nouveaux marchés en Afrique et au Moyen-Orient.\n\nLes marchés nouvellement couverts comprennent le Kenya, le Nigeria, les Émirats arabes unis, l'Arabie saoudite et l'Égypte.\n\n«L'expansion mondiale est au cœur de notre mission», a déclaré la direction d'EduSoft."
+      },
+      "zh": {
+        "title": "EduSoft Healthcare扩大非洲和中东地区分销商网络",
+        "excerpt": "EduSoft Healthcare已与非洲和中东五个新市场的地区合作伙伴签署分销协议，扩大了其诊断影像产品组合的覆盖范围。",
+        "body": "EduSoft Healthcare Limited宣布与非洲和中东五个新市场的授权地区合作伙伴签署分销协议。此次扩展强化了公司使先进医疗影像技术在新兴市场可及的承诺。\n\n新覆盖的市场包括肯尼亚、尼日利亚、阿联酋、沙特阿拉伯和埃及。\n\nEduSoft领导层表示：\"全球扩张是我们使命的核心。\""
+      },
+      "ko": {
+        "title": "EduSoft Healthcare, 아프리카 및 중동 전역에 유통업체 네트워크 확대",
+        "excerpt": "EduSoft Healthcare는 아프리카와 중동의 5개 신규 시장에서 지역 파트너와 유통 계약을 체결하여 진단 영상 포트폴리오에 대한 접근성을 넓혔습니다.",
+        "body": "EduSoft Healthcare Limited는 아프리카와 중동의 5개 신규 시장에서 공인 지역 파트너와의 유통 계약 체결을 발표했습니다.\n\n새로 진출하는 시장에는 케냐, 나이지리아, 아랍에미리트, 사우디아라비아, 이집트가 포함됩니다.\n\nEduSoft 경영진은 \"글로벌 확장은 우리 사명의 핵심입니다\"라고 말했습니다."
+      }
+    }
+  }
+]

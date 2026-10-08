@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hq",
+    "name": "Global Headquarters",
+    "address": "B-83, Mangolpuri Industrial Area, Phase-II",
+    "city": "New Delhi",
+    "country": "India",
+    "postalCode": "110034",
+    "phone": "+91 1800-120-280-280",
+    "email": "info@edusofthealth.com",
+    "type": "headquarters"
+  },
+  {
+    "id": "intl-uae",
+    "name": "Middle East Office",
+    "address": "Dubai Healthcare City",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "phone": "+971 4 XXX XXXX",
+    "email": "middleeast@edusofthealth.com",
+    "type": "regional"
+  },
+  {
+    "id": "intl-africa",
+    "name": "Africa Regional Office",
+    "address": "Westlands Business Park",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "phone": "+254 XX XXX XXXX",
+    "email": "africa@edusofthealth.com",
+    "type": "regional"
+  }
+]

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Edusoft Healthcare | Medical Imaging Technology — X-Ray, C-Arm, DR & CR</title>
+    <meta name="description" content="Edusoft Healthcare designs, manufactures and supports medical imaging technology — handheld, mobile and fixed X-ray, surgical C-Arms, DR detectors, CR systems and medical printers. 4,200+ installations. Made in India." />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="theme-color" content="#F4F5F3" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#070B11" media="(prefers-color-scheme: dark)" />
+
+    <meta property="og:site_name" content="Edusoft Healthcare" />
+    <meta property="og:description" content="Handheld, mobile and fixed X-ray, surgical C-Arms, DR detectors, CR systems and medical printers — engineered and supported by Edusoft Healthcare." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://edusofthealth.com/media/p/eray-smart-5c-gold/01-640.webp" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Edusoft_Health" />
+
+    <!-- Fonts: Geist + Geist Mono (display=swap, preconnected) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300..700&family=Geist+Mono:wght@400;500&display=swap" />
+
+    <!-- Theme before first paint: no light→dark flash -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('edusoft_theme');
+          if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+          }
+          // First visit this session: hold an ink screen until the intro mounts.
+          if (sessionStorage.getItem('edusoft_intro_seen') !== '1') document.documentElement.classList.add('intro');
+          var l = localStorage.getItem('edusoft_lang');
+          if (l) document.documentElement.lang = l;
+        } catch (e) {}
+      })();
+    </script>
+
+    <style>html.intro, html.intro body { background: #05080D; overflow: hidden; }</style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Edusoft Healthcare Limited",
+      "alternateName": "Edusoft Healthcare",
+      "url": "https://edusofthealth.com",
+      "logo": "https://edusofthealth.com/media/s/logo-303.webp",
+      "slogan": "Bharosemand Medical Co.",
+      "description": "Manufacturer and supplier of medical imaging equipment — handheld, mobile and fixed X-ray, surgical C-Arms, DR and CR systems, medical printers and films.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "B-83, Mangolpuri Industrial Area, Phase-II",
+        "addressLocality": "New Delhi",
+        "postalCode": "110034",
+        "addressCountry": "IN"
+      },
+      "contactPoint": [
+        { "@type": "ContactPoint", "telephone": "+91-1800-120-280-280", "contactType": "customer support", "areaServed": "IN", "availableLanguage": ["English", "Hindi"] },
+        { "@type": "ContactPoint", "telephone": "+91-88512-48073", "contactType": "sales", "areaServed": "Worldwide" },
+        { "@type": "ContactPoint", "telephone": "+1-773-313-5065", "contactType": "sales", "areaServed": "US" }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/edusoft-healthcare",
+        "https://www.facebook.com/edusofthealth",
+        "https://twitter.com/Edusoft_Health",
+        "https://www.instagram.com/edusoft_healthcare/",
+        "https://www.youtube.com/@edusofthealthcare4809"
+      ]
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>Edusoft Healthcare — medical imaging technology. Please enable JavaScript to browse our product catalogue, or call 1800-120-280-280.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

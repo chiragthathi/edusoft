@@ -1,0 +1,56 @@
+[
+  {
+    "id": "faq-1",
+    "category": "General",
+    "question": "What types of medical imaging products does EduSoft Healthcare offer?",
+    "answer": "EduSoft Healthcare offers a comprehensive range of medical imaging solutions across five categories: Surgical Imaging (FPD C-Arm), Dental Imaging (RVG Sensor), Printers & Media (X-Ray Printer, X-Ray Film), Software & AI (PACS/RIS, Image Acquisition Software, TB Screening AI), and Accessories (Radiation Protection, X-Ray Accessories)."
+  },
+  {
+    "id": "faq-2",
+    "category": "General",
+    "question": "In which countries does EduSoft Healthcare operate?",
+    "answer": "EduSoft Healthcare is headquartered in New Delhi, India, and serves customers in over 15 countries including India, Nepal, Bangladesh, Kenya, Nigeria, UAE, Saudi Arabia, Egypt, and other markets across South Asia, Africa, and the Middle East."
+  },
+  {
+    "id": "faq-3",
+    "category": "Products",
+    "question": "Are EduSoft products CE marked or FDA approved?",
+    "answer": "EduSoft Healthcare maintains regulatory compliance for the markets it serves. Our TB Screening AI software is CE marked as a Class IIa Medical Device Software. For specific regulatory certifications for individual products and target markets, please contact our sales team or refer to individual product datasheets."
+  },
+  {
+    "id": "faq-4",
+    "category": "Products",
+    "question": "Do EduSoft products support DICOM standards?",
+    "answer": "Yes. All EduSoft imaging hardware and software products are DICOM 3.0 compliant. Our PACS/RIS, Image Acquisition Software, FPD C-Arm, and X-Ray Printer all support standard DICOM services including Store, Query/Retrieve, Print, and Modality Worklist, ensuring seamless integration with your existing hospital information systems."
+  },
+  {
+    "id": "faq-5",
+    "category": "Support",
+    "question": "How do I request a service call or repair for an EduSoft product?",
+    "answer": "You can submit a service request through the Support page on this website, call our dedicated service helpline at 1800-120-280-280 (toll-free, India), or email service@edusofthealth.com. Our customer support team will log your request and dispatch a qualified field service engineer."
+  },
+  {
+    "id": "faq-6",
+    "category": "Support",
+    "question": "What is EduSoft's warranty policy for imaging equipment?",
+    "answer": "EduSoft Healthcare products are sold with a comprehensive one-year warranty covering parts and labour for manufacturing defects, unless an extended warranty has been agreed upon in the purchase contract. Annual Maintenance Contracts (AMCs) are available after the warranty period. Please refer to your purchase documentation or contact your regional EduSoft representative for specifics."
+  },
+  {
+    "id": "faq-7",
+    "category": "Support",
+    "question": "Where can I download user manuals and technical documentation?",
+    "answer": "User manuals, installation guides, and technical specifications for all EduSoft products can be downloaded from the Documentation & Downloads section of the Support page. If you cannot find the document you require, contact our support team with your product model and serial number."
+  },
+  {
+    "id": "faq-8",
+    "category": "Purchasing",
+    "question": "How can I get a quote for an EduSoft product?",
+    "answer": "You can request a quote by clicking 'Request a Quote' on any product detail page, using the Contact page's Sales inquiry form, or calling us directly at 1800-120-280-280. Our sales team will respond within one business day with pricing and availability information for your region."
+  },
+  {
+    "id": "faq-9",
+    "category": "Purchasing",
+    "question": "Does EduSoft sell directly or through distributors?",
+    "answer": "EduSoft Healthcare sells both directly through our regional sales offices and through an authorized distributor network in international markets. Contact us to identify the appropriate sales channel for your region."
+  }
+]

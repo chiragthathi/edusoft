@@ -1,0 +1,4750 @@
+[
+  {
+    "id": "eray-smart-6hs",
+    "slug": "eray-smart-6hs",
+    "name": "ERAY SMART 6HS",
+    "series": "ERAY SMART HS",
+    "category": "handheld-xray",
+    "tagline": "Hospital-grade exposures at 3.5 kg.",
+    "shortDescription": "Ultra-portable handheld X-ray with a 50–90 kV range, up to 450 W output and about 150 exposures per charge — built for bedside, home care, outreach camps and field imaging.",
+    "overview": "The ERAY SMART 6HS is a compact diagnostic X-ray unit with a main body weight of just 3.5 kg, designed for imaging wherever the patient is located. A 22.2 VDC, 2,200 mAh Li-polymer battery delivers about 150 exposures per charge. Its wireless, touch-operated workflow, integrated DAP meter, anatomical APR presets and multiple exposure-triggering options make it suitable for bedside imaging, home healthcare, outreach camps, emergency response and field applications.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "3.5",
+        "unit": "kg",
+        "label": "Main body weight"
+      },
+      {
+        "value": "~150",
+        "unit": "",
+        "label": "Exposures per charge"
+      },
+      {
+        "value": "50–90",
+        "unit": "kV",
+        "label": "Tube voltage range"
+      }
+    ],
+    "keyFeatures": [
+      "Compact 3.5 kg main body measuring 249 × 194 × 194 mm",
+      "About 150 exposures per charge at 70 kV and 5 mAs",
+      "High-frequency generator with up to 450 W constant-potential output",
+      "Cord-free operation for flexible positioning and DR workflows",
+      "9 programmable APR memories plus favourite settings",
+      "Touch interface in English, Hindi and Tamil",
+      "Integrated DAP meter for dose-area product monitoring",
+      "On-body trigger, two-stage hand switch or infrared remote (up to 5 m)",
+      "Manual collimation with LED lamp — 43 × 43 cm field at 100 cm SID",
+      "Operates from 10 °C to 60 °C at 30–75% RH"
+    ],
+    "applications": [
+      "Bedside imaging",
+      "Home healthcare",
+      "Outreach camps",
+      "Emergency response",
+      "TB screening",
+      "Field imaging"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Model",
+            "ERAY SMART 6HS"
+          ],
+          [
+            "Power output",
+            "Up to 450 W"
+          ],
+          [
+            "kV range",
+            "50 – 90 kV"
+          ],
+          [
+            "mA range",
+            "2 – 10 mA"
+          ],
+          [
+            "mAs range",
+            "0.10 – 10 mAs"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube",
+        "rows": [
+          [
+            "Type",
+            "Stationary"
+          ],
+          [
+            "Focal spot",
+            "0.8 mm"
+          ],
+          [
+            "Target angle",
+            "16°"
+          ],
+          [
+            "Anode heat storage capacity",
+            "8000 J"
+          ],
+          [
+            "Input power (at 0.1 s)",
+            "1280 W"
+          ],
+          [
+            "Inherent filtration",
+            "2.5 mm Al Eq"
+          ]
+        ]
+      },
+      {
+        "title": "Collimator",
+        "rows": [
+          [
+            "Field size",
+            "43 × 43 cm @ 100 cm SID"
+          ],
+          [
+            "Lamp",
+            "3.3 V LED"
+          ]
+        ]
+      },
+      {
+        "title": "Power",
+        "rows": [
+          [
+            "Battery",
+            "Li-polymer, 22.2 VDC · 2,200 mAh"
+          ],
+          [
+            "Exposures per charge",
+            "About 150 (70 kV, 5 mAs)"
+          ],
+          [
+            "AC adapter",
+            "100–240 V, 50/60 Hz (25.2 V / 1.5 A)"
+          ],
+          [
+            "Charging time",
+            "About 2 hours"
+          ]
+        ]
+      },
+      {
+        "title": "Physical & Environment",
+        "rows": [
+          [
+            "Weight — main body",
+            "3.5 kg"
+          ],
+          [
+            "Size — main body (W × D × H)",
+            "249 × 194 × 194 mm"
+          ],
+          [
+            "Operating environment",
+            "10 – 60 °C · 30–75% RH"
+          ],
+          [
+            "Storage & transport",
+            "–20 – +60 °C · 10–95% RH"
+          ],
+          [
+            "Atmospheric pressure",
+            "700 – 1060 hPa"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "gallery/ERAY-SMART-6HS-New.png",
+        "kind": "studio"
+      },
+      {
+        "f": "live/newmac.png",
+        "kind": "angle"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY SMART 6HS Brochure",
+        "file": "https://edusofthealth.com/assets/ultra-portable-handheld-x-ray-6hs-pdf.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/ultra-portable-handheld-x-ray-6hs.php",
+    "relatedProducts": [
+      "eray-smart-5hs",
+      "eray-gold-100",
+      "detector-stand"
+    ]
+  },
+  {
+    "id": "eray-smart-5hs",
+    "slug": "eray-smart-5hs",
+    "name": "ERAY SMART 5HS",
+    "series": "ERAY SMART HS",
+    "category": "handheld-xray",
+    "tagline": "Wireless handheld imaging under 4 kg.",
+    "shortDescription": "Ultra-lightweight handheld X-ray with 40–80 kV output, remote operation and an integrated DAP meter — for TB detection, NICUs, disaster sites and home care.",
+    "overview": "The ERAY SMART 5HS Ultra-Portable Handheld X-Ray weighs less than 4 kg and is powered by a durable lithium polymer battery. It ensures safer imaging while offering versatile applications such as TB detection, NICUs, disaster sites and home care. Its compact design allows fast imaging and effortless mounting on support stands.",
+    "highlights": [
+      {
+        "value": "<4",
+        "unit": "kg",
+        "label": "Main body weight"
+      },
+      {
+        "value": "40–80",
+        "unit": "kV",
+        "label": "Tube voltage range"
+      },
+      {
+        "value": "450",
+        "unit": "W",
+        "label": "Power output (max)"
+      }
+    ],
+    "keyFeatures": [
+      "Compact, lightweight design for fieldwork, emergency response and point-of-care use",
+      "Cord-free design for true mobility and flexible clinical workflow",
+      "Interface in English, Hindi and Tamil",
+      "Remote operation for enhanced operator safety",
+      "Integrated DAP meter to monitor and manage radiation exposure",
+      "APR-based exposure settings on a 7-inch display",
+      "Low-battery cut-off function and on-screen error messages"
+    ],
+    "applications": [
+      "TB detection",
+      "NICU",
+      "Disaster sites",
+      "Home care"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Model",
+            "ERAY SMART 5HS"
+          ],
+          [
+            "Power output",
+            "Up to 450 W"
+          ],
+          [
+            "kV range",
+            "40 – 80 kV (1 kV step)"
+          ],
+          [
+            "mA range",
+            "2 – 5 mA (1 mA step)"
+          ],
+          [
+            "mAs range",
+            "0.02 – 10 mAs"
+          ],
+          [
+            "Exposure time",
+            "0.01 s – 2 s"
+          ]
+        ]
+      },
+      {
+        "title": "Collimator",
+        "rows": [
+          [
+            "Field size",
+            "43 × 43 cm @ 100 cm SID"
+          ],
+          [
+            "Light source",
+            "LED lamp"
+          ],
+          [
+            "Beam limiting & centering",
+            "Available"
+          ],
+          [
+            "Pb lining",
+            "2 mm"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube",
+        "rows": [
+          [
+            "Focal spot",
+            "0.8 mm"
+          ],
+          [
+            "Target angle",
+            "16°"
+          ],
+          [
+            "Anode heat storage capacity",
+            "8000 J (10000 HU)"
+          ],
+          [
+            "Inherent filtration",
+            "2.5 mm Al Eq"
+          ]
+        ]
+      },
+      {
+        "title": "Power",
+        "rows": [
+          [
+            "Battery",
+            "Li-polymer, 22.2 VDC · 2,250 mAh"
+          ],
+          [
+            "Number of exposures",
+            "About 150 (70 kV, 5 mAs)"
+          ],
+          [
+            "AC adapter",
+            "100–240 V, 50/60 Hz (25.2 V / 1.5 A)"
+          ],
+          [
+            "Charging time",
+            "Up to 4 hours"
+          ]
+        ]
+      },
+      {
+        "title": "Physical & Interface",
+        "rows": [
+          [
+            "Weight — main body",
+            "Less than 4 kg"
+          ],
+          [
+            "Size — main body",
+            "249 × 194 × 194 mm"
+          ],
+          [
+            "Display",
+            "7-inch, APR-based exposure settings"
+          ],
+          [
+            "Warranty",
+            "1 year"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/ultra-portable-handheld-x-ray-5hs-1.jpeg",
+        "kind": "studio",
+        "cutout": false
+      },
+      {
+        "f": "gallery/ultra-portable-handheld-x-ray-5hs-featured.jpeg",
+        "kind": "angle",
+        "cutout": false
+      },
+      {
+        "f": "gallery/newmac2.png",
+        "kind": "detail"
+      },
+      {
+        "f": "gallery/newmac3.png",
+        "kind": "accessory"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY SMART 5HS Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/ultra-portable-handheld-x-ray-5hs.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/ultra-portable-handheld-x-ray-5hs.php",
+    "dataNotes": [
+      "Live page states 'up to 100 images per charge' in the intro and 'About 150 Times (70 kV, 5mAs)' in the spec table. Specs table value used; intro figure omitted."
+    ],
+    "relatedProducts": [
+      "eray-smart-6hs",
+      "eray-smart-3hs",
+      "eray-gold-breakfree"
+    ]
+  },
+  {
+    "id": "eray-smart-3hs",
+    "slug": "eray-smart-3hs",
+    "name": "ERAY SMART 3HS",
+    "series": "ERAY SMART HS",
+    "category": "handheld-xray",
+    "tagline": "Chest and extremity imaging, anywhere.",
+    "shortDescription": "3 mA ultra-portable handheld X-ray delivering up to 150 exposures per charge, with hand switch or remote exposure and a 7-inch touch console.",
+    "overview": "The 3 mA ultra-portable handheld X-ray is designed for exceptional portability and convenience. Powered by a durable lithium polymer battery, it captures up to 150 images per charge and supports versatile applications such as TB detection, NICUs, disaster sites and home care. It supports imaging for human patients up to 70 kg and veterinary diagnostics, covering spine, chest, neck, shoulders, pelvis, hands and legs.",
+    "highlights": [
+      {
+        "value": "150",
+        "unit": "",
+        "label": "Exposures per charge"
+      },
+      {
+        "value": "40–70",
+        "unit": "kV",
+        "label": "Tube voltage range"
+      },
+      {
+        "value": "0.4",
+        "unit": "mm",
+        "label": "Focal spot"
+      }
+    ],
+    "keyFeatures": [
+      "Compact and lightweight for fieldwork, emergency response and point-of-care environments",
+      "150 exposure shots per charge",
+      "Simplified interface with no complex buttons",
+      "Dual exposure modes — hand switch or remote control",
+      "Flat, smooth surface for effortless cleaning",
+      "Human patients up to 70 kg and veterinary diagnostics"
+    ],
+    "applications": [
+      "TB detection",
+      "NICU",
+      "Disaster sites",
+      "Home care",
+      "Veterinary"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Unit",
+        "rows": [
+          [
+            "Model",
+            "ERAY SMART 3HS"
+          ],
+          [
+            "Application",
+            "Chest X-ray + extremities"
+          ],
+          [
+            "Working frequency",
+            "80 kHz"
+          ],
+          [
+            "Nominal power",
+            "210 W"
+          ],
+          [
+            "kV range",
+            "40 – 70 kV"
+          ],
+          [
+            "mA range",
+            "1 – 3 mA (1 step)"
+          ],
+          [
+            "Exposure time",
+            "0.01 – 2.0 s"
+          ],
+          [
+            "Focal spot",
+            "0.4 mm"
+          ],
+          [
+            "Inherent filtration",
+            "0.5 mm Al"
+          ],
+          [
+            "Weight",
+            "Up to 3 kg"
+          ],
+          [
+            "Battery",
+            "22.2 V, 2200 mAh"
+          ],
+          [
+            "X-ray console",
+            "7-inch touch screen"
+          ]
+        ]
+      },
+      {
+        "title": "Flat Panel Detector",
+        "rows": [
+          [
+            "Active area",
+            "14″ × 17″ / 17″ × 17″"
+          ],
+          [
+            "Dimension",
+            "383 × 460 × 15 mm / 460 × 460 × 15 mm"
+          ],
+          [
+            "Scintillator",
+            "CsI / GOS"
+          ],
+          [
+            "Grey scale",
+            "16 bit"
+          ],
+          [
+            "Pixel",
+            "140 μm"
+          ],
+          [
+            "Internal storage",
+            "Up to 200 images"
+          ],
+          [
+            "Panel weight",
+            "2.7 kg / 3.2 kg"
+          ],
+          [
+            "Face load / point load",
+            "300 kg / 120 kg"
+          ],
+          [
+            "IP rating",
+            "IP56"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/3mah-1.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/4ma-1.PNG",
+        "kind": "detail"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY SMART 3HS Brochure",
+        "file": "https://edusofthealth.com/assets/ERAY-SAMRT-3HS.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/ultra-portable-handheld-x-ray-3ma.php",
+    "dataNotes": [
+      "Live intro says 'weighing just less than 3.5kg'; spec table says 'Is upto 3kg'. Spec table used.",
+      "ERAY SMART 3HS+ is listed as 'under process' on the live site and is not presented."
+    ],
+    "relatedProducts": [
+      "eray-smart-5hs",
+      "eray-smart-6hs",
+      "xray-carry-bag"
+    ]
+  },
+  {
+    "id": "eray-40kw-digital-mobile",
+    "slug": "eray-40kw-digital-mobile",
+    "name": "40kW Digital Mobile X-Ray",
+    "series": "ERAY SMART",
+    "category": "mobile-xray",
+    "tagline": "40 kW of power on a battery-driven chassis.",
+    "shortDescription": "Battery-powered digital mobile radiography with a 40 kW high-frequency generator, wireless flat panel detector, 21.5-inch touch screen and over 500 exposures per charge.",
+    "overview": "A powerful and versatile mobile radiography system suitable for a wide array of clinical settings, from busy radiology departments to neonatal wards. A 40 kW high-frequency generator, eco-friendly lithium battery and dual step-less motors combine with a 21.5-inch capacitive touch screen and a wireless flat panel detector for unrestricted positioning.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "40",
+        "unit": "kW",
+        "label": "Generator power"
+      },
+      {
+        "value": "500+",
+        "unit": "",
+        "label": "Exposures per charge"
+      },
+      {
+        "value": "<12",
+        "unit": "s",
+        "label": "Startup time"
+      }
+    ],
+    "keyFeatures": [
+      "40 kW high-power generator with wireless flat panel detector",
+      "Eco-friendly lithium battery — over 500 exposures on a single charge",
+      "21.5-inch capacitive touch screen with OGS dust and moisture protection",
+      "10° climbing capability and up to 77 km travel per charge",
+      "Compact 55 cm width with dual step-less motors",
+      "Hand switch, remote control and time-delayed exposure",
+      "Startup in less than 12 seconds with a single key press",
+      "DAP support for exposure dose visualisation",
+      "Pad remote operation and all-round anti-collision design"
+    ],
+    "applications": [
+      "Radiology departments",
+      "Wards",
+      "Critical care",
+      "Neonatal wards",
+      "Operating rooms"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "X-ray generator",
+            "High frequency 220 kHz, inverter method"
+          ],
+          [
+            "Power rating",
+            "40 kW"
+          ],
+          [
+            "Tube voltage range",
+            "40 ~ 125 kVp"
+          ],
+          [
+            "mAs range",
+            "0.1 ~ 320 mAs"
+          ],
+          [
+            "Max current",
+            "500 mA"
+          ],
+          [
+            "Anatomical programs",
+            "More than 1000"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube",
+        "rows": [
+          [
+            "Max anode heat capacity",
+            "140 kHU"
+          ],
+          [
+            "Tube mode",
+            "Rotating"
+          ],
+          [
+            "Focal spot size",
+            "1.0 / 2.0 mm"
+          ]
+        ]
+      },
+      {
+        "title": "Power",
+        "rows": [
+          [
+            "Input power supply",
+            "AC 220~240 V 50 Hz"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/40kWphoto.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/digital-mob-1.png",
+        "kind": "in-use"
+      },
+      {
+        "f": "gallery/digital-mob-2.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/digital-mob-3.png",
+        "kind": "in-use"
+      },
+      {
+        "f": "gallery/digital-mob-4.png",
+        "kind": "in-use"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/40kw-digital-mobile-portable-x-ray.php",
+    "relatedProducts": [
+      "eray-50kw-motorized-mobile",
+      "eray-gold-100",
+      "eray-smart-t-series"
+    ]
+  },
+  {
+    "id": "eray-50kw-motorized-mobile",
+    "slug": "eray-50kw-motorized-mobile",
+    "name": "50kW Motorized Digital Mobile X-Ray",
+    "series": "ERAY SMART",
+    "category": "mobile-xray",
+    "tagline": "The most powerful mobile in the range.",
+    "shortDescription": "50 kW motorized digital mobile X-ray with a 270 kHz generator, 300 kHU rotating anode, telescopic arm with ±315° rotation, 21-inch touch console and ERAY Gold 17 detector.",
+    "overview": "The 50kW Digital Mobile X-Ray pairs a 50 kW high-frequency generator and a 300 kHU rotating-anode tube with a fully integrated 21-inch touch console and the ERAY Gold 17 wireless flat panel detector. A telescopic arm with ±315° rotation and a high-intensity LED collimator with 360° rotation support precise positioning at the bedside.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "50",
+        "unit": "kW",
+        "label": "Generator power"
+      },
+      {
+        "value": "300",
+        "unit": "kHU",
+        "label": "Anode heat storage"
+      },
+      {
+        "value": "±315",
+        "unit": "°",
+        "label": "Telescopic arm rotation"
+      }
+    ],
+    "keyFeatures": [
+      "50 kW high-frequency generator with 270 kHz inverter",
+      "Rotating anode at 10,800 RPM with 300 kHU heat storage",
+      "Telescopic arm with ±315° rotation",
+      "High-intensity LED collimator with 360° rotation",
+      "Fully integrated 21-inch touch console storing up to 3000 images",
+      "DAP meter standard; AEC optional",
+      "ERAY Gold 17 wireless detector — 3072 × 3072, 140 μm, IP56"
+    ],
+    "applications": [
+      "ICU",
+      "Emergency",
+      "Wards",
+      "Operating rooms"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Type",
+            "High frequency"
+          ],
+          [
+            "Power output",
+            "50 kW"
+          ],
+          [
+            "kV range",
+            "40 kV ~ 150 kV"
+          ],
+          [
+            "mA range",
+            "10 mA ~ 630 mA"
+          ],
+          [
+            "mAs range",
+            "0.1 mAs ~ 630 mAs"
+          ],
+          [
+            "Inverter frequency",
+            "270 kHz"
+          ],
+          [
+            "Time range",
+            "0.1 ms ~ 10 s"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube & Collimator",
+        "rows": [
+          [
+            "Focal spot",
+            "0.6 mm ~ 1.2 mm"
+          ],
+          [
+            "Anode heat storage capacity",
+            "300 kHU"
+          ],
+          [
+            "Rotating anode",
+            "10800 RPM"
+          ],
+          [
+            "Collimator",
+            "LED with high intensity (360° rotation)"
+          ]
+        ]
+      },
+      {
+        "title": "Tube Stand & Console",
+        "rows": [
+          [
+            "Column",
+            "Telescopic arm with ±315° rotation"
+          ],
+          [
+            "Operating console",
+            "Fully integrated touch console, 21 inch"
+          ],
+          [
+            "Image storage",
+            "Up to 3000 images"
+          ],
+          [
+            "CPU / RAM / Storage",
+            "i5 / 8 GB / 500 GB"
+          ],
+          [
+            "DAP",
+            "Standard"
+          ],
+          [
+            "AEC",
+            "Optional"
+          ],
+          [
+            "Remote control",
+            "Standard"
+          ]
+        ]
+      },
+      {
+        "title": "Flat Panel Detector",
+        "rows": [
+          [
+            "Model",
+            "ERAY Gold 17"
+          ],
+          [
+            "Dimension",
+            "460 × 460 × 15 mm"
+          ],
+          [
+            "Sensor array",
+            "a-Si photodiode"
+          ],
+          [
+            "Scintillator",
+            "CsI / GOS"
+          ],
+          [
+            "Resolution",
+            "3072 × 3072"
+          ],
+          [
+            "Pixel size",
+            "140 μm"
+          ],
+          [
+            "Grayscale",
+            "16 bit"
+          ],
+          [
+            "Wi-Fi",
+            "802.11ac / 2 antennas / 2 s scan to display / AP mode"
+          ],
+          [
+            "Drop height",
+            "70 cm"
+          ],
+          [
+            "Housing",
+            "Mg-Al alloy"
+          ],
+          [
+            "Weight (battery included)",
+            "3.2 kg"
+          ],
+          [
+            "Waterproof",
+            "IP56"
+          ],
+          [
+            "Face / point load",
+            "300 / 120 kg"
+          ],
+          [
+            "Trigger mode",
+            "AED mode"
+          ],
+          [
+            "Battery autonomy",
+            "8 hours*"
+          ],
+          [
+            "Operating temperature / humidity",
+            "10 ~ 35 °C / 15 ~ 80%"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/50kw.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "50kW Mobile X-Ray Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/50kw.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/50kw-motorized-digital-mobile-x-ray.php",
+    "dataNotes": [
+      "The feature list on the live 50kW page is copied from the 40kW page (mentions '40kW'). Only the 50kW spec table is used here."
+    ],
+    "relatedProducts": [
+      "eray-40kw-digital-mobile",
+      "eray-gold-100",
+      "eray-thermal-printer"
+    ]
+  },
+  {
+    "id": "eray-smart-t-series",
+    "slug": "eray-smart-t-series",
+    "name": "ERAY SMART 4T / 5T / 6T",
+    "series": "ERAY SMART",
+    "category": "mobile-xray",
+    "tagline": "The best-selling portable in the range.",
+    "shortDescription": "Cost-effective, lightweight high-frequency portable X-ray in 3.5, 5 and 6 kW, with a wireless 14″ × 17″ detector and more than 200 pre-programmable APRs.",
+    "overview": "The ERAY SMART series is a high-frequency digital mobile X-ray machine for human and veterinary applications. It stands out for its design and image quality while minimising radiation exposure, and its wireless flat panel detector improves digital image output. Its small size and low weight make it an efficient choice for patient wards, critical care units and operating rooms.",
+    "highlights": [
+      {
+        "value": "3.5–6",
+        "unit": "kW",
+        "label": "Generator options"
+      },
+      {
+        "value": "200+",
+        "unit": "",
+        "label": "Pre-programmable APRs"
+      },
+      {
+        "value": "10",
+        "unit": "″",
+        "label": "Touch-screen console"
+      }
+    ],
+    "keyFeatures": [
+      "Affordable imaging for human and veterinary use",
+      "DR panel soft protective cover for convenient storage",
+      "Manual light-beam collimator for rapid, precise positioning",
+      "Responsive, intuitive digital touch console",
+      "Lower capital investment for greater accessibility"
+    ],
+    "applications": [
+      "Patient wards",
+      "Critical care",
+      "Operating rooms",
+      "Veterinary"
+    ],
+    "specGroups": [
+      {
+        "title": "Models",
+        "rows": [
+          [
+            "Models",
+            "ERAY SMART 4T · 5T · 6T"
+          ],
+          [
+            "Power output",
+            "3.5 kW · 5 kW · 6 kW"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Generator & Tube",
+        "rows": [
+          [
+            "Type",
+            "HF generator"
+          ],
+          [
+            "mAs range",
+            "0.1 – 320 mAs"
+          ],
+          [
+            "kV range",
+            "40 – 125 kV"
+          ],
+          [
+            "mA range",
+            "5 – 100 mA"
+          ],
+          [
+            "Focal spot",
+            "0.8 mm"
+          ],
+          [
+            "Anode type",
+            "Stationary"
+          ]
+        ]
+      },
+      {
+        "title": "Detector",
+        "rows": [
+          [
+            "Detector size",
+            "14″ × 17″"
+          ],
+          [
+            "Matrix size",
+            "2K × 2K"
+          ],
+          [
+            "Detector type",
+            "Wireless"
+          ],
+          [
+            "Pixel size",
+            "130 μm"
+          ],
+          [
+            "Image storage",
+            ">150 images"
+          ],
+          [
+            "Scintillator",
+            "CsI"
+          ],
+          [
+            "IP rating",
+            "IP44"
+          ]
+        ]
+      },
+      {
+        "title": "User Interface",
+        "rows": [
+          [
+            "Monitor",
+            "10″ touch-screen monitor"
+          ],
+          [
+            "Generator control",
+            "More than 200 pre-programmable settings (APRs)"
+          ],
+          [
+            "CPU / RAM / HDD",
+            "i5 / 8 GB / 1 TB"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/HF-Mobile-X-Ray1.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/HF-Mobile-X-Ray2.png",
+        "kind": "angle"
+      },
+      {
+        "f": "live/1Mobile.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "HF Digital Mobile X-Ray Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/HF-Digital-Mobile-X-Ray.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/portable-x-ray-machines.php",
+    "dataNotes": [
+      "Heat capacity on the live page reads '40-14-Khu' (garbled) and is omitted."
+    ],
+    "relatedProducts": [
+      "eray-smart-integrated",
+      "eray-40kw-digital-mobile",
+      "trimax-dr"
+    ]
+  },
+  {
+    "id": "eray-smart-integrated",
+    "slug": "eray-smart-integrated",
+    "name": "Integrated Digital Mobile X-Ray",
+    "series": "ERAY SMART",
+    "category": "mobile-xray",
+    "tagline": "Generator, detector and console in one chassis.",
+    "shortDescription": "Integrated digital mobile X-ray with high-frequency generator, automatic exposure control and a built-in 13.5-inch console for low-dose imaging on the move.",
+    "overview": "Edusoft's Integrated Digital Mobile X-ray systems bring generator, flat panel detector and acquisition console together in one compact unit. High-frequency inverter technology enables efficient, low-dose imaging, while automatic exposure control keeps every image at optimal quality. Built for hospitals, clinics and mobile healthcare units serving remote or underserved areas.",
+    "highlights": [
+      {
+        "value": "6–7",
+        "unit": "kW",
+        "label": "Power output"
+      },
+      {
+        "value": "40–125",
+        "unit": "kV",
+        "label": "Tube voltage"
+      },
+      {
+        "value": "13.5",
+        "unit": "″",
+        "label": "Integrated console"
+      }
+    ],
+    "keyFeatures": [
+      "Advanced generators for precise, stable output",
+      "High-frequency inverter technology for low-dose imaging",
+      "Flat panel detectors for high-resolution digital images",
+      "Automatic exposure control",
+      "Lightweight, compact design for transport between facilities",
+      "Intuitive touch-screen controls reduce training time",
+      "Low maintenance requirements"
+    ],
+    "applications": [
+      "Hospitals",
+      "Clinics",
+      "Mobile health units",
+      "Remote & underserved areas"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Generator type",
+            "High frequency"
+          ],
+          [
+            "Power output",
+            "6 kW · 7 kW"
+          ],
+          [
+            "Input voltage",
+            "220 VAC ±10%, 50/60 Hz"
+          ],
+          [
+            "kV range",
+            "40 kV ~ 125 kV"
+          ],
+          [
+            "mA range",
+            "5 mA ~ 100 mA · 5 mA ~ 150 mA"
+          ],
+          [
+            "mAs range",
+            "0.1 mAs ~ 320 mAs"
+          ],
+          [
+            "Exposure time",
+            "1 ms ~ 10000 ms"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube",
+        "rows": [
+          [
+            "Anode",
+            "Stationary"
+          ],
+          [
+            "Anode heat capacity",
+            "42 kHU"
+          ],
+          [
+            "Focal spot",
+            "0.6 mm ~ 1.8 mm · 0.6 mm ~ 2.0 mm"
+          ],
+          [
+            "Tube head",
+            "Tilt-o-meter for tube angulation"
+          ]
+        ]
+      },
+      {
+        "title": "Console Unit",
+        "rows": [
+          [
+            "Size",
+            "13.5″"
+          ],
+          [
+            "Processor / RAM / HDD",
+            "i5 / 8 GB / 500 GB"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/Integrated-Digital-Mobile1.png",
+        "kind": "studio"
+      },
+      {
+        "f": "live/6i.png",
+        "kind": "angle"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "Integrated Digital Mobile Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Integrated-Digital-Mobile-2026.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/digital-portable-x-ray-machines.php",
+    "dataNotes": [
+      "Live page names the models 'ERAY SMART 4T (4kW)' and 'ERAY SMART 6i (6kW)' in prose, '4T and 6T' in features, and lists 6 kW / 7 kW in the spec table. Model names are therefore not asserted here — confirm before launch."
+    ],
+    "relatedProducts": [
+      "eray-smart-t-series",
+      "eray-40kw-digital-mobile",
+      "eray-gold-100"
+    ]
+  },
+  {
+    "id": "eray-2kw-portable",
+    "slug": "eray-2kw-portable",
+    "name": "2kW Portable X-Ray",
+    "series": "ERAY SMART",
+    "category": "mobile-xray",
+    "tagline": "Compact portable exposure unit.",
+    "shortDescription": "A 2 kW portable X-ray unit from the ERAY SMART mobile range. Contact our team for the current specification sheet.",
+    "overview": "The 2kW Portable X-Ray is part of Edusoft's mobile X-ray range, alongside the 40kW Digital Mobile and 50kW Motorized Digital Mobile systems. Our product specialists can share the current technical specification and configuration options for your facility.",
+    "highlights": [
+      {
+        "value": "2",
+        "unit": "kW",
+        "label": "Power class"
+      }
+    ],
+    "keyFeatures": [],
+    "applications": [
+      "Clinics",
+      "Outreach",
+      "Veterinary"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/2kw.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "Portable X-Ray Brochure",
+        "file": "https://edusofthealth.com/assets/pdf-25/Portable-X-Ray-20HS.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/2kw-portable-x-ray.php",
+    "dataNotes": [
+      "The live 2kW page shows the 40kW spec table and 40kW copy. No 2kW-specific specifications are published, so none are shown."
+    ],
+    "relatedProducts": [
+      "eray-smart-t-series",
+      "eray-smart-6hs"
+    ]
+  },
+  {
+    "id": "eray-ceiling-suspended-dr",
+    "slug": "eray-ceiling-suspended-dr",
+    "name": "Ceiling Suspended Digital Radiography",
+    "series": "ERAY RAD 1000S",
+    "category": "fixed-xray",
+    "tagline": "Five-axis automation for the busiest rooms.",
+    "shortDescription": "80 kW ceiling-suspended DR room with automatic positioning tracking, one-click positioning, five-axis simultaneous movement and a 17 × 17-inch wireless detector.",
+    "overview": "The Ceiling Suspended Digital Radiography System features automatic positioning tracking, multi-mode control and intelligent five-axis simultaneous operations. The tube automatically traces the chest bucky and patient table, a 9.7-inch touch screen shows patient and system status, and a 17 × 17-inch wireless detector with dual batteries supports every posture — upright, wheelchair and stretcher.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "80",
+        "unit": "kW",
+        "label": "Generator power"
+      },
+      {
+        "value": "40–150",
+        "unit": "kV",
+        "label": "Tube voltage"
+      },
+      {
+        "value": "10,000",
+        "unit": "",
+        "label": "Images stored"
+      }
+    ],
+    "keyFeatures": [
+      "Automatic horizontal and vertical positioning tracking",
+      "Three control modes — bull-head buttons, touch screen and remote",
+      "Intelligent five-axis simultaneous tube and detector movement",
+      "Customised one-click positioning for all body postures",
+      "Column rotation up to 180° with a wider SID range",
+      "9.7-inch touch screen with patient and exam information",
+      "Dual battery, dual charging wireless flat-panel detector",
+      "Optional 1-second imaging for high-volume screening",
+      "17 × 17-inch amorphous silicon full-plate detector",
+      "Low-dose intelligent exposure"
+    ],
+    "applications": [
+      "Hospital radiology",
+      "Health check-up centres",
+      "Trauma",
+      "High-volume diagnostics"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Model",
+            "ERAY RAD 1000S"
+          ],
+          [
+            "Power",
+            "80 kW"
+          ],
+          [
+            "mAs range",
+            "0.4 – 1000 mAs"
+          ],
+          [
+            "kV range",
+            "40 kV – 150 kV"
+          ],
+          [
+            "mA range",
+            "10 mA – 1000 mA"
+          ],
+          [
+            "Line nominal, phase",
+            "Three phase, 440 V, 50/60 Hz"
+          ],
+          [
+            "Inverter frequency",
+            "220 kHz"
+          ],
+          [
+            "Time range",
+            "1 ms – 10000 ms"
+          ],
+          [
+            "Power requirement",
+            "380 VAC"
+          ],
+          [
+            "Exposure mode",
+            "Manual & automatic"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube",
+        "rows": [
+          [
+            "Tube",
+            "Canon"
+          ],
+          [
+            "Focal spot size",
+            "0.6 mm / 1.2 mm"
+          ],
+          [
+            "Max anode",
+            "300 kHU"
+          ],
+          [
+            "Max kV",
+            "150 kV"
+          ],
+          [
+            "Rotary anode",
+            "7200 RPM"
+          ]
+        ]
+      },
+      {
+        "title": "Patient Bed",
+        "rows": [
+          [
+            "Size (L × W)",
+            "2000 × 800 mm"
+          ],
+          [
+            "Bed lifting range",
+            "530 – 880 mm"
+          ],
+          [
+            "Longitudinal floating range",
+            "480 mm"
+          ],
+          [
+            "Horizontal floating range",
+            "285 mm"
+          ],
+          [
+            "Bearing weight",
+            "270 kg"
+          ],
+          [
+            "Panel floating",
+            "6-way floating"
+          ],
+          [
+            "Floating control",
+            "Foot switch, electromagnetic control"
+          ]
+        ]
+      },
+      {
+        "title": "Imaging Station",
+        "rows": [
+          [
+            "Operating system",
+            "Windows 10"
+          ],
+          [
+            "CPU / RAM / Storage",
+            "i7 8th Gen / 16 GB / 1 TB"
+          ],
+          [
+            "Image storage",
+            "10000 images"
+          ],
+          [
+            "Screen size",
+            "19 inch"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/4E.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/1E.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/3E.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/6E-2.png",
+        "kind": "detail"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "Ceiling Suspended X-Ray Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/CEILING-SUSPENDED-X-RAY-16V%20print.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/ceiling-suspended-digital-radiography-solutions.php",
+    "relatedProducts": [
+      "eray-ceiling-free",
+      "eray-gold-100",
+      "pacs-ris"
+    ]
+  },
+  {
+    "id": "eray-ceiling-free",
+    "slug": "eray-ceiling-free",
+    "name": "Ceiling Free X-Ray",
+    "series": "ERAY RAD 630S / 800S / 1000S",
+    "category": "fixed-xray",
+    "tagline": "Full DR room performance, floor-mounted.",
+    "shortDescription": "Floor-mounted DR room with auto-tracking, a 6-way table, vertical chest stand and ERAY Gold wireless detectors — available as RAD 630S, 800S and 1000S.",
+    "overview": "Part of the ERAY SMART ECO DR series, the Ceiling Free X-Ray provides cost-effective, high-quality radiography across clinical applications. A floor-mounted tube stand works with a vertical chest stand and 6-way table, with auto-tracking and auto-positioning, and pairs with ERAY Gold 14 or 17 wireless flat panel detectors.",
+    "highlights": [
+      {
+        "value": "220",
+        "unit": "kHz",
+        "label": "Inverter frequency"
+      },
+      {
+        "value": "±180",
+        "unit": "°",
+        "label": "Tube stand rotation"
+      },
+      {
+        "value": "10,000",
+        "unit": "",
+        "label": "Images stored"
+      }
+    ],
+    "keyFeatures": [
+      "Auto-tracking and auto-positioning module",
+      "Quick image preview in under 5 seconds",
+      "Edusoft IAS software removes grid and exposure errors",
+      "Flexible vertical and horizontal bucky protects the detector",
+      "Wide dynamic range for soft tissue and bone simultaneously",
+      "Optional dual-energy subtraction and auto image stitching",
+      "Optional IP67 dust and water-resistant detector"
+    ],
+    "applications": [
+      "General radiography",
+      "Hospitals",
+      "Diagnostic centres"
+    ],
+    "specGroups": [
+      {
+        "title": "Generator",
+        "rows": [
+          [
+            "Models",
+            "ERAY RAD 630S · 800S · 1000S"
+          ],
+          [
+            "mAs range",
+            "0.1–630 · 0.1–800 · 0.1–1000 mAs"
+          ],
+          [
+            "mA range",
+            "10–630 · 10–800 · 10–1000 mA"
+          ],
+          [
+            "kV range",
+            "40–125 kV"
+          ],
+          [
+            "Line nominal, phase",
+            "Three phase, 440 V ±10%, 50/60 Hz"
+          ],
+          [
+            "Inverter frequency",
+            "220 kHz"
+          ],
+          [
+            "Time range",
+            "1 ms – 10000 ms"
+          ],
+          [
+            "Exposure mode",
+            "Manual & automatic"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube",
+        "rows": [
+          [
+            "Max kV",
+            "150 kV"
+          ],
+          [
+            "Max anode",
+            "200 kHU · 300 kHU"
+          ],
+          [
+            "Rotary anode",
+            "4800 RPM · 7200 RPM"
+          ]
+        ]
+      },
+      {
+        "title": "ERAY Gold Detector",
+        "rows": [
+          [
+            "Models",
+            "ERAY GOLD 14 · ERAY GOLD 17"
+          ],
+          [
+            "Dimension",
+            "383 × 460 × 15 mm · 460 × 460 × 15 mm"
+          ],
+          [
+            "Scintillator",
+            "CsI / GOS"
+          ],
+          [
+            "Resolution",
+            "2500 × 3052 · 3072 × 3072"
+          ],
+          [
+            "Pixel size",
+            "140 μm"
+          ],
+          [
+            "Weight (battery included)",
+            "2.7 kg · 3.2 kg"
+          ],
+          [
+            "Waterproof",
+            "IP56"
+          ],
+          [
+            "Battery autonomy",
+            "8 hours*"
+          ]
+        ]
+      },
+      {
+        "title": "Room Geometry",
+        "rows": [
+          [
+            "Rail length",
+            "2910 mm (±5%)"
+          ],
+          [
+            "Tube stand height",
+            "2390 mm (±5%)"
+          ],
+          [
+            "Tube stand rotation",
+            "±180° (±2%)"
+          ],
+          [
+            "Tube stand horizontal range",
+            "2100 mm (±5%)"
+          ],
+          [
+            "Chest stand — tube vertical range",
+            "1345 mm (±5%)"
+          ],
+          [
+            "Chest stand — bucky vertical range",
+            "1425 mm (±5%)"
+          ]
+        ]
+      },
+      {
+        "title": "6-Way Table & Console",
+        "rows": [
+          [
+            "Bed lifting range",
+            "530–880 mm (±5%)"
+          ],
+          [
+            "Bearing weight",
+            "250 kg"
+          ],
+          [
+            "Floating control",
+            "Footswitch, electromagnetic"
+          ],
+          [
+            "Operating system",
+            "Windows 10"
+          ],
+          [
+            "CPU / RAM / Storage",
+            "i5 10th Gen / 16 GB / 1 TB"
+          ],
+          [
+            "Image storage",
+            "10,000 images"
+          ],
+          [
+            "Screen size",
+            "22 inch"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/Ceiling-Free-X-Ray.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/ceiling-2.png",
+        "kind": "in-use"
+      },
+      {
+        "f": "gallery/ceiling-3.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/ceiling-4.png",
+        "kind": "detail"
+      },
+      {
+        "f": "gallery/ceiling-1.jpg",
+        "kind": "in-use"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "Ceiling Free X-Ray Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Ceiling-Free-With-Eray-16V-Print.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/ceiling-free-x-ray.php",
+    "dataNotes": [
+      "Live page lists only two power values (50 kW, 80 kW) for three models; power per model is therefore not asserted."
+    ],
+    "relatedProducts": [
+      "eray-ceiling-suspended-dr",
+      "eray-smart-eco-dr",
+      "eray-gold-100"
+    ]
+  },
+  {
+    "id": "eray-smart-eco-dr",
+    "slug": "eray-smart-eco-dr",
+    "name": "ERAY SMART ECO DR",
+    "series": "ERAY SMART ECO DR 7 – 50",
+    "category": "fixed-xray",
+    "tagline": "A DR room sized to your department.",
+    "shortDescription": "Floor-mounted digital X-ray from 7 to 50 kW with a 17″ × 17″ 4K wireless CsI detector, IP67 rating and a 13.3-inch built-in touch display.",
+    "overview": "The ERAY SMART ECO DR series provides cost-effective, high-quality X-ray for a range of clinical applications. With its multi-functionality and compatibility with Edusoft's latest DR panel, it offers flexible options for your imaging department, including a floor-mounted X-ray tube suitable for use with a chest bucky stand and mobile table.",
+    "highlights": [
+      {
+        "value": "7–50",
+        "unit": "kW",
+        "label": "Five power classes"
+      },
+      {
+        "value": "4K",
+        "unit": "",
+        "label": "Detector matrix"
+      },
+      {
+        "value": "IP67",
+        "unit": "",
+        "label": "Detector rating"
+      }
+    ],
+    "keyFeatures": [
+      "Quick preview images in under 5 seconds",
+      "Edusoft IAS for high-contrast, sharp digital images",
+      "Flexible vertical and horizontal bucky system",
+      "Wide dynamic range for soft tissue and bone",
+      "Dry film printing — no chemicals",
+      "Optional drop-proof detector tested up to 100 cm",
+      "Optional dual-energy subtraction and auto image stitching"
+    ],
+    "applications": [
+      "Hospitals",
+      "Diagnostic centres",
+      "Clinics"
+    ],
+    "specGroups": [
+      {
+        "title": "Models",
+        "rows": [
+          [
+            "Models",
+            "ECO DR 7 · 20 · 32 · 40 · 50"
+          ],
+          [
+            "Power output",
+            "7 · 20 · 32 · 40 · 50 kW"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Generator & Tube",
+        "rows": [
+          [
+            "Type",
+            "HF generator"
+          ],
+          [
+            "Time range",
+            "1 ms – 10000 ms"
+          ],
+          [
+            "kV range",
+            "40–125 kV · 40–150 kV"
+          ],
+          [
+            "mA range",
+            "10–250 mA · 10–500 mA · 10–630 mA"
+          ],
+          [
+            "Anode type",
+            "Stationary"
+          ],
+          [
+            "Heat capacity",
+            "140 kHU · 300 kHU"
+          ]
+        ]
+      },
+      {
+        "title": "Detector",
+        "rows": [
+          [
+            "Detector size",
+            "17″ × 17″"
+          ],
+          [
+            "Matrix size",
+            "4K × 4K"
+          ],
+          [
+            "Detector type",
+            "Wireless"
+          ],
+          [
+            "Pixel size",
+            "140 μm"
+          ],
+          [
+            "Image storage",
+            ">200 images"
+          ],
+          [
+            "Scintillator",
+            "CsI"
+          ],
+          [
+            "IP rating",
+            "IP67"
+          ]
+        ]
+      },
+      {
+        "title": "User Interface",
+        "rows": [
+          [
+            "Monitor",
+            "13.3″ inbuilt LCD touch display"
+          ],
+          [
+            "Interface",
+            "USB 2.0, LAN, HDMI"
+          ],
+          [
+            "CPU / RAM",
+            "i5 / i7 · 8 GB"
+          ],
+          [
+            "Software",
+            "Edusoft Image Acquisition Software"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/eray-smart.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/eray-smart-dr-1.JPG",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/eray-smart-dr-2.JPG",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/eray-smart-dr-3.JPG",
+        "kind": "angle"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ECO DR Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Eco-DR--16V-Print.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/digital-x-ray-machine.php",
+    "relatedProducts": [
+      "eray-rad-series",
+      "eray-ceiling-free",
+      "image-acquisition-software"
+    ]
+  },
+  {
+    "id": "eray-rad-series",
+    "slug": "eray-rad-series",
+    "name": "ERAY RAD Series",
+    "series": "ERAY RAD 200S – 630S",
+    "category": "fixed-xray",
+    "tagline": "Affordable, high-performing fixed radiography.",
+    "shortDescription": "CR- or DR-based high-frequency fixed X-ray from 10 to 50 kW with an extra-wide table rated to 200 kg and a 10-inch tablet console.",
+    "overview": "The ERAY RAD SERIES is a CR or DR-based fixed X-ray system that offers exceptional value. It accommodates a wide range of patients with its extra-wide design and high weight capacity. Fingertip controls and simple collimator adjustment get the right image quickly, and the Windows 10 platform keeps sensitive patient information secure.",
+    "highlights": [
+      {
+        "value": "10–50",
+        "unit": "kW",
+        "label": "Power output"
+      },
+      {
+        "value": "200",
+        "unit": "kg",
+        "label": "Patient capacity"
+      },
+      {
+        "value": "IP56",
+        "unit": "",
+        "label": "Detector rating"
+      }
+    ],
+    "keyFeatures": [
+      "Budget-friendly solution for human and veterinary applications",
+      "Intuitive controls for fast image adjustments",
+      "Weight capacity up to 200 kg (440.92 lbs)",
+      "Windows 10 platform for data security",
+      "Easy-to-use collimator controls"
+    ],
+    "applications": [
+      "General radiography",
+      "Veterinary",
+      "Clinics",
+      "Hospitals"
+    ],
+    "specGroups": [
+      {
+        "title": "Models",
+        "rows": [
+          [
+            "Models",
+            "ERAY RAD 200S · 250S · 300S · 500S · 630S"
+          ],
+          [
+            "Power output",
+            "10 · 20 · 32 · 40 · 50 kW"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Generator & Tube",
+        "rows": [
+          [
+            "Type",
+            "HF generator"
+          ],
+          [
+            "kV range",
+            "40–125 kV · 40–150 kV"
+          ],
+          [
+            "mA range",
+            "10–200 · 10–250 · 10–300 · 10–500 · 10–630 mA"
+          ],
+          [
+            "Anode type",
+            "Stationary"
+          ],
+          [
+            "Heat capacity",
+            "140 kHU · 200 kHU"
+          ]
+        ]
+      },
+      {
+        "title": "Detector",
+        "rows": [
+          [
+            "Detector size",
+            "14″ × 17″ / 17″ × 17″"
+          ],
+          [
+            "Pixel size",
+            "140 μm"
+          ],
+          [
+            "Scintillator",
+            "CsI / GOS"
+          ],
+          [
+            "Grey scale",
+            "16 bit"
+          ],
+          [
+            "Weight",
+            "2.7 kg / 3.2 kg"
+          ],
+          [
+            "IP rating",
+            "IP56"
+          ],
+          [
+            "Image storage",
+            "Up to 200 images"
+          ]
+        ]
+      },
+      {
+        "title": "Tablet Console",
+        "rows": [
+          [
+            "Type",
+            "Touch-screen tablet console"
+          ],
+          [
+            "Processor",
+            "Intel"
+          ],
+          [
+            "Storage",
+            "128 GB"
+          ],
+          [
+            "Operating software",
+            "Windows"
+          ],
+          [
+            "Size",
+            "10 inch"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/Fixed-New-2.png",
+        "kind": "studio"
+      },
+      {
+        "f": "live/eray-rad.png",
+        "kind": "angle"
+      },
+      {
+        "f": "live/2Fixed-XRay.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "HF Digital Fixed X-Ray Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/HF-Digital-Fixed-2026.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/fixed-x-ray-machine.php",
+    "dataNotes": [
+      "The live table lists 'TIME RANGE | 40kV-125kV' (copy error); time range omitted."
+    ],
+    "relatedProducts": [
+      "eray-smart-eco-dr",
+      "trimax-cr",
+      "trimax-tx40"
+    ]
+  },
+  {
+    "id": "eray-smart-5c-premium-pro",
+    "slug": "eray-smart-5c-premium-pro",
+    "name": "ERAY Smart 5C Premium Pro",
+    "series": "ERAY Smart 5C",
+    "category": "c-arms",
+    "tagline": "Motorised collimation, 880 mm free space.",
+    "shortDescription": "Flat panel mobile C-Arm with motorised leaf collimator, dual laser centring, 1000–1100 mm SID, 32-inch monitor cart and optional DSA and road mapping.",
+    "overview": "Edusoft's mobile C-Arms are designed for multidisciplinary use, delivering exceptional image quality at the lowest possible radiation dose. The Premium Pro adds a motorised leaf collimator, the widest free space and SID in the range, and a 32-inch 2560 × 1440 monitor cart — ideal for orthopaedics, trauma, neurosurgery, spine surgery, gastroenterology and urology.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "5",
+        "unit": "kW",
+        "label": "HF generator"
+      },
+      {
+        "value": "880",
+        "unit": "mm",
+        "label": "Free space"
+      },
+      {
+        "value": "±180",
+        "unit": "°",
+        "label": "Lateral rotation"
+      }
+    ],
+    "keyFeatures": [
+      "Motorised (leaf) collimator with dual laser centring",
+      "Amorphous silicon CsI flat panel detector, 16-bit",
+      "DICOM 3.0 network interface for PACS and RIS",
+      "15.6-inch swivelling touch screen on the C-arm",
+      "32-inch 2560 × 1440 monitor cart",
+      "Cine loop up to 15 fps; DSA and road mapping optional",
+      "Waterproof wired footswitch for hygiene and mobility"
+    ],
+    "applications": [
+      "Orthopaedics",
+      "Trauma",
+      "Neurosurgery",
+      "Spine surgery",
+      "Gastroenterology",
+      "Urology",
+      "Pain management"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Generator type",
+            "High-frequency technology"
+          ],
+          [
+            "Power output",
+            "5 kW"
+          ],
+          [
+            "Power input",
+            "220 V, single phase, 16 A"
+          ]
+        ]
+      },
+      {
+        "title": "Fluoroscopy & Radiography",
+        "rows": [
+          [
+            "Continuous fluoroscopy",
+            "40 ~ 125 kV · 0.5 ~ 12 mA"
+          ],
+          [
+            "Pulse fluoroscopy",
+            "40 ~ 125 kV · 4 ~ 36 mA"
+          ],
+          [
+            "Digital radiography",
+            "40 ~ 125 kV · 10 ~ 50 mA"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube & Collimator",
+        "rows": [
+          [
+            "Tube",
+            "Stationary anode · rotating anode (optional)"
+          ],
+          [
+            "Anode heat capacity",
+            "80 kHU · 210 kHU (optional)"
+          ],
+          [
+            "Focal spot",
+            "0.6 / 1.2 mm · 0.3 / 0.6 mm (optional)"
+          ],
+          [
+            "Collimator",
+            "Motorised (leaf) collimator"
+          ],
+          [
+            "Positioning",
+            "Dual laser centring"
+          ]
+        ]
+      },
+      {
+        "title": "C-Arm Structure",
+        "rows": [
+          [
+            "L × W × H",
+            "195.1 × 85.3 × 167.4 cm"
+          ],
+          [
+            "Orbital rotation",
+            "±33° – 117° (±5)"
+          ],
+          [
+            "Lateral rotation",
+            "±180°"
+          ],
+          [
+            "Vertical travel",
+            "400 mm"
+          ],
+          [
+            "Horizontal travel",
+            "200 mm"
+          ],
+          [
+            "SID",
+            "1000 – 1100 mm"
+          ],
+          [
+            "Wig-wag",
+            "±15°"
+          ],
+          [
+            "Free space",
+            "880 mm"
+          ],
+          [
+            "Depth in arc",
+            "710 mm"
+          ]
+        ]
+      },
+      {
+        "title": "Flat Panel Detector",
+        "rows": [
+          [
+            "Technology",
+            "Amorphous silicon (a-Si) with CsI"
+          ],
+          [
+            "Size",
+            "21 × 21 cm · 23 × 23 cm"
+          ],
+          [
+            "Pixel pitch",
+            "205 μm (139 μm optional) · 150 μm"
+          ],
+          [
+            "Resolution",
+            "1024 × 1024 (1536 × 1536 optional) · 2048 × 2048"
+          ],
+          [
+            "A/D conversion",
+            "16 bit"
+          ]
+        ]
+      },
+      {
+        "title": "Displays & Functions",
+        "rows": [
+          [
+            "C-arm monitor",
+            "15.6″ touch screen · 360° swivel · 120° tilt"
+          ],
+          [
+            "Monitor cart",
+            "32″ · 2560 × 1440 · keyboard control"
+          ],
+          [
+            "Exposure",
+            "Hand & foot switch"
+          ],
+          [
+            "DAP / Grid",
+            "Available / Available"
+          ],
+          [
+            "Cine loop",
+            "Up to 15 fps"
+          ],
+          [
+            "DSA / Road mapping",
+            "Optional / Optional"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/ERAY-Gold-Premium-PRO.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/DSC04041.png",
+        "kind": "detail"
+      },
+      {
+        "f": "gallery/Flat-Panel-Based-Mobile-C-Arm.jpg",
+        "kind": "motion"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Smart 5C Premium Pro Brochure",
+        "file": "https://edusofthealth.com/assets/ERAY-Gold-Premium-PRO.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/premium-c-arm-rotataory-3030.php",
+    "dataNotes": [
+      "Live feature list says 'up to 30 fps' while the spec table says 'CINE loop upto 15 fps'. Only the spec table value is shown — confirm the fluoroscopy frame rate before launch."
+    ],
+    "relatedProducts": [
+      "eray-smart-5c-gold",
+      "eray-smart-5c-premium",
+      "pacs-ris"
+    ]
+  },
+  {
+    "id": "eray-smart-5c-gold",
+    "slug": "eray-smart-5c-gold",
+    "name": "ERAY Smart 5C ERAY Gold",
+    "series": "ERAY Smart 5C",
+    "category": "c-arms",
+    "tagline": "Flat panel C-Arm with ERAY Gold imaging.",
+    "shortDescription": "Flat panel mobile C-Arm with 5 kW HF generator, a-Si CsI detector up to 2048 × 2048, dual laser centring, 980 mm SID and DICOM 3.0 integration.",
+    "overview": "Designed for multidisciplinary surgical use, the ERAY Smart 5C ERAY Gold delivers exceptional image quality at low radiation dose. An ergonomic design simplifies clinical workflow in the OR, while a DICOM 3.0 interface integrates with PACS and RIS for efficient data management.",
+    "highlights": [
+      {
+        "value": "5",
+        "unit": "kW",
+        "label": "HF generator"
+      },
+      {
+        "value": "2048²",
+        "unit": "px",
+        "label": "Detector matrix (23 cm)"
+      },
+      {
+        "value": "980",
+        "unit": "mm",
+        "label": "SID"
+      }
+    ],
+    "keyFeatures": [
+      "High-performance imaging workstation and image processing",
+      "DICOM 3.0 interface for PACS and RIS integration",
+      "High-frequency generator for spine, ortho, trauma, urology and pain management",
+      "High-brightness monitors for live and reference images",
+      "Dual laser centring on a fixed collimator",
+      "Waterproof wired footswitch"
+    ],
+    "applications": [
+      "Orthopaedics",
+      "Trauma",
+      "Neurosurgery",
+      "Spine surgery",
+      "Urology",
+      "Pain management"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Generator type",
+            "High-frequency technology"
+          ],
+          [
+            "Power output",
+            "5 kW"
+          ],
+          [
+            "Power input",
+            "220 V, single phase, 16 A"
+          ]
+        ]
+      },
+      {
+        "title": "Fluoroscopy & Radiography",
+        "rows": [
+          [
+            "Continuous fluoroscopy",
+            "40 ~ 125 kV · 0.5 ~ 12 mA"
+          ],
+          [
+            "Pulse fluoroscopy",
+            "40 ~ 125 kV · 4 ~ 36 mA"
+          ],
+          [
+            "Digital radiography",
+            "40 ~ 125 kV · 10 ~ 50 mA"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube & Collimator",
+        "rows": [
+          [
+            "Tube",
+            "Stationary anode · rotating anode (optional)"
+          ],
+          [
+            "Anode heat capacity",
+            "80 kHU · 210 kHU (optional)"
+          ],
+          [
+            "Focal spot",
+            "0.6 / 1.2 mm · 0.3 / 0.6 mm (optional)"
+          ],
+          [
+            "Collimator",
+            "Fixed type"
+          ],
+          [
+            "Positioning",
+            "Dual laser centring"
+          ]
+        ]
+      },
+      {
+        "title": "C-Arm Structure",
+        "rows": [
+          [
+            "L × W × H",
+            "195.1 × 85.3 × 167.4 cm"
+          ],
+          [
+            "Orbital rotation",
+            "30° – 110° (±5)"
+          ],
+          [
+            "Lateral rotation",
+            "±180°"
+          ],
+          [
+            "Vertical travel",
+            "400 mm"
+          ],
+          [
+            "Horizontal travel",
+            "200 mm"
+          ],
+          [
+            "SID",
+            "980 mm"
+          ],
+          [
+            "Wig-wag",
+            "±15°"
+          ],
+          [
+            "Free space",
+            "780 mm"
+          ],
+          [
+            "Depth in arc",
+            "680 mm"
+          ]
+        ]
+      },
+      {
+        "title": "Flat Panel Detector",
+        "rows": [
+          [
+            "Technology",
+            "Amorphous silicon (a-Si) with CsI"
+          ],
+          [
+            "Size",
+            "21 × 21 cm · 23 × 23 cm"
+          ],
+          [
+            "Pixel pitch",
+            "205 μm (139 μm optional) · 150 μm"
+          ],
+          [
+            "Resolution",
+            "1024 × 1024 (1356 × 1356 optional) · 2048 × 2048"
+          ],
+          [
+            "A/D conversion",
+            "16 bit"
+          ]
+        ]
+      },
+      {
+        "title": "Displays & Functions",
+        "rows": [
+          [
+            "C-arm monitor",
+            "15.6″ touch screen · 360° swivel · 120° tilt"
+          ],
+          [
+            "Monitor cart",
+            "32″ · 2560 × 1440 · keyboard control"
+          ],
+          [
+            "Exposure",
+            "Hand & foot switch"
+          ],
+          [
+            "DAP / Grid",
+            "Available / Available"
+          ],
+          [
+            "Cine loop",
+            "Up to 15 fps"
+          ],
+          [
+            "DSA / Road mapping",
+            "Optional / Optional"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/ERAY-Gold-Premium-CARM.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "live/New-C-Arm.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/DSC04041.png",
+        "kind": "detail"
+      },
+      {
+        "f": "gallery/Flat-Panel-Based-Mobile-C-Arm.jpg",
+        "kind": "motion"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Smart 5C ERAY Gold Brochure",
+        "file": "https://edusofthealth.com/assets/ERAY-Gold-PREMIUM.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/c-arm-flat-panel-premium-rotatory.php",
+    "dataNotes": [
+      "Optional resolution reads '1356 x 1356' on this page and '1536 x 1536' on the sibling pages — shown as published; likely a typo to confirm."
+    ],
+    "legacySlugs": [
+      "fpd-c-arm"
+    ],
+    "relatedProducts": [
+      "eray-smart-5c-premium-pro",
+      "eray-smart-5c-premium",
+      "trimax-tx55"
+    ]
+  },
+  {
+    "id": "eray-smart-5c-premium",
+    "slug": "eray-smart-5c-premium",
+    "name": "ERAY Smart 5C Premium",
+    "series": "ERAY Smart 5C",
+    "category": "c-arms",
+    "tagline": "The entry to flat panel fluoroscopy.",
+    "shortDescription": "5 kW flat panel mobile C-Arm with continuous and pulse fluoroscopy, 940 mm SID, 15.6-inch swivel touch screen and 32-inch monitor cart.",
+    "overview": "The ERAY Smart 5C Premium is a fast, safe and digitally compact mobile C-Arm for multidisciplinary surgical use, combining high-frequency generation, an amorphous silicon CsI flat panel detector and an ergonomic design that simplifies workflow in the operating room.",
+    "highlights": [
+      {
+        "value": "5",
+        "unit": "kW",
+        "label": "HF generator"
+      },
+      {
+        "value": "940",
+        "unit": "mm",
+        "label": "SID"
+      },
+      {
+        "value": "430",
+        "unit": "mm",
+        "label": "Vertical travel"
+      }
+    ],
+    "keyFeatures": [
+      "Continuous, pulse fluoroscopy and digital radiography modes",
+      "Amorphous silicon CsI flat panel detector, 16-bit",
+      "DICOM 3.0 network interface for PACS and RIS",
+      "15.6-inch touch screen with 360° swivel and 120° tilt",
+      "32-inch 2560 × 1440 monitor cart",
+      "DAP and grid available; DSA and road mapping optional"
+    ],
+    "applications": [
+      "Orthopaedics",
+      "Trauma",
+      "Spine surgery",
+      "Urology",
+      "Gastroenterology"
+    ],
+    "specGroups": [
+      {
+        "title": "X-Ray Generator",
+        "rows": [
+          [
+            "Generator type",
+            "High-frequency technology"
+          ],
+          [
+            "Power output",
+            "5 kW"
+          ],
+          [
+            "Power input",
+            "220 V, single phase, 16 A"
+          ]
+        ]
+      },
+      {
+        "title": "Fluoroscopy & Radiography",
+        "rows": [
+          [
+            "Continuous fluoroscopy",
+            "40 ~ 125 kV · 0.5 ~ 12 mA"
+          ],
+          [
+            "Pulse fluoroscopy",
+            "40 ~ 125 kV · 4 ~ 36 mA"
+          ],
+          [
+            "Digital radiography",
+            "40 ~ 125 kV · 10 ~ 50 mA"
+          ]
+        ]
+      },
+      {
+        "title": "X-Ray Tube & Collimator",
+        "rows": [
+          [
+            "Tube",
+            "Stationary anode · rotating anode (optional)"
+          ],
+          [
+            "Anode heat capacity",
+            "80 kHU · 210 kHU (optional)"
+          ],
+          [
+            "Focal spot",
+            "0.6 / 1.2 mm · 0.3 / 0.6 mm (optional)"
+          ],
+          [
+            "Collimator",
+            "Fixed type"
+          ],
+          [
+            "Positioning",
+            "Dual laser centring"
+          ]
+        ]
+      },
+      {
+        "title": "C-Arm Structure",
+        "rows": [
+          [
+            "L × W × H",
+            "195.1 × 85.3 × 167.4 cm"
+          ],
+          [
+            "Orbital rotation",
+            "±35° – 103° (±5)"
+          ],
+          [
+            "Lateral rotation",
+            "±180°"
+          ],
+          [
+            "Vertical travel",
+            "430 mm"
+          ],
+          [
+            "Horizontal travel",
+            "200 mm"
+          ],
+          [
+            "SID",
+            "940 mm"
+          ],
+          [
+            "Wig-wag",
+            "±12.5°"
+          ],
+          [
+            "Free space",
+            "770 mm"
+          ],
+          [
+            "Depth in arc",
+            "680 mm"
+          ]
+        ]
+      },
+      {
+        "title": "Flat Panel Detector",
+        "rows": [
+          [
+            "Technology",
+            "Amorphous silicon (a-Si) with CsI"
+          ],
+          [
+            "Size",
+            "21 × 21 cm · 23 × 23 cm"
+          ],
+          [
+            "Pixel pitch",
+            "205 μm (139 μm optional) · 150 μm"
+          ],
+          [
+            "Resolution",
+            "1024 × 1024 (1536 × 1536 optional) · 2048 × 2048"
+          ],
+          [
+            "A/D conversion",
+            "16 bit"
+          ]
+        ]
+      },
+      {
+        "title": "Displays & Functions",
+        "rows": [
+          [
+            "C-arm monitor",
+            "15.6″ touch screen · 360° swivel · 120° tilt"
+          ],
+          [
+            "Monitor cart",
+            "32″ · 2560 × 1440 · keyboard control"
+          ],
+          [
+            "Exposure",
+            "Hand & foot switch"
+          ],
+          [
+            "DAP / Grid",
+            "Available / Available"
+          ],
+          [
+            "Cine loop",
+            "Up to 15 fps"
+          ],
+          [
+            "DSA / Road mapping",
+            "Optional / Optional"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/ERAY-premium.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/c-1.jpeg",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/c-2.jpeg",
+        "kind": "motion"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Smart 5C Premium Brochure",
+        "file": "https://edusofthealth.com/assets/ERAY-Premium.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/eco-digital-mobile-c-arm.php",
+    "relatedProducts": [
+      "eray-smart-5c-gold",
+      "eray-smart-5c-premium-pro",
+      "protection-barrier"
+    ]
+  },
+  {
+    "id": "eray-gold-100",
+    "slug": "eray-gold-100",
+    "name": "ERAY Gold 100 Detector",
+    "series": "ERAY Gold",
+    "category": "dr-detectors",
+    "tagline": "100 μm pixels. 73% DQE. Wireless.",
+    "shortDescription": "17″ × 17″ wireless CsI flat panel detector with 4.2k × 4.2k resolution, 100 μm pixel pitch, 73% DQE, IP56 and 8-hour battery — ERAY ImageSuite (CDSCO approved) included.",
+    "overview": "With the ERAY Gold 100 Detector, cost is no longer a barrier for rooms, mobiles and retrofit systems to enjoy affordable, wireless DR imaging. Direct-deposition CsI on amorphous silicon delivers 4.3 lp/mm spatial resolution, while Beam Detect Mode captures images automatically when exposure is detected.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "100",
+        "unit": "μm",
+        "label": "Pixel pitch"
+      },
+      {
+        "value": "73",
+        "unit": "%",
+        "label": "DQE @ 0 lp/mm"
+      },
+      {
+        "value": "8",
+        "unit": "h",
+        "label": "Battery autonomy"
+      }
+    ],
+    "keyFeatures": [
+      "Direct-deposition CsI scintillator on a-Si TFT",
+      "Beam Detect Mode — captures automatically on exposure",
+      "Wireless 2.4G & 5G, IEEE 802.11 a/b/g/n/ac",
+      "Compatible with DR rooms, mobiles and retrofit systems",
+      "Bucky and table-top exam configurations",
+      "ERAY ImageSuite software (CDSCO approved) with veterinary measurement tools"
+    ],
+    "applications": [
+      "DR rooms",
+      "Mobile X-ray",
+      "Retrofit",
+      "Veterinary clinics"
+    ],
+    "specGroups": [
+      {
+        "title": "Imaging",
+        "rows": [
+          [
+            "Model",
+            "ERAY Gold 100"
+          ],
+          [
+            "Detector technology",
+            "Amorphous silicon (a-Si TFT)"
+          ],
+          [
+            "Scintillator",
+            "CsI, direct deposition"
+          ],
+          [
+            "Active area",
+            "17″ × 17″ (426.7 × 426.7 mm)"
+          ],
+          [
+            "Resolution",
+            "4.2k × 4.2k"
+          ],
+          [
+            "Pixel pitch",
+            "100 μm"
+          ],
+          [
+            "Spatial resolution",
+            "4.3 lp/mm"
+          ],
+          [
+            "DQE @ 0 lp/mm",
+            "73%"
+          ],
+          [
+            "MTF @ 0.5 lp/mm",
+            "87%"
+          ],
+          [
+            "A/D conversion",
+            "16-bit"
+          ],
+          [
+            "X-ray energy",
+            "40–150 kV"
+          ],
+          [
+            "SID",
+            "90–180 cm"
+          ]
+        ]
+      },
+      {
+        "title": "Mechanical",
+        "rows": [
+          [
+            "Weight",
+            "3.4 kg with battery"
+          ],
+          [
+            "Static loading",
+            "300 kg uniform · 150 kg local (Ø 4 cm)"
+          ],
+          [
+            "Ingress protection",
+            "IP56"
+          ]
+        ]
+      },
+      {
+        "title": "Workflow & Power",
+        "rows": [
+          [
+            "Full image time",
+            "3 s"
+          ],
+          [
+            "Internal storage",
+            "200 full-size images"
+          ],
+          [
+            "Wi-Fi",
+            "2.4G & 5G, IEEE 802.11 a/b/g/n/ac"
+          ],
+          [
+            "Battery autonomy",
+            "8 hours"
+          ],
+          [
+            "Battery capacity",
+            "Typ. 4900 mAh · 11.55 V"
+          ],
+          [
+            "Full charging time",
+            "≤ 3 hours"
+          ],
+          [
+            "Power consumption",
+            "Max 20 W, no battery charging"
+          ]
+        ]
+      },
+      {
+        "title": "Environment & Software",
+        "rows": [
+          [
+            "Operating environment",
+            "10–35 °C · 5–90% RH"
+          ],
+          [
+            "Storage & transport",
+            "−20–55 °C · 5–95% RH, with package"
+          ],
+          [
+            "Software",
+            "ERAY ImageSuite (CDSCO approved)"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/gold100.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/eray-gold.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/eray-gold-black.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/ERAY-Gold-100-Detector.jpeg",
+        "kind": "angle"
+      },
+      {
+        "f": "live/Eray-Gold.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Gold 100 Brochure",
+        "file": "https://edusofthealth.com/assets/ERAY-Gold-100-Detector-broucher.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/eray-gold-flat-panel-detector.php",
+    "relatedProducts": [
+      "eray-gold-breakfree",
+      "trimax-dr",
+      "eray-inkjet-printer"
+    ]
+  },
+  {
+    "id": "eray-gold-breakfree",
+    "slug": "eray-gold-breakfree",
+    "name": "ERAY Gold Breakfree",
+    "series": "ERAY Gold",
+    "category": "dr-detectors",
+    "tagline": "Full image in two seconds. Hot-swap battery.",
+    "shortDescription": "14″ × 17″ wireless flat panel detector with 802.11ac transfer (full image within 2 seconds), hot-swappable dual battery, IP56 and over 8 hours of autonomy.",
+    "overview": "The ERAY Gold Breakfree combines high image quality, a lightweight Mg-Al housing, dual battery and an innovative Wi-Fi antenna design. Built-in IEEE 802.11ac delivers the full image within 2 seconds; batteries can be exchanged at any time without shutting down, and the last image is retained in case of power loss.",
+    "highlights": [
+      {
+        "value": "2",
+        "unit": "s",
+        "label": "Full image transfer"
+      },
+      {
+        "value": "8+",
+        "unit": "h",
+        "label": "Battery autonomy"
+      },
+      {
+        "value": "IP56",
+        "unit": "",
+        "label": "Ingress protection"
+      }
+    ],
+    "keyFeatures": [
+      "Specialised antenna design with IEEE 802.11ac for 2-second full-image transfer",
+      "Hot-swap battery — no shutdown required",
+      "Last image retained on the device before shutdown",
+      "Built-in temperature and gravity sensors for self-monitoring",
+      "Over 8 hours / 1000+ images at 30-second intervals",
+      "Access point mode — connects without extra wireless configuration",
+      "Water resistant for easy cleaning"
+    ],
+    "applications": [
+      "Mobile X-ray",
+      "Retrofit",
+      "Handheld X-ray",
+      "DR rooms"
+    ],
+    "specGroups": [
+      {
+        "title": "Detector",
+        "rows": [
+          [
+            "Model",
+            "ERAY Gold BREAKFREE"
+          ],
+          [
+            "Dimension",
+            "383 × 460 × 15 mm (14″ × 17″)"
+          ],
+          [
+            "Sensor array",
+            "a-Si photodiode"
+          ],
+          [
+            "Scintillator",
+            "CsI / GOS"
+          ],
+          [
+            "Resolution",
+            "2500 × 3052"
+          ],
+          [
+            "Pixel size",
+            "140 μm"
+          ],
+          [
+            "Grey scale",
+            "16 bit"
+          ]
+        ]
+      },
+      {
+        "title": "Connectivity & Power",
+        "rows": [
+          [
+            "Wi-Fi",
+            "802.11ac / 2 antennas / 2 s scan to display / AP mode"
+          ],
+          [
+            "Trigger mode",
+            "AED mode"
+          ],
+          [
+            "Battery autonomy",
+            "8 hours*"
+          ],
+          [
+            "Accessories",
+            "Battery / magnetic connector cable with Ethernet and power"
+          ]
+        ]
+      },
+      {
+        "title": "Mechanical & Environment",
+        "rows": [
+          [
+            "Drop height",
+            "70 cm"
+          ],
+          [
+            "Housing material",
+            "Mg-Al alloy"
+          ],
+          [
+            "Weight (battery included)",
+            "2.5 kg"
+          ],
+          [
+            "Waterproof",
+            "IP56"
+          ],
+          [
+            "Face / point load",
+            "300 / 120 kg"
+          ],
+          [
+            "Operating temperature / humidity",
+            "10 ~ 35 °C / 15 ~ 80%"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/ERAY-GOLDBREAKFREE.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/ERAY-GOLDBREAKFREE1.jpeg",
+        "kind": "angle"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Gold Breakfree Brochure",
+        "file": "https://edusofthealth.com/assets/ERAYGOLD%20BREAKFREEBroucher.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/eray-gold-breakfire.php",
+    "dataNotes": [
+      "Live spec table reads 'PIXEL SIZE | 140 mm' — shown as 140 μm (unit typo).",
+      "Spec table weight 2.5 kg; prose says 2.7 kg (1417) / 3.2 kg (1717). Spec table used."
+    ],
+    "relatedProducts": [
+      "eray-gold-100",
+      "eray-smart-6hs",
+      "detector-stand"
+    ]
+  },
+  {
+    "id": "trimax-dr",
+    "slug": "trimax-dr",
+    "name": "TRIMAX DR",
+    "series": "TRIMAX 35C",
+    "category": "dr-detectors",
+    "tagline": "Affordable wireless DR retrofit.",
+    "shortDescription": "TRIMAX 35C 14″ × 17″ wireless CsI detector — an easy-to-install retrofit that brings DR to existing rooms, mobiles and veterinary imaging.",
+    "overview": "With the TRIMAX Detector, cost is no longer a barrier for rooms, mobiles and retrofit systems to enjoy affordable, wireless DR imaging. The easy-to-install retrofit provides immediate access to high-quality images, eliminates cable clutter and reduces tripping hazards.",
+    "highlights": [
+      {
+        "value": "14×17",
+        "unit": "″",
+        "label": "Detector size"
+      },
+      {
+        "value": "130",
+        "unit": "μm",
+        "label": "Pixel size"
+      },
+      {
+        "value": ">150",
+        "unit": "",
+        "label": "Images stored"
+      }
+    ],
+    "keyFeatures": [
+      "Beam Detect Mode automatically captures on exposure",
+      "Wireless workflow improves patient throughput",
+      "Image Suite software with veterinary measurement tools",
+      "Bucky and table-top exam configurations",
+      "Compatible with DR rooms, mobiles and retrofit systems"
+    ],
+    "applications": [
+      "Retrofit",
+      "Veterinary clinics",
+      "Specialty practices"
+    ],
+    "specGroups": [
+      {
+        "title": "TRIMAX 35C Detector",
+        "rows": [
+          [
+            "Detector size",
+            "14″ × 17″"
+          ],
+          [
+            "Matrix size",
+            "2K × 2K"
+          ],
+          [
+            "Detector type",
+            "Wireless"
+          ],
+          [
+            "Pixel size",
+            "130 μm"
+          ],
+          [
+            "Image storage",
+            ">150 images"
+          ],
+          [
+            "Scintillator",
+            "CsI"
+          ],
+          [
+            "IP rating",
+            "IP44"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/TRIAMX_DR-01.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/dr-1.JPG",
+        "kind": "in-use"
+      },
+      {
+        "f": "gallery/dr-2.jpg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/dr-3.JPG",
+        "kind": "angle"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "TRIMAX DR Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/TRIMAX_DR-5-2026.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/trimax-dr-system.php",
+    "relatedProducts": [
+      "eray-gold-100",
+      "eray-igzo",
+      "trimax-cr"
+    ]
+  },
+  {
+    "id": "eray-igzo",
+    "slug": "eray-igzo",
+    "name": "ERAY IGZO Flat Panel Detector",
+    "series": "ERAY IGZO",
+    "category": "dr-detectors",
+    "tagline": "Next-generation IGZO panel technology.",
+    "shortDescription": "Wireless ERAY flat panel detector built on IGZO technology for rooms, mobiles and retrofit DR. Request the current specification sheet from our team.",
+    "overview": "The ERAY IGZO Flat Panel Detector extends the ERAY wireless DR range for rooms, mobile systems and retrofit applications. Download the brochure or contact our product specialists for detailed specifications.",
+    "highlights": [],
+    "keyFeatures": [
+      "Wireless DR for rooms, mobiles and retrofit systems",
+      "Bucky and table-top exam configurations"
+    ],
+    "applications": [
+      "DR rooms",
+      "Mobile X-ray",
+      "Retrofit"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/Eray-Igzo.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/igzo-2.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/Igzo-3.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/igzo-1.png",
+        "kind": "detail"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY IGZO Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/IGZO-2026.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/eray-igzo-flat-panel-detector.php",
+    "dataNotes": [
+      "The live IGZO page shows the TRIMAX 35C spec table and TRIMAX copy. No IGZO-specific specifications are published, so none are shown."
+    ],
+    "relatedProducts": [
+      "eray-gold-100",
+      "eray-gold-breakfree",
+      "trimax-dr"
+    ]
+  },
+  {
+    "id": "trimax-cr",
+    "slug": "trimax-cr",
+    "name": "TRIMAX CR",
+    "series": "TRIMAX",
+    "category": "cr-systems",
+    "tagline": "A smooth upgrade from film to digital.",
+    "shortDescription": "Compact computed radiography reader with selectable throughput, multiple cassette sizes, long-length imaging and PACS query/retrieve.",
+    "overview": "The TRIMAX CR System is an ideal solution for a smooth upgrade from film to digital. It ensures faster workflow and superior patient care by producing high-quality digital images, with a variety of throughput rates so you can choose the one that best fits your requirements.",
+    "highlights": [
+      {
+        "value": "40",
+        "unit": "PPH",
+        "label": "Throughput option"
+      },
+      {
+        "value": "0",
+        "unit": "",
+        "label": "Wet chemistry"
+      }
+    ],
+    "keyFeatures": [
+      "Specialised measurement tools for confident diagnoses",
+      "Real-time image fine-tuning with slide bars",
+      "Lower maintenance costs; eliminates film consumables",
+      "Query/retrieve prior images from PACS",
+      "Multiple cassette sizes for all major exam types",
+      "Long-length Imaging System for long-bone exams"
+    ],
+    "applications": [
+      "Small & mid-size hospitals",
+      "Clinics",
+      "Practices"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "gallery/TRIMAX_CRSystem_07_smhires.webp",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/TRIMAX_CRSystem_1_smhires.webp",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/TRIMAX_CRSystem_06_hires.webp",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/TRIMAX_CRSystem_08_smhires.webp",
+        "kind": "detail"
+      },
+      {
+        "f": "live/3CR.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "TRIMAX CR Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Trimax-CR60pph-2026.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/trimax-cr-systems.php",
+    "relatedProducts": [
+      "trimax-tx40",
+      "eray-rad-series",
+      "eray-inkjet-printer"
+    ]
+  },
+  {
+    "id": "eray-firecr-spark",
+    "slug": "eray-firecr-spark",
+    "name": "ERAY FireCR Spark",
+    "series": "ERAY",
+    "category": "cr-systems",
+    "tagline": "Compact tabletop CR.",
+    "shortDescription": "Compact ERAY computed radiography reader for clinics moving from film to digital. Download the brochure for full specifications.",
+    "overview": "ERAY FireCR Spark is a compact computed radiography reader in Edusoft's CR range, designed to bring in-house digital imaging to smaller facilities without the running costs of film.",
+    "highlights": [],
+    "keyFeatures": [
+      "Go digital without overspending",
+      "Save on consumables by eliminating film",
+      "Multiple cassette sizes"
+    ],
+    "applications": [
+      "Clinics",
+      "Small hospitals"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/ERAY-FireCR-Spark.jpeg",
+        "kind": "studio",
+        "cutout": false
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY FireCR Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Fire-CR.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/eray-fire-cr-spark.php",
+    "dataNotes": [
+      "The live FireCR page carries TRIMAX CR copy. Only generic CR benefits are shown here."
+    ],
+    "relatedProducts": [
+      "trimax-cr",
+      "eray-inkjet-printer"
+    ]
+  },
+  {
+    "id": "trimax-tx55",
+    "slug": "trimax-tx55",
+    "name": "TRIMAX TX55 Laser Imager",
+    "series": "TRIMAX Laser",
+    "category": "printers",
+    "tagline": "508 ppi dry laser with mammography built in.",
+    "shortDescription": "Tabletop photothermographic dry laser imager at 508 pixels per inch, 14-bit depth, 70+ films per hour and built-in mammography capability.",
+    "overview": "The TX55 Laser Imaging System offers high diagnostic image performance at low cost. TRIMAX laser imaging technology, built-in mammography capabilities and tabletop convenience make it an all-in-one solution for CR, DR, MRI, CT, full-field digital mammography and CR-mammography.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "508",
+        "unit": "ppi",
+        "label": "Laser resolution"
+      },
+      {
+        "value": "70+",
+        "unit": "/h",
+        "label": "14×17 films per hour"
+      },
+      {
+        "value": "14",
+        "unit": "bit",
+        "label": "Pixel depth"
+      }
+    ],
+    "keyFeatures": [
+      "Daylight-load cartridges — two film sizes online",
+      "Automatic Image Quality Control (AIQC)",
+      "True laser technology at 50 micron spot spacing",
+      "Mammography film with up to 4.0 Dmax (DVM+)",
+      "Integrated DICOM interface with Smart Link remote technology",
+      "Gigabit Ethernet connection"
+    ],
+    "applications": [
+      "CR",
+      "DR",
+      "CT",
+      "MRI",
+      "Mammography"
+    ],
+    "specGroups": [
+      {
+        "title": "Imaging",
+        "rows": [
+          [
+            "Technology",
+            "Photothermographic (dry laser)"
+          ],
+          [
+            "Resolution",
+            "508 laser pixels per inch"
+          ],
+          [
+            "Laser spot spacing",
+            "50 micron"
+          ],
+          [
+            "Pixel depth",
+            "14-bit"
+          ],
+          [
+            "Throughput",
+            ">70 films per hour (14 × 17 in.)"
+          ]
+        ]
+      },
+      {
+        "title": "Film",
+        "rows": [
+          [
+            "Film sizes",
+            "14 × 17, 11 × 14, 10 × 12, 8 × 10 in."
+          ],
+          [
+            "Film sizes online",
+            "2"
+          ],
+          [
+            "Cartridge",
+            "Daylight load, 125 sheets"
+          ],
+          [
+            "Mammography",
+            "3.6 Dmax (DVM) · 4.0 Dmax (DVM+)"
+          ]
+        ]
+      },
+      {
+        "title": "Connectivity",
+        "rows": [
+          [
+            "DICOM",
+            "Integrated DICOM print interface"
+          ],
+          [
+            "Remote",
+            "Smart Link remote technology"
+          ],
+          [
+            "Network",
+            "10/100/1000 Base-T Ethernet, RJ-45"
+          ]
+        ]
+      },
+      {
+        "title": "Physical & Environment",
+        "rows": [
+          [
+            "Dimensions (H × W × D)",
+            "66.6 × 62.6 × 64.9 cm"
+          ],
+          [
+            "Weight",
+            "79 kg (175 lbs)"
+          ],
+          [
+            "Power",
+            "100–120 VAC or 200–240 VAC, 50/60 Hz"
+          ],
+          [
+            "Operating temperature",
+            "15 to 33 °C"
+          ],
+          [
+            "Humidity",
+            "20 to 80% RH, non-condensing"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "gallery/tx55-1.png",
+        "kind": "studio"
+      },
+      {
+        "f": "live/55.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "TRIMAX Printer Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Printer.pdf"
+      },
+      {
+        "name": "TRIMAX Laser Imaging Range",
+        "file": "https://edusofthealth.com/assets/TRIMAX-LASER-IMAGING-PRINTER.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/trimax-tx55-laser-imager.php",
+    "legacySlugs": [
+      "xray-printer"
+    ],
+    "relatedProducts": [
+      "trimax-tx40",
+      "trimax-tx65",
+      "trimax-digital-films"
+    ]
+  },
+  {
+    "id": "trimax-tx40",
+    "slug": "trimax-tx40",
+    "name": "TRIMAX TX40 Laser Imager",
+    "series": "TRIMAX Laser",
+    "category": "printers",
+    "tagline": "Compact tabletop dry laser.",
+    "shortDescription": "Compact tabletop photothermographic dry laser imager — 325 ppi, 14-bit, 40+ films per hour at 14 × 17 in., no daily preventive maintenance.",
+    "overview": "The TX40 Laser Imaging System is a reliable, affordable option for healthcare facilities of all sizes. A compact tabletop footprint, modest acquisition price and consistently low operating costs — compatible with CR, DR, MRI and CT.",
+    "highlights": [
+      {
+        "value": "325",
+        "unit": "ppi",
+        "label": "Laser resolution"
+      },
+      {
+        "value": "40+",
+        "unit": "/h",
+        "label": "14×17 films per hour"
+      },
+      {
+        "value": "54",
+        "unit": "kg",
+        "label": "Weight"
+      }
+    ],
+    "keyFeatures": [
+      "Space-saving tabletop design",
+      "Room-light film loading",
+      "No daily or weekly preventive maintenance to optimise image quality",
+      "Automatic Image Quality Control (AIQC)",
+      "Integrated DICOM interface"
+    ],
+    "applications": [
+      "CR",
+      "DR",
+      "CT",
+      "MRI"
+    ],
+    "specGroups": [
+      {
+        "title": "Imaging",
+        "rows": [
+          [
+            "Technology",
+            "Photothermographic (dry laser)"
+          ],
+          [
+            "Resolution",
+            "325 pixels per inch, 78 micron spot spacing"
+          ],
+          [
+            "Pixel depth",
+            "14-bit"
+          ],
+          [
+            "Throughput",
+            ">40 films/h (14 × 17 in.) · >70 films/h (8 × 10 in.)"
+          ]
+        ]
+      },
+      {
+        "title": "Film",
+        "rows": [
+          [
+            "Film sizes",
+            "14 × 17, 11 × 14, 10 × 12, 8 × 10 in."
+          ],
+          [
+            "Film sizes online",
+            "1"
+          ],
+          [
+            "Cartridge",
+            "Daylight load, 125 sheets, blue 7-mil polyester base"
+          ]
+        ]
+      },
+      {
+        "title": "Connectivity",
+        "rows": [
+          [
+            "DICOM",
+            "Integrated DICOM interface"
+          ],
+          [
+            "Network",
+            "10/100/1000 Base-T Ethernet (jumbo frame)"
+          ],
+          [
+            "SOP classes",
+            "Basic Grayscale & Color Print Mgmt, Presentation LUT, Annotation Box, Verification"
+          ]
+        ]
+      },
+      {
+        "title": "Physical & Environment",
+        "rows": [
+          [
+            "Dimensions (H × W × D)",
+            "47 × 61 × 66 cm"
+          ],
+          [
+            "Weight",
+            "54 kg (120 lb)"
+          ],
+          [
+            "Power",
+            "100–120 VAC or 200–240 VAC, 50/60 Hz"
+          ],
+          [
+            "Operating temperature",
+            "15 to 33 °C"
+          ],
+          [
+            "Humidity",
+            "20 to 80% RH, non-condensing"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "gallery/tx40-1.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/tx40-2.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/tx40-3.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/tx40-4.png",
+        "kind": "angle"
+      },
+      {
+        "f": "live/40.png",
+        "kind": "studio"
+      }
+    ],
+    "spin": {
+      "frames": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "label": "4 angles"
+    },
+    "downloads": [
+      {
+        "name": "TRIMAX TX40 Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/TRIMAX-Printer-2026.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/trimax-tx40-laser-imager.php",
+    "relatedProducts": [
+      "trimax-tx55",
+      "trimax-cr",
+      "trimax-digital-films"
+    ]
+  },
+  {
+    "id": "trimax-tx65",
+    "slug": "trimax-tx65",
+    "name": "TRIMAX TX65 Laser Imager",
+    "series": "TRIMAX Laser",
+    "category": "printers",
+    "tagline": "650 ppi, 160 films per hour.",
+    "shortDescription": "High-throughput dry laser imager — 650 ppi, 39 micron spot spacing, 160 films per hour, three film sizes online and optional 5-bin sorter.",
+    "overview": "The TX65 Laser Imaging System delivers high image quality at low cost, with TRIMAX laser imaging technology, built-in mammography capabilities and support for CR, DR, MRI, CT and mammography. Smart Link remote monitoring tracks equipment status, backed by Edusoft's 24×7 Customer Success Network.",
+    "highlights": [
+      {
+        "value": "650",
+        "unit": "ppi",
+        "label": "Laser resolution"
+      },
+      {
+        "value": "160",
+        "unit": "/h",
+        "label": "14×17 films per hour"
+      },
+      {
+        "value": "60",
+        "unit": "s",
+        "label": "Time to first print"
+      }
+    ],
+    "keyFeatures": [
+      "Three film sizes online",
+      "Optional 5-bin film sorter",
+      "User-selectable mammography test patterns and control charting",
+      "Smart Link remote monitoring and diagnostics",
+      "Automatic Image Quality Control (AIQC)"
+    ],
+    "applications": [
+      "High-volume radiology",
+      "CT",
+      "MRI",
+      "Mammography"
+    ],
+    "specGroups": [
+      {
+        "title": "Imaging",
+        "rows": [
+          [
+            "Technology",
+            "Photothermographic (dry laser)"
+          ],
+          [
+            "Resolution",
+            "650 laser pixels per inch"
+          ],
+          [
+            "Laser spot spacing",
+            "39 micron"
+          ],
+          [
+            "Pixel depth",
+            "14-bit"
+          ],
+          [
+            "Time to first print",
+            "60 seconds"
+          ],
+          [
+            "Throughput",
+            "160 films per hour (14 × 17 in.)"
+          ]
+        ]
+      },
+      {
+        "title": "Film",
+        "rows": [
+          [
+            "Film sizes",
+            "14 × 17, 11 × 14, 10 × 12, 8 × 10 in."
+          ],
+          [
+            "Film sizes online",
+            "3"
+          ],
+          [
+            "Mammography",
+            "3.6 Dmax (TXE) · 4.0 Dmax (TXE+)"
+          ],
+          [
+            "Sorter",
+            "Optional 5-bin"
+          ]
+        ]
+      },
+      {
+        "title": "Physical",
+        "rows": [
+          [
+            "Without sorter (H × W × D)",
+            "115.0 × 62.6 × 68.6 cm · 147 kg"
+          ],
+          [
+            "With sorter (H × W × D)",
+            "159.0 × 62.6 × 71.8 cm · 177 kg"
+          ],
+          [
+            "Power",
+            "100–120 VAC or 200–240 VAC, 50/60 Hz"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "gallery/tx65-1.jpg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/tx65-2.png",
+        "kind": "angle"
+      },
+      {
+        "f": "live/65.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "TRIMAX Printer Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/Printer.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/trimax-tx65-laser-imager.php",
+    "relatedProducts": [
+      "trimax-tx55",
+      "trimax-digital-films",
+      "pacs-ris"
+    ]
+  },
+  {
+    "id": "eray-thermal-printer",
+    "slug": "eray-thermal-printer",
+    "name": "ERAY Thermal Printer",
+    "series": "ERAY55",
+    "category": "printers",
+    "tagline": "Made in India. CDSCO approved.",
+    "shortDescription": "CDSCO-approved dry thermal medical imager — 508 DPI, 14-bit grayscale, up to 100 films per hour, dual trays and multi-modality DICOM printing.",
+    "overview": "The ERAY Thermal Printer (Model: ERAY55) is a CDSCO-approved medical dry imager for high-volume, high-accuracy diagnostic environments. A built-in optical densitometer and automatic heating-curve adjustment keep image density stable across films, while anti-static brushes and a smart suction pickup minimise jams — even in humid conditions.",
+    "featured": true,
+    "highlights": [
+      {
+        "value": "508",
+        "unit": "DPI",
+        "label": "Resolution"
+      },
+      {
+        "value": "100",
+        "unit": "/h",
+        "label": "Films per hour"
+      },
+      {
+        "value": "2×100",
+        "unit": "",
+        "label": "Dual film trays"
+      }
+    ],
+    "keyFeatures": [
+      "Compatible with MRI, CT, PET-CT, CBCT, X-ray and ultrasound",
+      "14-bit grayscale processing with uniform optical density",
+      "Built-in optical densitometer with automatic heating-curve adjustment",
+      "Latest SoC chipset on a Linux-based system",
+      "Anti-static brush, smart suction pickup and auto-calibrating separator",
+      "Manufactured in India · CDSCO approved"
+    ],
+    "applications": [
+      "Hospitals",
+      "Diagnostic centres",
+      "Radiology labs",
+      "Tele-radiology"
+    ],
+    "specGroups": [
+      {
+        "title": "Imaging & Performance",
+        "rows": [
+          [
+            "Technology",
+            "Dry thermal imaging"
+          ],
+          [
+            "Resolution",
+            "508 DPI"
+          ],
+          [
+            "Grayscale",
+            "14-bit processing"
+          ],
+          [
+            "Print speed",
+            "Up to 100 sheets/hour"
+          ]
+        ]
+      },
+      {
+        "title": "Film Handling",
+        "rows": [
+          [
+            "Film sizes",
+            "8 × 10, 10 × 12, 11 × 14, 14 × 17 in."
+          ],
+          [
+            "Trays",
+            "Dual film trays, 100 sheets each"
+          ],
+          [
+            "Film type",
+            "Dye / silver salt"
+          ]
+        ]
+      },
+      {
+        "title": "System & Connectivity",
+        "rows": [
+          [
+            "Interface",
+            "Ethernet (RJ-45)"
+          ],
+          [
+            "Protocol",
+            "DICOM compatible"
+          ],
+          [
+            "Display",
+            "8-inch touch panel"
+          ],
+          [
+            "OS",
+            "Linux-based system"
+          ]
+        ]
+      },
+      {
+        "title": "Physical",
+        "rows": [
+          [
+            "Dimensions",
+            "595 × 665 × 597 mm"
+          ],
+          [
+            "Weight",
+            "85 kg"
+          ],
+          [
+            "Power supply",
+            "100–240 V AC"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/laser.jpeg",
+        "kind": "studio",
+        "cutout": false
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Thermal Printer Brochure",
+        "file": "https://edusofthealth.com/assets/thermal-printer.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/thermal-printer.php",
+    "dataNotes": [
+      "'First print time' is blank on the live page and is omitted."
+    ],
+    "relatedProducts": [
+      "trimax-tx55",
+      "eray-inkjet-printer",
+      "pacs-ris"
+    ]
+  },
+  {
+    "id": "eray-inkjet-printer",
+    "slug": "eray-inkjet-printer",
+    "name": "ERAY Inkjet X-Ray Printer",
+    "series": "EPSON Inkjet",
+    "category": "printers",
+    "tagline": "Diagnostic printing at a fraction of laser cost.",
+    "shortDescription": "Cost-effective EPSON-based inkjet X-ray printing for CR and DR, from 8″ × 10″ to 14″ × 17″ and A3+, with bulk ink and dedicated imaging software.",
+    "overview": "The ERAY Inkjet X-Ray Printer provides high-quality X-ray film printing at a fraction of traditional laser printer costs — ideal for growing diagnostic setups. Pair it with TRIMAX CR or an ERAY Gold DR retrofit for a complete, economical digital package.",
+    "highlights": [
+      {
+        "value": "6",
+        "unit": "",
+        "label": "Film sizes supported"
+      },
+      {
+        "value": "1000",
+        "unit": "ml",
+        "label": "Bulk ink option"
+      }
+    ],
+    "keyFeatures": [
+      "Compatible with CR and DR systems",
+      "Film sizes 8″×10″, 10″×12″, 11″×14″, 13″×17″, 14″×17″, A3 / A3+",
+      "Ink filling tube support in 100 ml and 1000 ml",
+      "Dedicated software for clarity, contrast and workflow",
+      "Bundles with TRIMAX CR or ERAY Gold DR retrofit"
+    ],
+    "applications": [
+      "Diagnostic centres",
+      "Hospitals",
+      "Clinics",
+      "Mobile X-ray units",
+      "Veterinary"
+    ],
+    "specGroups": [
+      {
+        "title": "Printing",
+        "rows": [
+          [
+            "Film sizes",
+            "8″ × 10″, 10″ × 12″, 11″ × 14″, 13″ × 17″, 14″ × 17″, A3 / A3+"
+          ],
+          [
+            "Ink system",
+            "Ink filling tube, 100 ml & 1000 ml"
+          ],
+          [
+            "Compatibility",
+            "CR & DR systems"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/Inkjet.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "ERAY Inkjet Printer Brochure",
+        "file": "https://edusofthealth.com/assets/eray-inkjet-printer-gold.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/espon-inkjet-printer.php",
+    "relatedProducts": [
+      "eray-inkjet-films",
+      "trimax-cr",
+      "eray-gold-100"
+    ]
+  },
+  {
+    "id": "trimax-digital-films",
+    "slug": "trimax-digital-films",
+    "name": "TRIMAX Laser Imaging Film",
+    "series": "TRIMAX",
+    "category": "films-media",
+    "tagline": "Formulated for TRIMAX imagers.",
+    "shortDescription": "Dry laser imaging film with lower noise, better density uniformity and daylight cartridge loading — in five sizes from 8 × 10 to 14 × 17 in.",
+    "overview": "TRIMAX Laser Imaging Film is formulated specifically for TRIMAX laser imagers and delivers superb images with lower noise, better density uniformity and greater visibility of subtle detail. Easy cartridge loading in full room light, no wet processor, and a long shelf life that streamlines inventory.",
+    "highlights": [
+      {
+        "value": "5",
+        "unit": "",
+        "label": "Film sizes"
+      },
+      {
+        "value": "0",
+        "unit": "",
+        "label": "Wet processing"
+      }
+    ],
+    "keyFeatures": [
+      "Compatible with the TRIMAX laser imager range",
+      "Long shelf life and quick daylight loading",
+      "No bag cutting or disposal",
+      "Requires no wet film processor"
+    ],
+    "applications": [
+      "TRIMAX TX40",
+      "TRIMAX TX55",
+      "TRIMAX TX65"
+    ],
+    "specGroups": [
+      {
+        "title": "Sizes",
+        "rows": [
+          [
+            "Available sizes",
+            "14 × 17 in. (35 × 43 cm), 14 × 14 in. (35 × 35 cm), 11 × 14 in. (28 × 35 cm), 10 × 12 in. (25 × 30 cm), 8 × 10 in. (20 × 25 cm)"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/xdigital.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/trimax-films-1.JPG",
+        "kind": "packaging",
+        "cutout": false
+      },
+      {
+        "f": "gallery/trimax-films-2.JPG",
+        "kind": "packaging",
+        "cutout": false
+      },
+      {
+        "f": "gallery/trimax-films-3.JPG",
+        "kind": "packaging",
+        "cutout": false
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/trimax-digital-x-ray-films.php",
+    "legacySlugs": [
+      "xray-film"
+    ],
+    "relatedProducts": [
+      "trimax-tx55",
+      "trimax-tx40",
+      "eray-medical-films"
+    ]
+  },
+  {
+    "id": "eray-medical-films",
+    "slug": "eray-medical-films",
+    "name": "ERAY Medical X-Ray Film",
+    "series": "ERAY",
+    "category": "films-media",
+    "tagline": "Double-sided, full-speed, blue-sensitive.",
+    "shortDescription": "Double-sided, blue-sensitive wet X-ray film with T-GRAIN emulsion technology for sharper images in general radiographic examinations.",
+    "overview": "ERAY Medical X-Ray Wet Film is a double-sided, full-speed, blue-sensitive film that helps clinicians identify otherwise hard-to-see details. T-GRAIN emulsion technology reduces screen-light crossover for improved image sharpness.",
+    "highlights": [
+      {
+        "value": "90",
+        "unit": "s",
+        "label": "Min. processing cycle"
+      }
+    ],
+    "keyFeatures": [
+      "T-GRAIN emulsion reduces screen-light crossover",
+      "Works with automatic loading systems and cassette changers",
+      "Processed in 90-second or longer automatic cycles",
+      "Designed for general radiographic examinations"
+    ],
+    "applications": [
+      "General radiography"
+    ],
+    "specGroups": [
+      {
+        "title": "Handling",
+        "rows": [
+          [
+            "Processing",
+            "90-second or longer automatic cycles, standard chemistry"
+          ],
+          [
+            "Storage",
+            "10–24 °C, 30–50% RH, shielded from penetrating radiation"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/xmedical.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/eray-films-1.JPG",
+        "kind": "packaging",
+        "cutout": false
+      },
+      {
+        "f": "gallery/eray-films-2.JPG",
+        "kind": "packaging",
+        "cutout": false
+      },
+      {
+        "f": "gallery/eray-films-4.JPG",
+        "kind": "packaging",
+        "cutout": false
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/eray-medical-xray-film.php",
+    "relatedProducts": [
+      "trimax-digital-films",
+      "eray-inkjet-films"
+    ]
+  },
+  {
+    "id": "eray-inkjet-films",
+    "slug": "eray-inkjet-films",
+    "name": "ERAY Gold Inkjet Film",
+    "series": "ERAY Gold",
+    "category": "films-media",
+    "tagline": "Consistent output from inkjet printers.",
+    "shortDescription": "ERAY Gold medical X-ray dry film for inkjet printing, available in multiple sizes for consistent diagnostic output.",
+    "overview": "Specialised inkjet X-ray films are available in multiple sizes to ensure consistent, reliable output with the ERAY Inkjet X-Ray Printer.",
+    "highlights": [],
+    "keyFeatures": [
+      "Multiple film sizes",
+      "Matched to the ERAY Inkjet X-Ray Printer"
+    ],
+    "applications": [
+      "Inkjet X-ray printing"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/Inkjet.jpeg",
+        "kind": "packaging"
+      },
+      {
+        "f": "gallery/Inkjet-Printer-Box.png",
+        "kind": "packaging"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/espon-inkjet-printer.php",
+    "relatedProducts": [
+      "eray-inkjet-printer",
+      "eray-medical-films"
+    ]
+  },
+  {
+    "id": "sony-upp-110s",
+    "slug": "sony-upp-110s",
+    "name": "SONY UPP-110S · Type I",
+    "series": "SONY Ultrasound Rolls",
+    "category": "films-media",
+    "tagline": "High-quality B&W print media.",
+    "shortDescription": "A6-width, type I high-quality black & white thermal print media for ultrasound, dental and microscopy — 110 mm × 20 m, about 217 prints per roll.",
+    "overview": "SONY UPP-110S is A6-width black & white high-quality print media (type I), mainly used in ultrasound, dental and microscopy applications. Available in multiples of 10; the master carton contains 100 rolls.",
+    "highlights": [
+      {
+        "value": "217",
+        "unit": "",
+        "label": "Prints per roll"
+      },
+      {
+        "value": "20",
+        "unit": "m",
+        "label": "Roll length"
+      }
+    ],
+    "keyFeatures": [
+      "A6 width, B&W high quality (type I)",
+      "Ultrasound, dental and microscopy applications",
+      "Order in multiples of 10 rolls"
+    ],
+    "applications": [
+      "Ultrasound",
+      "Dental",
+      "Microscopy"
+    ],
+    "specGroups": [
+      {
+        "title": "UPP-110S",
+        "rows": [
+          [
+            "Roll dimensions",
+            "110 mm (W) × 20 m"
+          ],
+          [
+            "Order unit",
+            "10 rolls"
+          ],
+          [
+            "Print quantity",
+            "217 prints"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/type1.png",
+        "kind": "packaging"
+      },
+      {
+        "f": "gallery/ultrasound-1.png",
+        "kind": "packaging"
+      },
+      {
+        "f": "gallery/ultrasound-2.png",
+        "kind": "packaging"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "SONY Ultrasound Rolls",
+        "file": "https://edusofthealth.com/assets/pdf/sony-ultrasound-rolls.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/sony-ultrasound-rolls-type1.php",
+    "relatedProducts": [
+      "sony-upp-110hg"
+    ]
+  },
+  {
+    "id": "sony-upp-110hg",
+    "slug": "sony-upp-110hg",
+    "name": "SONY UPP-110HG · Type V",
+    "series": "SONY Ultrasound Rolls",
+    "category": "films-media",
+    "tagline": "High-glossy ultrasound media.",
+    "shortDescription": "A6-width, type V high-glossy black & white print media for ultrasound — 110 mm × 18 m, approximately 200 prints per roll.",
+    "overview": "SONY UPP-110HG is A6-width black & white high-glossy print media (type V), mainly used in ultrasound applications. Available in multiples of 5; the master carton contains 100 rolls.",
+    "highlights": [
+      {
+        "value": "~200",
+        "unit": "",
+        "label": "Prints per roll"
+      },
+      {
+        "value": "18",
+        "unit": "m",
+        "label": "Roll length"
+      }
+    ],
+    "keyFeatures": [
+      "A6 width, B&W high glossy (type V)",
+      "Ultrasound applications",
+      "Order in multiples of 5 rolls"
+    ],
+    "applications": [
+      "Ultrasound"
+    ],
+    "specGroups": [
+      {
+        "title": "UPP-110HG",
+        "rows": [
+          [
+            "Roll dimensions",
+            "110 mm (W) × 18 m"
+          ],
+          [
+            "Order unit",
+            "5 rolls"
+          ],
+          [
+            "Print quantity",
+            "Approximately 200 prints"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/typr5.png",
+        "kind": "packaging"
+      },
+      {
+        "f": "gallery/ultrasound-v1.png",
+        "kind": "packaging"
+      },
+      {
+        "f": "gallery/ultrasound-v2.png",
+        "kind": "packaging"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "SONY Ultrasound Rolls",
+        "file": "https://edusofthealth.com/assets/pdf/sony-ultrasound-rolls.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/sony-ultrasound-rolls-type5.php",
+    "relatedProducts": [
+      "sony-upp-110s"
+    ]
+  },
+  {
+    "id": "pacs-ris",
+    "slug": "pacs-ris",
+    "name": "PACS & RIS",
+    "series": "Digital Solutions",
+    "category": "software-ai",
+    "tagline": "One archive for every modality.",
+    "shortDescription": "Picture archiving and radiology information systems that manage medical images and data across modalities, with tele-radiology support.",
+    "overview": "Edusoft offers a range of digital solutions — PACS, RIS, AI and tele-radiology — to improve the efficiency of healthcare delivery and support the management of medical images and data. Edusoft C-Arms and DR systems connect via DICOM 3.0, and TRIMAX CR supports query/retrieve of prior images from PACS.",
+    "highlights": [],
+    "keyFeatures": [
+      "PACS for image archiving and distribution",
+      "RIS for radiology workflow and reporting",
+      "DICOM integration with Edusoft C-Arms, DR and CR",
+      "Tele-radiology support"
+    ],
+    "applications": [
+      "Radiology departments",
+      "Diagnostic chains",
+      "Tele-radiology"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/PACS.jpg",
+        "kind": "screen"
+      },
+      {
+        "f": "live/RIS.jpg",
+        "kind": "screen"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/it-solution.php",
+    "dataNotes": [
+      "Previous site listed PACS/RIS feature specs (HL7, AES-256, etc.) that are not published on edusofthealth.com. They were removed pending confirmation — see products.legacy.json."
+    ],
+    "relatedProducts": [
+      "image-acquisition-software",
+      "ai-radiology",
+      "trimax-tx65"
+    ]
+  },
+  {
+    "id": "image-acquisition-software",
+    "slug": "image-acquisition-software",
+    "name": "Edusoft Image Acquisition Software",
+    "series": "Edusoft IAS · ERAY ImageSuite",
+    "category": "software-ai",
+    "tagline": "Sharper images from every exposure.",
+    "shortDescription": "Edusoft IAS and ERAY ImageSuite (CDSCO approved) — acquisition and post-processing that delivers high-contrast images and removes grid and exposure errors.",
+    "overview": "Edusoft IAS technology delivers high-contrast, sharp digital images for accurate diagnoses, enhancing image detail by removing grids and exposure errors. ERAY ImageSuite, supplied with ERAY Gold detectors, is CDSCO approved and includes veterinary-specific measurement tools.",
+    "highlights": [],
+    "keyFeatures": [
+      "High-contrast, sharp digital images",
+      "Removes grid lines and exposure errors",
+      "Post-processing tools to further improve image quality",
+      "Optional dual-energy subtraction and auto image stitching (ECO DR)",
+      "ERAY ImageSuite — CDSCO approved"
+    ],
+    "applications": [
+      "DR rooms",
+      "Mobile X-ray",
+      "Veterinary"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/IT-SOLUTION.jpg",
+        "kind": "screen"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/digital-x-ray-machine.php",
+    "relatedProducts": [
+      "pacs-ris",
+      "eray-smart-eco-dr",
+      "eray-gold-100"
+    ]
+  },
+  {
+    "id": "ai-radiology",
+    "slug": "ai-radiology",
+    "name": "AI Radiology Software",
+    "series": "Partner platforms",
+    "category": "software-ai",
+    "tagline": "AI reading support from leading partners.",
+    "shortDescription": "AI radiology software from partner platforms VUNO, DEEPTEK and RadiSen, integrated with Edusoft imaging for screening programmes such as TB.",
+    "overview": "Edusoft delivers AI radiology software from specialist partners — VUNO, DEEPTEK and RadiSen — alongside its imaging systems. Paired with ERAY SMART handheld X-ray, these tools support large-scale screening programmes such as India's mission to end TB.",
+    "highlights": [],
+    "keyFeatures": [
+      "VUNO AI software",
+      "DEEPTEK AI software",
+      "RadiSen AI software",
+      "Supports TB screening programmes with handheld X-ray"
+    ],
+    "applications": [
+      "TB screening",
+      "Chest X-ray triage",
+      "Tele-radiology"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/vuno.jpeg",
+        "kind": "logo"
+      },
+      {
+        "f": "live/deeptek.jpeg",
+        "kind": "logo"
+      },
+      {
+        "f": "live/redisen.png",
+        "kind": "logo"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/it-solution.php",
+    "legacySlugs": [
+      "tb-screening-ai"
+    ],
+    "dataNotes": [
+      "The previous site described an Edusoft-built 'CE-marked TB Screening AI'. The live site lists partner AI platforms instead; that claim was removed."
+    ],
+    "relatedProducts": [
+      "eray-smart-6hs",
+      "pacs-ris"
+    ]
+  },
+  {
+    "id": "tables-accessories",
+    "slug": "tables-accessories",
+    "name": "Tables & Radiology Accessories",
+    "series": "Edusoft",
+    "category": "accessories",
+    "tagline": "Built around the exposure.",
+    "shortDescription": "Radiography tables, bucky stands and diagnostic accessories engineered for durability and seamless integration with existing imaging setups.",
+    "overview": "Designed to streamline diagnostic workflows and enhance clinical precision, Edusoft tables and accessories are built for dependable performance and operational durability, integrating with existing radiography infrastructure and DICOM networks.",
+    "highlights": [],
+    "keyFeatures": [
+      "Supports high-resolution imaging with low artefact occurrence",
+      "Integrates with existing imaging setups and workstations",
+      "Medical-grade materials for high patient volumes",
+      "Fast positioning and rapid acquisition",
+      "Backed by Edusoft after-sales service and training"
+    ],
+    "applications": [
+      "Radiography rooms",
+      "Diagnostic centres",
+      "Veterinary"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/t1.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/t2.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/t3.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/t4.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/t5.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/t6.jpeg",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/t7.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/tables-accessories.php",
+    "legacySlugs": [
+      "xray-accessories"
+    ],
+    "relatedProducts": [
+      "detector-stand",
+      "protection-barrier",
+      "xray-carry-bag"
+    ]
+  },
+  {
+    "id": "protection-barrier",
+    "slug": "protection-barrier",
+    "name": "Protection Barrier",
+    "series": "Edusoft",
+    "category": "accessories",
+    "tagline": "Operator radiation shielding.",
+    "shortDescription": "Mobile radiation protection barrier with viewing window for operator shielding during exposures.",
+    "overview": "A mobile protection barrier with a viewing window to shield operators during radiographic exposures in rooms, wards and procedure areas.",
+    "highlights": [],
+    "keyFeatures": [
+      "Mobile, castor-mounted barrier",
+      "Viewing window"
+    ],
+    "applications": [
+      "Radiography rooms",
+      "Wards",
+      "Operating rooms"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/ProtectionBarrier.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/ultrasound-thermal-paper.php",
+    "legacySlugs": [
+      "radiation-protection"
+    ],
+    "relatedProducts": [
+      "tables-accessories",
+      "eray-smart-5c-premium"
+    ]
+  },
+  {
+    "id": "detector-stand",
+    "slug": "detector-stand",
+    "name": "Detector Stand",
+    "series": "Edusoft",
+    "category": "accessories",
+    "tagline": "Stable positioning for portable DR.",
+    "shortDescription": "Tripod detector stand for positioning flat panel detectors with handheld and portable X-ray systems.",
+    "overview": "A tripod stand for holding flat panel detectors in position during handheld and portable radiography.",
+    "highlights": [],
+    "keyFeatures": [
+      "Tripod base",
+      "For flat panel detectors"
+    ],
+    "applications": [
+      "Handheld X-ray",
+      "Field imaging",
+      "Outreach"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/detectorstand.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/ultrasound-thermal-paper.php",
+    "relatedProducts": [
+      "eray-smart-6hs",
+      "eray-gold-breakfree",
+      "xray-carry-bag"
+    ]
+  },
+  {
+    "id": "xray-carry-bag",
+    "slug": "xray-carry-bag",
+    "name": "Backpack X-Ray Carry Bag",
+    "series": "Edusoft",
+    "category": "accessories",
+    "tagline": "Field kit, carried.",
+    "shortDescription": "Edusoft backpack carry bag with reflective strips for transporting portable X-ray equipment to the field.",
+    "overview": "A padded backpack with reflective strips for carrying handheld X-ray equipment on outreach, disaster response and home-care visits.",
+    "highlights": [],
+    "keyFeatures": [
+      "Backpack format",
+      "Reflective safety strips"
+    ],
+    "applications": [
+      "Outreach",
+      "Disaster response",
+      "Home care"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/CarryBag.jpeg",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/ultrasound-thermal-paper.php",
+    "relatedProducts": [
+      "eray-smart-3hs",
+      "detector-stand"
+    ]
+  },
+  {
+    "id": "digital-intraoral-sensor",
+    "slug": "digital-intraoral-sensor",
+    "name": "Digital Intraoral Sensor",
+    "series": "Dental",
+    "category": "specialty",
+    "tagline": "Instant digital dental radiographs.",
+    "shortDescription": "Digital intraoral X-ray sensor with USB connection for instant dental radiographs. Contact us for sizes and specifications.",
+    "overview": "Edusoft's digital intraoral sensor brings immediate digital imaging to dental practices. Our specialists can advise on sensor sizes, software compatibility and configuration.",
+    "highlights": [],
+    "keyFeatures": [
+      "USB connection",
+      "Instant digital images"
+    ],
+    "applications": [
+      "Dental clinics",
+      "Endodontics"
+    ],
+    "specGroups": [],
+    "media": [
+      {
+        "f": "live/Digital-Intraoral-Sensor.png",
+        "kind": "studio"
+      }
+    ],
+    "downloads": [],
+    "sourceUrl": "https://edusofthealth.com/products.php",
+    "legacySlugs": [
+      "rvg-sensor"
+    ],
+    "dataNotes": [
+      "The previous site listed RVG sensor specs (20 lp/mm, 70% dose reduction, etc.) not published on edusofthealth.com. Removed pending confirmation — see products.legacy.json."
+    ],
+    "relatedProducts": [
+      "ai-optics-vision-screener",
+      "image-acquisition-software"
+    ]
+  },
+  {
+    "id": "ai-optics-vision-screener",
+    "slug": "ai-optics-vision-screener",
+    "name": "AI-Optics Vision Screener",
+    "series": "AI-Optic",
+    "category": "specialty",
+    "tagline": "Push-button refractive screening.",
+    "shortDescription": "Handheld AI vision screener combining infrared photorefraction with deep learning to detect early signs of myopia, hyperopia and astigmatism.",
+    "overview": "AI-Optic combines infrared photorefraction with a deep learning algorithm to detect early signs of refractive disorders such as myopia, hyperopia and astigmatism with just a push of a button. A 7-inch touch screen, 5-hour battery and Wi-Fi make it practical for school and community screening.",
+    "highlights": [
+      {
+        "value": "7",
+        "unit": "″",
+        "label": "LCD touch screen"
+      },
+      {
+        "value": "5",
+        "unit": "h",
+        "label": "Battery life"
+      }
+    ],
+    "keyFeatures": [
+      "Infrared photorefraction with deep learning",
+      "Screens for myopia, hyperopia and astigmatism",
+      "Handheld, push-button operation",
+      "Wi-Fi connectivity"
+    ],
+    "applications": [
+      "School screening",
+      "Community health",
+      "Ophthalmology & optometry"
+    ],
+    "specGroups": [
+      {
+        "title": "AI Optic",
+        "rows": [
+          [
+            "Monitor",
+            "7-inch LCD touch screen"
+          ],
+          [
+            "Battery life",
+            "5 hours"
+          ],
+          [
+            "Charging",
+            "USB charging port, 100–240 V, 50/60 Hz"
+          ],
+          [
+            "Wi-Fi",
+            "IEEE 802.11 b/g/n, 2.4 GHz"
+          ]
+        ]
+      }
+    ],
+    "media": [
+      {
+        "f": "live/AI-optics.png",
+        "kind": "studio"
+      },
+      {
+        "f": "gallery/ai-AI3.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/ai-AI6.jpg",
+        "kind": "in-use"
+      },
+      {
+        "f": "gallery/ai-AI7.png",
+        "kind": "angle"
+      },
+      {
+        "f": "gallery/ai-AI9.png",
+        "kind": "detail"
+      }
+    ],
+    "downloads": [
+      {
+        "name": "AI-Optics Vision Screener Brochure",
+        "file": "https://edusofthealth.com/assets/pdf/ai-optics-vision-screener.pdf"
+      }
+    ],
+    "sourceUrl": "https://edusofthealth.com/mobile-eye-testing-machine.php",
+    "dataNotes": [
+      "Comparative marketing claims on the live page ('200% more accurate', 'pay 90% less') are not reproduced."
+    ],
+    "relatedProducts": [
+      "digital-intraoral-sensor"
+    ]
+  }
+]

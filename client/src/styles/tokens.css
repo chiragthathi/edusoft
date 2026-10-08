@@ -1,0 +1,131 @@
+/* ─────────────────────────────────────────────────────────────
+   EDUSOFT · LUMINANCE DESIGN TOKENS
+   Source of truth for colour, type, space, radius, depth, motion.
+   Colours are space-separated RGB channels so Tailwind can apply
+   alpha: `bg-brand/20` → rgb(var(--brand) / 0.2).
+   Documented in /docs/DESIGN_SYSTEM.md
+   ───────────────────────────────────────────────────────────── */
+
+:root {
+  /* Typography */
+  --font-display: 'Geist', 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Noto Sans JP', 'Noto Sans SC', 'Noto Sans KR', sans-serif;
+  --font-body: 'Geist', 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Noto Sans JP', 'Noto Sans SC', 'Noto Sans KR', sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+
+  /* Surfaces — "porcelain" light theme */
+  --bg: 244 245 243;            /* porcelain-100 */
+  --surface: 251 251 250;       /* paper */
+  --surface-2: 233 235 232;     /* porcelain-200 */
+  --raised: 255 255 255;
+  --fg: 11 18 32;               /* ink text */
+  --muted: 83 94 110;
+  --subtle: 102 112 126;
+  --line: 11 18 32;
+  --line-a: 0.09;
+  --line-strong: 11 18 32;
+  --line-strong-a: 0.18;
+
+  /* Brand */
+  --brand: 0 94 166;            /* Edusoft blue #005EA6 */
+  --brand-strong: 0 72 130;
+  --brand-soft: 222 235 248;
+  --on-brand: 255 255 255;
+  --signal: 46 196 150;         /* phosphor — status only, never large areas */
+  --danger: 204 51 63;
+  --success: 22 150 104;
+
+  /* Lightbox — the product stage */
+  --lightbox-from: 255 255 255;
+  --lightbox-to: 232 236 240;
+  --lightbox-edge: 11 18 32;
+  --lightbox-edge-a: 0.06;
+
+  /* Space */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6.5rem;
+  --space-section: clamp(5rem, 3.5rem + 6vw, 10rem);
+  --gutter: clamp(1rem, 0.6rem + 1.8vw, 2.5rem);
+  --container: 88rem;
+
+  /* Radius — technical, restrained */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+
+  /* Depth */
+  --shadow-lift: 0 1px 1px rgb(11 18 32 / 0.04), 0 8px 24px -12px rgb(11 18 32 / 0.18);
+  --shadow-float: 0 2px 4px rgb(11 18 32 / 0.04), 0 30px 60px -24px rgb(11 18 32 / 0.28);
+  --shadow-glow: 0 0 0 1px rgb(var(--brand) / 0.25), 0 12px 40px -12px rgb(var(--brand) / 0.55);
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);        /* expo-out: arrivals */
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);    /* transitions between states */
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1); /* micro-feedback only */
+  --motion-fast: 180ms;
+  --motion-normal: 360ms;
+  --motion-slow: 720ms;
+  --motion-cinematic: 1200ms;
+
+  --header-h: 4.25rem;
+  color-scheme: light;
+}
+
+/* Dark theme — user toggle (ThemeContext) */
+.dark {
+  --bg: 7 11 17;
+  --surface: 12 17 25;
+  --surface-2: 19 27 39;
+  --raised: 23 31 44;
+  --fg: 233 237 242;
+  --muted: 150 160 175;
+  --subtle: 122 133 149;
+  --line: 233 237 242;
+  --line-a: 0.09;
+  --line-strong: 233 237 242;
+  --line-strong-a: 0.18;
+  --brand: 74 150 232;
+  --brand-strong: 120 180 245;
+  --brand-soft: 20 40 66;
+  --on-brand: 5 8 13;
+  --lightbox-from: 238 241 244;
+  --lightbox-to: 206 213 221;
+  --lightbox-edge: 255 255 255;
+  --lightbox-edge-a: 0.08;
+  --shadow-lift: 0 1px 0 rgb(255 255 255 / 0.04) inset, 0 12px 32px -16px rgb(0 0 0 / 0.7);
+  --shadow-float: 0 1px 0 rgb(255 255 255 / 0.05) inset, 0 40px 80px -30px rgb(0 0 0 / 0.85);
+  color-scheme: dark;
+}
+
+/* "Ink" tone — cinematic sections that are dark in both themes. */
+[data-tone='ink'] {
+  --bg: 7 11 17;
+  --surface: 13 19 28;
+  --surface-2: 20 28 40;
+  --raised: 25 34 48;
+  --fg: 236 240 245;
+  --muted: 152 163 178;
+  --subtle: 122 134 150;
+  --line: 236 240 245;
+  --line-a: 0.1;
+  --line-strong: 236 240 245;
+  --line-strong-a: 0.2;
+  --brand: 82 158 238;
+  --brand-strong: 132 188 248;
+  --brand-soft: 20 40 66;
+  --on-brand: 5 8 13;
+  --lightbox-from: 240 243 246;
+  --lightbox-to: 208 215 223;
+  --lightbox-edge: 255 255 255;
+  --lightbox-edge-a: 0.1;
+  color-scheme: dark;
+  color: rgb(var(--fg));
+}
+.dark [data-tone='ink'] { --bg: 3 6 10; --surface: 9 13 20; }

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "fpd-c-arm",
+    "name": "FPD C-Arm",
+    "slug": "fpd-c-arm",
+    "category": "surgical-imaging",
+    "categoryLabel": "Surgical Imaging",
+    "shortDescription": "High-resolution flat panel detector C-arm for precise intraoperative imaging in surgical suites.",
+    "image": "https://edusofthealth.com/assets/images/products/c-arm.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/c-arm.jpg"
+    ],
+    "overview": "The EduSoft FPD C-Arm delivers exceptional intraoperative imaging quality with its advanced flat panel detector technology. Designed for demanding surgical environments, it offers real-time fluoroscopy with minimal X-ray dose, supporting orthopedic, vascular, and trauma procedures.",
+    "keyFeatures": [
+      "Large 30 cm × 30 cm flat panel detector for wide field of view",
+      "High frame rate fluoroscopy up to 30 fps",
+      "Motorized C-arm for precise angulation control",
+      "Automatic Brightness Control (ABC) for consistent image quality",
+      "DICOM 3.0 compliant with PACS integration",
+      "Compact footprint for easy maneuverability in the OR",
+      "Low dose pulsed fluoroscopy mode"
+    ],
+    "specifications": {
+      "Detector Type": "Amorphous Silicon Flat Panel Detector",
+      "Detector Size": "30 cm × 30 cm",
+      "Pixel Size": "194 μm",
+      "Frame Rate": "Up to 30 fps",
+      "kV Range": "40–120 kV",
+      "mA Range": "0.1–25 mA",
+      "C-arm Rotation": "±190° orbital, ±120° isocentric",
+      "Monitor": "Dual 19\" LCD monitors",
+      "Image Storage": "≥ 10,000 images",
+      "Connectivity": "DICOM 3.0, USB, LAN"
+    },
+    "clinicalUseCases": [
+      "Orthopedic surgery: fracture reduction, nail/screw placement verification",
+      "Vascular interventions: angiography and stent placement",
+      "Trauma surgery: real-time guidance for complex fixations",
+      "Urology: ureteroscopy and stone fragmentation guidance",
+      "Pain management: fluoroscopy-guided injections"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Technical Specifications", "file": "#" }
+    ],
+    "relatedProducts": ["rvg-sensor", "pacs-ris"]
+  },
+  {
+    "id": "rvg-sensor",
+    "name": "RVG Sensor",
+    "slug": "rvg-sensor",
+    "category": "dental-imaging",
+    "categoryLabel": "Dental Imaging",
+    "shortDescription": "Digital intraoral RVG sensor delivering instant, high-resolution dental radiographs with significantly reduced patient dose.",
+    "image": "https://edusofthealth.com/assets/images/products/rvg.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/rvg.jpg"
+    ],
+    "overview": "The EduSoft RVG (RadioVisioGraphy) Sensor enables immediate digital intraoral imaging with superior image quality. Its thin profile and flexible design ensure patient comfort while delivering the diagnostic detail that dentists and endodontists require.",
+    "keyFeatures": [
+      "Ultra-thin 5 mm sensor thickness for patient comfort",
+      "Resolution up to 20 lp/mm for precise diagnosis",
+      "Immediate image preview in < 2 seconds",
+      "Up to 70% dose reduction vs. conventional film",
+      "Compatible with major dental software via TWAIN bridge",
+      "Durable construction with autoclavable positioning rings",
+      "Available in Size 1 (pediatric) and Size 2 (adult)"
+    ],
+    "specifications": {
+      "Sensor Size": "Size 1 and Size 2",
+      "Active Area (Size 2)": "26 × 36 mm",
+      "Pixel Size": "≤ 25 μm",
+      "Resolution": "Up to 20 lp/mm",
+      "Sensor Thickness": "5 mm",
+      "Interface": "USB 2.0",
+      "Image Depth": "12-bit grayscale",
+      "Preview Time": "< 2 seconds",
+      "Cable Length": "2.5 m"
+    },
+    "clinicalUseCases": [
+      "Caries detection and monitoring",
+      "Periodontal bone level assessment",
+      "Endodontic treatment planning and working length determination",
+      "Implant placement planning and post-operative verification",
+      "Pediatric dental imaging"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Technical Specifications", "file": "#" }
+    ],
+    "relatedProducts": ["fpd-c-arm"]
+  },
+  {
+    "id": "xray-printer",
+    "name": "X-Ray Printer",
+    "slug": "xray-printer",
+    "category": "printers-media",
+    "categoryLabel": "Printers & Media",
+    "shortDescription": "High-throughput medical dry laser printer producing diagnostic-quality radiograph prints for clinical and archival use.",
+    "image": "https://edusofthealth.com/assets/images/products/printer.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/printer.jpg"
+    ],
+    "overview": "The EduSoft X-Ray Printer is a professional dry-process medical imaging printer engineered for high-volume radiology departments. DICOM-compliant and compatible with all major imaging modalities, it delivers consistent, archival-grade diagnostic prints.",
+    "keyFeatures": [
+      "Dry laser technology — no chemicals, no darkroom required",
+      "Print resolution up to 508 dpi",
+      "DICOM 3.0 compliant for seamless modality integration",
+      "Throughput up to 100 sheets/hour",
+      "Multiple film format support: 14×17\", 11×14\", 10×12\", 8×10\"",
+      "Network-enabled for multi-workstation access",
+      "Calibrated output with built-in densitometer"
+    ],
+    "specifications": {
+      "Print Technology": "Dry Laser",
+      "Resolution": "508 dpi",
+      "Density Range": "0.1 – 3.1 Dmax",
+      "Throughput": "Up to 100 sheets/hour",
+      "Supported Formats": "14×17\", 11×14\", 10×12\", 8×10\"",
+      "Connectivity": "DICOM 3.0, Ethernet",
+      "Media Capacity": "100-sheet cassette",
+      "Interface": "10/100Base-T Ethernet"
+    },
+    "clinicalUseCases": [
+      "Radiology department hardcopy output for diagnostic review",
+      "Orthopedic film production for surgical planning",
+      "Emergency department rapid print-on-demand",
+      "Archival printing for patient record-keeping"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Technical Specifications", "file": "#" }
+    ],
+    "relatedProducts": ["xray-film", "pacs-ris"]
+  },
+  {
+    "id": "xray-film",
+    "name": "X-Ray Film",
+    "slug": "xray-film",
+    "category": "printers-media",
+    "categoryLabel": "Printers & Media",
+    "shortDescription": "Premium dry and wet X-ray film media for diagnostic imaging, compatible with all major X-ray printers and processors.",
+    "image": "https://edusofthealth.com/assets/images/products/film.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/film.jpg"
+    ],
+    "overview": "EduSoft X-Ray Film provides exceptional image clarity and archival stability for diagnostic radiology. Available in dry (laser) and wet (processor-compatible) variants, the film is optimized for superior contrast and grey-scale reproduction.",
+    "keyFeatures": [
+      "Available in dry laser and wet process variants",
+      "Wide latitude for consistent exposure results",
+      "High Dmax for excellent contrast in dense tissue areas",
+      "10-year archival stability under standard storage conditions",
+      "Available in all standard radiology formats",
+      "Blue and clear base options available"
+    ],
+    "specifications": {
+      "Variants": "Dry Laser, Blue-base wet, Clear-base wet",
+      "Available Sizes": "14×17\", 11×14\", 10×12\", 8×10\"",
+      "Dmax": "≥ 3.5",
+      "Base": "Polyester, 175 μm",
+      "Archival Life": "10 years (per ANSI IT9.1)",
+      "Packaging": "100 sheets per box, sealed"
+    },
+    "clinicalUseCases": [
+      "General radiology film output",
+      "Chest X-ray archival printing",
+      "Bone and extremity imaging",
+      "Mammography film output"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Technical Specifications", "file": "#" }
+    ],
+    "relatedProducts": ["xray-printer"]
+  },
+  {
+    "id": "pacs-ris",
+    "name": "PACS/RIS",
+    "slug": "pacs-ris",
+    "category": "software-ai",
+    "categoryLabel": "Software & AI",
+    "shortDescription": "Integrated Picture Archiving & Communication System with Radiology Information System for enterprise-wide imaging workflow management.",
+    "image": "https://edusofthealth.com/assets/images/products/pacs.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/pacs.jpg"
+    ],
+    "overview": "EduSoft PACS/RIS is a comprehensive enterprise imaging solution that manages the complete radiology workflow — from patient scheduling and order management through image acquisition, interpretation, reporting, and archival. DICOM and HL7 compliant, it integrates seamlessly with hospital HIS systems.",
+    "keyFeatures": [
+      "Full DICOM 3.0 and HL7 v2.x compliance",
+      "Web-based viewer accessible from any device",
+      "Advanced hanging protocols for rapid read workflow",
+      "Integrated AI triage and priority flagging",
+      "Long-term archival with redundant storage options",
+      "Role-based access control and full audit trail",
+      "RIS modules: scheduling, worklist, report dictation, billing"
+    ],
+    "specifications": {
+      "Standard": "DICOM 3.0, HL7 v2.x",
+      "Viewer": "Web-based (HTML5), zero-install",
+      "Supported Modalities": "All DICOM modalities (CT, MRI, CR, DR, US, NM, XA)",
+      "Archive Storage": "On-premise, cloud, or hybrid",
+      "Concurrent Users": "Scalable (≥500 concurrent)",
+      "Uptime SLA": "99.9%",
+      "Security": "AES-256 encryption, RBAC, full audit logs"
+    },
+    "clinicalUseCases": [
+      "Radiology department workflow management and reporting",
+      "Multi-site enterprise imaging network",
+      "Teleradiology and remote reporting",
+      "Emergency radiology triage with AI priority scoring",
+      "Teaching hospital case library and education"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Technical Specifications", "file": "#" }
+    ],
+    "relatedProducts": ["image-acquisition-software", "tb-screening-ai"]
+  },
+  {
+    "id": "image-acquisition-software",
+    "name": "Image Acquisition Software",
+    "slug": "image-acquisition-software",
+    "category": "software-ai",
+    "categoryLabel": "Software & AI",
+    "shortDescription": "Intelligent image acquisition workstation software with auto-exposure optimization and seamless DICOM send to PACS.",
+    "image": "https://edusofthealth.com/assets/images/products/software.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/software.jpg"
+    ],
+    "overview": "EduSoft Image Acquisition Software streamlines the DR/CR acquisition workflow, providing technologists with an intuitive interface for patient registration, exposure management, image processing, and DICOM routing. Built for high-throughput radiology environments.",
+    "keyFeatures": [
+      "DICOM Modality Worklist (MWL) integration",
+      "Automated image enhancement and noise reduction",
+      "One-click DICOM send to PACS",
+      "Touchscreen-optimized interface for fast workflow",
+      "Multi-detector support (CR, DR, fluoroscopy)",
+      "Dose tracking and reporting (DRL comparison)",
+      "Body region templates with automatic collimation guidance"
+    ],
+    "specifications": {
+      "Worklist": "DICOM MWL",
+      "DICOM Services": "Store, Print, Query/Retrieve, Worklist",
+      "OS": "Windows 10/11 (64-bit)",
+      "RAM Requirement": "≥ 8 GB",
+      "Detector Support": "CR, DR (flat panel), fluoroscopy",
+      "Interface": "Touchscreen and mouse/keyboard"
+    },
+    "clinicalUseCases": [
+      "Digital radiography acquisition in radiology departments",
+      "Emergency and trauma X-ray workflow",
+      "Pediatric radiology with age-based dose optimization",
+      "Portable/bedside digital X-ray acquisition"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Technical Specifications", "file": "#" }
+    ],
+    "relatedProducts": ["pacs-ris", "tb-screening-ai"]
+  },
+  {
+    "id": "tb-screening-ai",
+    "name": "TB Screening AI",
+    "slug": "tb-screening-ai",
+    "category": "software-ai",
+    "categoryLabel": "Software & AI",
+    "shortDescription": "AI-powered chest X-ray analysis tool for automated tuberculosis screening, triage, and preliminary reporting support.",
+    "image": "https://edusofthealth.com/assets/images/products/ai.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/ai.jpg"
+    ],
+    "overview": "EduSoft TB Screening AI leverages deep learning algorithms trained on large clinical datasets to analyze chest X-rays for TB-related findings. Designed to support — not replace — radiologists in high-volume screening programs, it helps prioritize worklists and extend the reach of specialist expertise to underserved regions.",
+    "keyFeatures": [
+      "Automated analysis of chest PA radiographs for TB-associated findings",
+      "Confidence scoring and visual heatmap overlay",
+      "DICOM-integrated: reads directly from PACS worklist",
+      "Results in < 30 seconds per image",
+      "Supports batch processing for high-volume screening campaigns",
+      "API integration for third-party RIS/PACS systems",
+      "Audit trail compliant with medical device software regulations"
+    ],
+    "specifications": {
+      "Input": "Chest PA DICOM images (CR, DR)",
+      "Analysis Time": "< 30 seconds per image",
+      "Output": "Confidence score (0–100%), heatmap, structured report",
+      "Integration": "DICOM, REST API",
+      "Deployment": "On-premise or cloud",
+      "Regulatory": "CE marked (Class IIa Medical Device Software)"
+    },
+    "clinicalUseCases": [
+      "National TB screening programs in high-burden regions",
+      "Radiology worklist triage and prioritization",
+      "Rural and remote health outreach programs",
+      "Point-of-care screening in primary health centres"
+    ],
+    "downloads": [
+      { "name": "Product Brochure", "file": "#" },
+      { "name": "Clinical Evidence Summary", "file": "#" }
+    ],
+    "relatedProducts": ["pacs-ris", "image-acquisition-software"]
+  },
+  {
+    "id": "radiation-protection",
+    "name": "Radiation Protection",
+    "slug": "radiation-protection",
+    "category": "accessories",
+    "categoryLabel": "Accessories",
+    "shortDescription": "Comprehensive range of lead-lined radiation protection apparel and shielding for patients, staff, and facilities.",
+    "image": "https://edusofthealth.com/assets/images/products/protection.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/protection.jpg"
+    ],
+    "overview": "EduSoft Radiation Protection products are designed to the highest safety standards, meeting IEC 61331 and NCRP guidelines. Our range covers protective aprons, thyroid shields, eye protection, gonadal shields, and custom lead-lined architectural shielding.",
+    "keyFeatures": [
+      "Lead equivalence: 0.25, 0.35, and 0.5 mm Pb options",
+      "Lightweight lead-composite material for staff comfort",
+      "Available in vest-and-skirt or wrap-around configurations",
+      "Pediatric sizes available",
+      "Machine-washable outer covers",
+      "5-year material warranty"
+    ],
+    "specifications": {
+      "Lead Equivalence": "0.25, 0.35, 0.5 mm Pb",
+      "Standard": "IEC 61331-3",
+      "Material": "Lead-composite (lightweight)",
+      "Sizes": "XS, S, M, L, XL, XXL + custom",
+      "Apron Weight (0.35 mm)": "Approx. 2.1 kg",
+      "Warranty": "5 years on lead material"
+    },
+    "clinicalUseCases": [
+      "Radiology room staff protection",
+      "Interventional radiology and cardiac catheterization labs",
+      "Patient gonadal and thyroid shielding",
+      "Operating room radiation protection"
+    ],
+    "downloads": [
+      { "name": "Product Catalog", "file": "#" },
+      { "name": "Size Guide", "file": "#" }
+    ],
+    "relatedProducts": ["xray-accessories"]
+  },
+  {
+    "id": "xray-accessories",
+    "name": "X-Ray Accessories",
+    "slug": "xray-accessories",
+    "category": "accessories",
+    "categoryLabel": "Accessories",
+    "shortDescription": "Essential X-ray positioning aids, grids, cassettes, and workflow accessories for radiography departments.",
+    "image": "https://edusofthealth.com/assets/images/products/accessories.jpg",
+    "gallery": [
+      "https://edusofthealth.com/assets/images/products/accessories.jpg"
+    ],
+    "overview": "EduSoft X-Ray Accessories complete your radiology department setup. From precision positioning sponges and Bucky grids to CR cassettes and film ID printers, our accessories are engineered to optimize workflow efficiency and image quality.",
+    "keyFeatures": [
+      "Anti-scatter grids: ratio 8:1, 10:1, 12:1",
+      "CR cassettes in all standard sizes",
+      "Radiolucent positioning sponges and wedges",
+      "X-ray tube stands and wall-mount Bucky systems",
+      "Film ID flashers and daylight loading systems",
+      "Sandbags and compression bands"
+    ],
+    "specifications": {
+      "Grid Ratios": "8:1, 10:1, 12:1",
+      "Grid Frequency": "80, 103 lines/cm",
+      "CR Cassette Sizes": "8×10\", 10×12\", 11×14\", 14×17\"",
+      "Materials": "Aluminum, carbon fiber, radiolucent polymers"
+    },
+    "clinicalUseCases": [
+      "General radiography positioning and setup",
+      "Mobile X-ray unit accessories",
+      "Paediatric radiology positioning aids",
+      "Emergency department imaging workflow"
+    ],
+    "downloads": [
+      { "name": "Accessories Catalog", "file": "#" }
+    ],
+    "relatedProducts": ["radiation-protection", "xray-film"]
+  }
+]

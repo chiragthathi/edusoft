@@ -1,0 +1,781 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "products": "製品",
+    "portfolio": "製品",
+    "services": "サービス",
+    "about": "会社情報",
+    "news": "ニュース",
+    "careers": "採用情報",
+    "support": "サポート",
+    "contact": "お問い合わせ",
+    "language": "言語",
+    "requestQuote": "見積もりを依頼",
+    "all_products": "すべての製品",
+    "view_all_in": "{{category}}をすべて見る",
+    "featured": "注目",
+    "menu": "メニュー",
+    "close": "閉じる",
+    "theme_dark": "ダークテーマに切り替え",
+    "theme_light": "ライトテーマに切り替え",
+    "main_nav_aria": "メインナビゲーション",
+    "mobile_nav_aria": "モバイルナビゲーション",
+    "open_menu": "メニューを開く",
+    "close_menu": "メニューを閉じる",
+    "products_menu": "製品メニュー",
+    "groups": {
+      "imaging": "X線イメージング",
+      "digital": "デジタル・ソフトウェア",
+      "output": "出力・アクセサリー",
+      "specialty": "専門機器"
+    }
+  },
+  "hero": {
+    "eyebrow": "医療画像技術",
+    "line1": "あらゆる医療現場に、",
+    "line2": "確かな画像を。",
+    "sub": "Edusoftは、重さ3.5 kgのハンドヘルドから80 kWの天井懸垂式DRシステムまで、X線イメージングを設計・製造・サポートしています。導入実績は4,200台以上。",
+    "cta_primary": "製品を見る",
+    "cta_secondary": "見積もりを依頼",
+    "showing": "表示中",
+    "select": "製品を選択",
+    "view": "システムを見る",
+    "slots": {
+      "handheld": "ハンドヘルド",
+      "mobile": "移動型",
+      "carm": "Cアーム",
+      "room": "DR撮影室"
+    },
+    "scroll": "スクロール"
+  },
+  "home": {
+    "intro": {
+      "eyebrow": "Edusoft Healthcare",
+      "statement": "28年以上にわたり、私たちは病院、クリニック、そして現場の医療プログラムに画像診断を届けてきました —",
+      "statement_em": "インドで設計・製造し、設置されたあらゆる場所でサポートしています。",
+      "body": "現在、392以上の公立病院と3,106以上の私立病院でEdusoftのシステムが稼働しています。13の支店を拠点に、ネパール、バングラデシュ、フィリピン、中東、シンガポール、アフリカ、中南米、米国へと展開を広げています。",
+      "stats": {
+        "installations": "導入実績",
+        "years": "年の経験",
+        "branches": "支店",
+        "people": "専門スタッフ",
+        "awards": "受賞"
+      }
+    },
+    "ecosystem": {
+      "eyebrow": "製品エコシステム",
+      "title": "ひとつのイメージング・エコシステム。",
+      "sub": "撮影、デジタル化、出力、ソフトウェア。それぞれが連携するよう設計されています。",
+      "products_count_one": "{{count}}製品",
+      "products_count_other": "{{count}}製品",
+      "explore": "見る"
+    },
+    "tech": {
+      "eyebrow": "コアテクノロジー",
+      "title": "画像チェーンを軸に設計。",
+      "sub": "Edusoftのすべてのシステムは4つの要素で構成されています。その一つひとつを強化することで、診断はより明確になります。",
+      "steps": [
+        {
+          "k": "発生",
+          "title": "高周波X線発生",
+          "body": "210 Wのハンドヘルドから80 kWの天井懸垂式まで、80～270 kHzのインバータ方式ジェネレーターがリップルの少ない安定した出力を実現し、低線量で安定した画像を提供します。",
+          "stat": "80 kW",
+          "statLabel": "撮影室の最大出力"
+        },
+        {
+          "k": "取得",
+          "title": "ワイヤレスFPD",
+          "body": "ERAY GoldディテクターはCsIシンチレータとアモルファスシリコンを組み合わせ、100 μmの画素、73%のDQE、IP56の筐体、2～3秒での全画像表示を実現します。",
+          "stat": "73%",
+          "statLabel": "DQE · ERAY Gold 100"
+        },
+        {
+          "k": "処理",
+          "title": "画像取得ソフトウェア",
+          "body": "Edusoft IASとERAY ImageSuite（CDSCO承認）は、グリッドや露出の誤差を補正し、長尺撮影をつなぎ合わせ、DICOM 3.0でPACSへ画像を送信します。",
+          "stat": "<5 s",
+          "statLabel": "画像プレビュー"
+        },
+        {
+          "k": "出力",
+          "title": "出力と保管",
+          "body": "最大650 ppiのTRIMAXドライレーザーイメージャー、インド製のERAYサーマルイメージャー、PACS、RIS、遠隔読影により、必要な場所に検査画像を届けます。",
+          "stat": "650 ppi",
+          "statLabel": "TRIMAX TX65"
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "フラッグシップシステム",
+      "title": "止まらない現場のために。",
+      "drag": "ドラッグまたはスクロール",
+      "all": "すべての製品"
+    },
+    "settings": {
+      "eyebrow": "臨床用途",
+      "title": "医療が行われるあらゆる場所へ。",
+      "items": [
+        {
+          "id": "bedside",
+          "title": "ベッドサイド・集中治療",
+          "body": "バッテリー駆動の移動型X線装置がICU、救急、新生児病棟へ。移動が困難な患者さんを搬送する必要はありません。",
+          "products": [
+            "eray-40kw-digital-mobile",
+            "eray-50kw-motorized-mobile",
+            "eray-smart-t-series"
+          ]
+        },
+        {
+          "id": "or",
+          "title": "手術室",
+          "body": "パルス透視、デュアルレーザーセンタリング、DICOM 3.0を備えたFPD搭載Cアーム。整形外科、外傷、脊椎、泌尿器、ペインクリニックに。",
+          "products": [
+            "eray-smart-5c-premium-pro",
+            "eray-smart-5c-gold",
+            "eray-smart-5c-premium"
+          ]
+        },
+        {
+          "id": "radiology",
+          "title": "放射線科",
+          "body": "自動ポジショニング機能付きの天井懸垂式・床置き式DR撮影室と、ドライレーザーイメージャーやPACSを組み合わせ、検査数の多い部門に対応します。",
+          "products": [
+            "eray-ceiling-suspended-dr",
+            "eray-smart-eco-dr",
+            "trimax-tx65"
+          ]
+        },
+        {
+          "id": "screening",
+          "title": "検診・アウトリーチ",
+          "body": "4 kg未満のハンドヘルドX線とAI読影支援で、結核検診プログラム、巡回診療、被災地、在宅医療を支えます。",
+          "products": [
+            "eray-smart-6hs",
+            "eray-smart-5hs",
+            "ai-radiology"
+          ]
+        },
+        {
+          "id": "vet",
+          "title": "動物医療",
+          "body": "ERAY SMARTおよびRADシステムはヒト・動物の両用途向けに設計されています。ERAY Goldディテクターには動物用計測ツールが付属します。",
+          "products": [
+            "eray-rad-series",
+            "eray-gold-100",
+            "trimax-dr"
+          ]
+        }
+      ]
+    },
+    "service": {
+      "eyebrow": "エンジニアリングとサービス",
+      "title": "保証期間を超えて続くサービス。",
+      "sub": "システムを構成したエンジニアが、設置、トレーニング、保守まで担当します。",
+      "steps": [
+        {
+          "t": "構成",
+          "d": "製品スペシャリストが、症例構成と撮影室に合わせてジェネレーター、ディテクター、出力機器を選定します。"
+        },
+        {
+          "t": "設置",
+          "d": "エンジニアが現地で設置・校正し、院内ネットワークやPACSと接続します。"
+        },
+        {
+          "t": "トレーニング",
+          "d": "診療放射線技師、技術者、医師向けの実践的なアプリケーショントレーニング。"
+        },
+        {
+          "t": "保守",
+          "d": "保証期間後は最長10年のAMCまたはCMC契約で、点検、部品交換、ソフトウェア更新を行います。"
+        },
+        {
+          "t": "サポート",
+          "d": "フリーダイヤル1800-120-280-280を通じて、技術チームがリモートおよび現地でサポートします。"
+        }
+      ],
+      "cta": "サービスを見る",
+      "facts": {
+        "amc": "保証・AMC・CMC",
+        "upto": "最長",
+        "years": "年",
+        "amc_body": "保証期間中は現地サービスを無償で提供し、その後は年間保守または包括保守契約で点検、部品、ソフトウェア更新に対応します。",
+        "network": "サービス網",
+        "network_body": "インド国内の支店",
+        "line": "サービス専用フリーダイヤル",
+        "line_body": "遠隔診断でダウンタイムを削減"
+      }
+    },
+    "why": {
+      "eyebrow": "Edusoftが選ばれる理由",
+      "title": "Bharosemand Medical Co.",
+      "sub": "「Bharosemand」は「信頼できる」という意味です。すべてのシステムがこの基準で作られています。",
+      "items": [
+        {
+          "t": "インド製",
+          "d": "Make in Indiaの取り組みのもと、移動型・固定型・ハンドヘルドX線装置を自社工場で製造しています。"
+        },
+        {
+          "t": "国際的な認証",
+          "d": "BIS、NABL、AERB、CDSCO、ISOの要件に適合した技術です。"
+        },
+        {
+          "t": "世界的なパートナー",
+          "d": "Carestream Health（米国）と提携し、CR、DR、フィルム、ハイエンドX線装置を提供しています。"
+        },
+        {
+          "t": "政府の信頼",
+          "d": "インド政府調達ポータルGovernment e-Marketplace（GeM）の認定・検証済み販売業者です。"
+        }
+      ],
+      "band": [
+        "インド製",
+        "導入実績4,200台以上",
+        "Carestreamパートナー",
+        "28年以上"
+      ]
+    },
+    "presence": {
+      "eyebrow": "大規模導入",
+      "title": "州のプログラムから個人クリニックまで。",
+      "hites_title": "HITESハンドヘルドプログラム",
+      "hites_body": "テランガーナ、ジャールカンド、メガラヤ、ウッタル・プラデーシュ、オディシャの各州への導入に向け、ディテクター付きハンドヘルドX線装置300台を受注しました。",
+      "units": "台導入",
+      "reach": "海外展開",
+      "countries": [
+        "インド",
+        "ネパール",
+        "バングラデシュ",
+        "フィリピン",
+        "アラブ首長国連邦",
+        "シンガポール",
+        "アフリカ",
+        "中南米",
+        "米国"
+      ]
+    },
+    "voices": {
+      "eyebrow": "お客様の声",
+      "title": "日々の診療で信頼されています。"
+    },
+    "news": {
+      "eyebrow": "ニュースルーム",
+      "title": "Edusoftの最新情報。",
+      "all": "すべてのニュース"
+    },
+    "cta": {
+      "title": "画像診断の計画を、私たちと一緒に。",
+      "body": "施設についてお聞かせください。製品スペシャリストが最適な構成をご提案し、お見積もりをお送りします。",
+      "primary": "見積もりを依頼",
+      "secondary": "営業に相談"
+    }
+  },
+  "product_card": {
+    "view": "見る",
+    "compare": "比較",
+    "comparing": "比較中",
+    "details_aria": "{{name}}の詳細を見る"
+  },
+  "portfolio_page": {
+    "eyebrow": "製品カタログ",
+    "title": "明瞭さを追求した",
+    "title_em": "イメージングシステム。",
+    "subtitle": "X線イメージング、デジタルラジオグラフィー、出力機器、ソフトウェアにわたる{{count}}製品。",
+    "search_placeholder": "名称、kV、ディテクター、用途で検索…",
+    "filter_all": "すべての製品",
+    "categories": "カテゴリー",
+    "no_results": "検索条件に一致する製品はありません。",
+    "clear_filters": "条件をクリア",
+    "search_products_aria": "製品を検索",
+    "clear_search_aria": "検索をクリア",
+    "filter_category_aria": "カテゴリーで絞り込む",
+    "results_one": "{{count}}件",
+    "results_other": "{{count}}件",
+    "compare_tray": "比較",
+    "compare_hint": "最大3製品まで選択できます",
+    "compare_go": "比較する",
+    "compare_clear": "クリア",
+    "need_help": "どのシステムが最適かお悩みですか？",
+    "need_help_body": "スペシャリストが撮影室、症例構成、ご予算に合わせた構成をご提案します。",
+    "need_help_cta": "スペシャリストに相談"
+  },
+  "compare_page": {
+    "title": "製品を比較",
+    "empty": "カタログから製品を選択すると、並べて比較できます。",
+    "back": "製品一覧へ戻る",
+    "spec": "仕様",
+    "remove": "削除",
+    "not_listed": "—",
+    "only_diff": "相違点を強調"
+  },
+  "product_detail": {
+    "overview": "概要",
+    "key_features": "特長",
+    "highlights": "主な仕様",
+    "specifications": "仕様",
+    "applications": "用途",
+    "gallery": "ギャラリー",
+    "downloads": "ダウンロード",
+    "related": "関連システム",
+    "family": "{{category}}のその他の製品",
+    "request_quote": "見積もりを依頼",
+    "talk_sales": "営業に相談",
+    "download_brochure": "カタログ",
+    "pdf": "PDF",
+    "not_found": "製品が見つかりません",
+    "back_to_portfolio": "製品一覧へ戻る",
+    "breadcrumb_aria": "パンくずリスト",
+    "home": "ホーム",
+    "portfolio": "製品",
+    "spec_note": "仕様はEdusoft Healthcareが公開しているもので、予告なく変更される場合があります。ご注文前に構成を当社までご確認ください。",
+    "no_specs": "この製品の詳細な仕様は、カタログまたは製品スペシャリストからご案内します。",
+    "expand_all": "すべて開く",
+    "collapse_all": "すべて閉じる",
+    "viewer_hint": "ドラッグして回転",
+    "viewer_label": "製品を回転表示",
+    "service_title": "設置、トレーニング、保守までEdusoftが担当。",
+    "service_body": "すべてのシステムに現地設置とアプリケーショントレーニングが含まれ、保証期間後は最長10年のAMCまたはCMC契約をご利用いただけます。",
+    "service_cta": "サービス",
+    "quote_title": "{{name}}の構成とお見積もりを。",
+    "quote_body": "施設の情報をお知らせください。スペシャリストが1営業日以内にご連絡します。",
+    "local_nav": "このページの内容",
+    "image_of": "{{total}}枚中{{n}}枚目",
+    "prev_image": "前の画像",
+    "next_image": "次の画像"
+  },
+  "services_page": {
+    "eyebrow": "サービスとサポート",
+    "title": "システムの導入は",
+    "title_em": "始まりにすぎません。",
+    "sub": "構成から稼働10年目まで、Edusoftのエンジニアがお客様の画像診断を支え続けます。",
+    "offer_title": "提供内容",
+    "items": [
+      {
+        "t": "設置と立ち上げ",
+        "d": "Edusoftのエンジニアが現地で設置・校正し、ネットワーク、PACS、プリンターと統合します。"
+      },
+      {
+        "t": "トレーニングと教育",
+        "d": "技師や医師が使用機器を最新の状態で使いこなせるよう、アプリケーショントレーニングを提供します。"
+      },
+      {
+        "t": "保証、AMC、CMC",
+        "d": "保証期間中は現地・遠隔のサービスを無償で提供し、その後は最長10年の年間保守契約または包括保守契約をご用意しています。"
+      },
+      {
+        "t": "リモート・オンラインサポート",
+        "d": "技術チームが遠隔で診断・対応し、ダウンタイムを最小限に抑えます。フリーダイヤル：1800-120-280-280。"
+      },
+      {
+        "t": "医療画像サービス",
+        "d": "移動型・固定型X線、DR、CR、レーザー出力に関する現地・遠隔の画像サービス。"
+      },
+      {
+        "t": "デジタルソリューション",
+        "d": "PACS、RIS、AI、遠隔読影で、医療画像とデータを効率的に管理します。"
+      },
+      {
+        "t": "ファイナンス",
+        "d": "NBFC系の銀行・金融機関を通じた柔軟な資金調達。金利0%や長期分割払いにも対応します。"
+      },
+      {
+        "t": "部品と消耗品",
+        "d": "純正部品、フィルム、記録紙（TRIMAX、ERAY、SONY）を機器に合わせて供給します。"
+      }
+    ],
+    "process_title": "サービスの流れ",
+    "request_title": "サービスを依頼する",
+    "request_body": "機器と症状についてお知らせください。サービスデスクが1営業日以内にご連絡します。",
+    "toll_free": "サービス専用フリーダイヤル",
+    "hours": "サービスデスク"
+  },
+  "about_page": {
+    "eyebrow": "会社情報",
+    "title": "より健やかな世界のために、",
+    "title_em": "医療の先駆者として。",
+    "sub": "Edusoft Healthcare Limitedは、イノベーションとシナジーによって医療の成果向上に取り組んでいます。世界有数の医療企業の技術と、自社工場で製造するインド製品を組み合わせています。",
+    "story_eyebrow": "私たちについて",
+    "story_title": "10年以上にわたり、X線撮影を変革。",
+    "story_body": "Edusoftは信頼される販売代理店から、移動型・固定型・ハンドヘルドX線装置のメーカーへと成長しました。導入先はインド国内の392以上の公立病院と3,106以上の私立病院に及び、ネパール、バングラデシュ、フィリピン、中南米、ドバイ、シンガポール、アフリカへと広がっています。",
+    "story_body2": "病院、クリニック、診断センター、獣医師にサービスを提供する私たちの基準は、ひとつの言葉に集約されます。bharosemand、すなわち「信頼できる」ことです。",
+    "values_eyebrow": "私たちの信念",
+    "values_title": "6つの約束。",
+    "values": [
+      {
+        "t": "イノベーション",
+        "d": "患者ケアの質を高める最先端の技術とソリューション。"
+      },
+      {
+        "t": "誠実さ",
+        "d": "最高の倫理基準のもと、患者さんの安全と健康を最優先します。"
+      },
+      {
+        "t": "卓越性",
+        "d": "あらゆる業務で卓越したサービスとサポートを提供します。"
+      },
+      {
+        "t": "パートナーシップ",
+        "d": "業界のリーダーと協力し、より良い医療成果を目指します。"
+      },
+      {
+        "t": "エンパワーメント",
+        "d": "医療従事者が最高のケアを提供できるよう支援します。"
+      },
+      {
+        "t": "継続的な学び",
+        "d": "医療業界をより良くする新たな方法を常に追求します。"
+      }
+    ],
+    "vision_label": "ビジョン",
+    "vision": "最先端で手頃かつ持続可能な医療画像ソリューションを提供し、医療従事者を支え、患者ケアを向上させることで、インドおよび世界の医療を再定義します。",
+    "mission_label": "ミッション",
+    "mission": "医療従事者のニーズに合わせた高品質な放射線・医療画像機器を開発、製造、提供し、倫理的で患者中心のソリューションにより世界の医療格差を埋めます。",
+    "make_eyebrow": "製造とパートナーシップ",
+    "make_title": "インドで製造し、世界のパートナーとともに。",
+    "make_body": "Make in Indiaの取り組みのもと、50 kWデジタル移動型システム、80 kW天井懸垂式X線装置、デジタルCアーム、2 kWポータブル、ハンドヘルドX線装置など、先進的な移動型・固定型X線装置を製造しています。Carestream Health（米国）との提携により、CR、DR、フィルム、ハイエンドイメージングをお届けしています。",
+    "compliance_eyebrow": "コンプライアンス",
+    "compliance_title": "重要な基準に適合。",
+    "compliance_body": "Edusoftの技術はBIS、NABL、AERB、CDSCO、ISOの要件に適合しており、EdusoftはGovernment e-Marketplace（GeM）の認定・検証済み販売業者です。",
+    "certs": [
+      {
+        "k": "BIS",
+        "d": "インド規格局"
+      },
+      {
+        "k": "NABL",
+        "d": "インド試験・校正機関認定委員会"
+      },
+      {
+        "k": "AERB",
+        "d": "インド原子力規制委員会"
+      },
+      {
+        "k": "CDSCO",
+        "d": "インド中央医薬品基準管理機構"
+      },
+      {
+        "k": "ISO",
+        "d": "国際標準化機構"
+      },
+      {
+        "k": "GeM",
+        "d": "認定販売業者 · Government e-Marketplace"
+      }
+    ],
+    "people_eyebrow": "私たちのチーム",
+    "people_title": "エンジニア、技術者、サービススペシャリスト。",
+    "people_body": "私たちのチームは、エンジニア、技術者、営業・マーケティングの専門家、カスタマーサービス担当者で構成されています。それぞれが力を発揮できるよう教育と環境を整え、医療に貢献するという目標のもとに結束しています。",
+    "video_title": "Edusoftの取り組み",
+    "offices_eyebrow": "拠点",
+    "offices_title": "所在地。",
+    "future_title": "これからの10年、画像診断はポータブルに、デジタルに、そしてつながるものへ。",
+    "future_body": "ハンドヘルドX線、ワイヤレスディテクター、AIを活用したワークフローに投資し、質の高い画像診断をあらゆる地域病院、クリニック、検診キャンプに届けます。",
+    "facility_alt": "Edusoft Healthcareのチーム",
+    "gov_hospitals": "公立病院",
+    "pvt_hospitals": "私立病院",
+    "partners": "技術パートナー",
+    "range_motion": "可動範囲"
+  },
+  "support_page": {
+    "eyebrow": "サポート",
+    "title": "どのようなご用件ですか？",
+    "subtitle": "よくある質問、資料、サービスチームへの直接の窓口。",
+    "faq_tag": "よくある質問",
+    "faq_headline": "よくある質問",
+    "faq_search": "質問を検索…",
+    "faq_no_results": "検索に一致する質問はありません。",
+    "docs_tag": "資料",
+    "docs_headline": "カタログと製品資料",
+    "docs_sub": "最新のカタログをダウンロードできます。",
+    "contact_tag": "サポート依頼",
+    "contact_headline": "サポートを依頼する",
+    "form_product_placeholder": "製品を選択（任意）",
+    "form_product_label": "製品",
+    "form_issue_label": "症状の内容",
+    "form_issue_placeholder": "機種名、可能であればシリアル番号、発生している症状をご記入ください。",
+    "form_submit": "依頼を送信",
+    "form_success_title": "依頼を受け付けました",
+    "form_success_body": "サービスデスクより1営業日以内にご連絡します。",
+    "form_submit_another": "別の依頼を送信",
+    "toll_free": "フリーダイヤル",
+    "search_faqs_aria": "よくある質問を検索"
+  },
+  "news_page": {
+    "eyebrow": "ニュースルーム",
+    "title": "ニュースとお知らせ",
+    "subtitle": "Edusoft Healthcareの製品発表、導入事例、企業ニュース。",
+    "read_more": "記事を読む",
+    "filter_all": "すべて",
+    "filter_category_aria": "カテゴリーで絞り込む",
+    "no_articles": "このカテゴリーの記事はまだありません。",
+    "featured": "最新"
+  },
+  "news_article": {
+    "back": "ニュースルーム",
+    "share": "共有",
+    "related": "関連記事",
+    "not_found": "記事が見つかりません",
+    "back_to_news": "ニュース一覧へ戻る",
+    "share_x": "Xで共有",
+    "share_linkedin": "LinkedInで共有",
+    "by": "筆者"
+  },
+  "careers_page": {
+    "eyebrow": "採用情報",
+    "title": "医療画像の未来を",
+    "title_em": "ともにつくる。",
+    "subtitle": "画像診断をすべての人に届けるエンジニア、技術者、スペシャリストの一員になりませんか。",
+    "apply_now": "応募する",
+    "view_job": "募集内容を見る",
+    "no_jobs": "現在、条件に一致する募集はありません。また後日ご確認ください。",
+    "culture_tag": "Edusoftで働く",
+    "culture_headline": "使命と精度が出会う場所。",
+    "open_positions": "募集職種",
+    "search_placeholder": "職種または勤務地で検索…",
+    "all_departments": "すべて",
+    "culture": [
+      {
+        "t": "人を第一に",
+        "d": "チームが力を発揮できるよう、教育、成長、環境づくりに投資しています。"
+      },
+      {
+        "t": "使命を胸に",
+        "d": "すべての仕事が、より良い診断と医療へのアクセス拡大につながっています。"
+      },
+      {
+        "t": "長く使われる製品を",
+        "d": "何千もの病院に導入された製品に携わり、長年にわたって支えます。"
+      }
+    ],
+    "search_jobs_aria": "求人を検索",
+    "filter_dept_aria": "部門で絞り込む",
+    "posted_on": "掲載日"
+  },
+  "job_detail": {
+    "not_found": "募集が見つかりません",
+    "back": "すべての募集",
+    "about_role": "職務について",
+    "responsibilities": "主な業務",
+    "requirements": "応募条件",
+    "apply_title": "応募の準備はできましたか？",
+    "apply_body": "応募書類をお送りください。採用チームがすべての応募を確認します。",
+    "apply_email_note": "履歴書のメール送付先：",
+    "experience": "経験",
+    "location": "勤務地",
+    "type": "雇用形態",
+    "department": "部門"
+  },
+  "contact_page": {
+    "eyebrow": "お問い合わせ",
+    "title": "画像診断について、ご相談ください。",
+    "subtitle": "営業、見積もり、サービス、パートナーシップ、報道関係。ひとつのフォームで担当チームにつながります。",
+    "form_headline": "お問い合わせを送信",
+    "step_topic": "ご用件",
+    "step_details": "お客様情報",
+    "step_message": "メッセージ",
+    "offices_headline": "拠点",
+    "name": "氏名",
+    "email": "勤務先メールアドレス",
+    "phone": "電話番号",
+    "company": "病院・所属機関",
+    "product": "関心のある製品",
+    "product_none": "未定",
+    "department": "お問い合わせ種別",
+    "message": "メッセージ",
+    "optional": "任意",
+    "submit": "送信する",
+    "success_title": "お問い合わせを受け付けました。",
+    "success": "1営業日以内にスペシャリストよりご連絡します。緊急のサービスは1800-120-280-280までお電話ください。",
+    "error": "メッセージを送信できませんでした。もう一度お試しいただくか、直接ご連絡ください。",
+    "direct_contacts": "直通窓口",
+    "toll_free": "フリーダイヤル（インド）",
+    "international": "海外から",
+    "usa": "米国",
+    "general_inquiries": "一般のお問い合わせ",
+    "privacy_note": "ご入力いただいた情報は本お問い合わせへの回答にのみ使用します。詳しくは",
+    "privacy_link": "プライバシーポリシー",
+    "send_another": "別のお問い合わせを送信",
+    "name_placeholder": "山田 太郎",
+    "email_placeholder": "you@hospital.org",
+    "phone_placeholder": "90-1234-5678",
+    "company_placeholder": "〇〇総合病院",
+    "message_placeholder": "施設の概要、ご検討中のシステム、導入時期をお知らせください。",
+    "directions": "アクセス",
+    "departments": {
+      "quote": "見積もり",
+      "sales": "営業へのお問い合わせ",
+      "support": "サービス・サポート",
+      "partnerships": "販売店・提携",
+      "media": "報道関係",
+      "general": "一般のお問い合わせ"
+    }
+  },
+  "legal": {
+    "updated": "Edusoft Healthcareが公開している内容",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "cookies": "Cookieポリシー"
+  },
+  "footer": {
+    "tagline": "医療画像技術。Edusoft Healthcareが設計、製造、サポートしています。",
+    "company": "会社",
+    "products": "製品",
+    "resources": "リソース",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "cookies": "Cookie",
+    "copyright": "© {{year}} Edusoft Healthcare Limited. All rights reserved.",
+    "made_in_india": "インド製",
+    "newsletter_title": "製品ニュース",
+    "newsletter_body": "新製品や導入事例のお知らせを年に数回お届けします。",
+    "newsletter_cta": "登録する",
+    "newsletter_placeholder": "メールアドレス",
+    "newsletter_thanks": "ご登録ありがとうございます。",
+    "social": "Edusoftをフォロー",
+    "back_to_top": "ページの先頭へ",
+    "links": {
+      "about": "会社概要",
+      "services": "サービス",
+      "news": "ニュース",
+      "careers": "採用情報",
+      "compliance": "コンプライアンス",
+      "support": "サポート",
+      "faq": "よくある質問",
+      "brochures": "カタログ",
+      "contact": "お問い合わせ",
+      "request_quote": "見積もりを依頼",
+      "all_products": "すべての製品",
+      "compare": "製品を比較"
+    }
+  },
+  "common": {
+    "loading": "読み込み中…",
+    "error": "エラーが発生しました。もう一度お試しください。",
+    "retry": "再試行",
+    "back": "戻る",
+    "learn_more": "詳しく見る",
+    "read_more": "続きを読む",
+    "view_all": "すべて見る",
+    "search": "検索",
+    "clear": "クリア",
+    "submit": "送信",
+    "required": "必須",
+    "optional": "任意",
+    "sending": "送信中…",
+    "submitting": "送信中…",
+    "name_required": "お名前を入力してください。",
+    "email_required": "有効なメールアドレスを入力してください。",
+    "message_required": "メッセージを入力してください。",
+    "not_found_title": "このページは移動したか、存在しません。",
+    "not_found_body": "新しいウェブサイトへの移行に伴いURLが変更された可能性があります。製品カタログまたはホームをご覧ください。",
+    "return_home": "ホームへ戻る",
+    "watch_video": "動画を見る",
+    "video_consent": "YouTube（プライバシー強化モード）で再生されます。",
+    "share_twitter": "X",
+    "share_linkedin": "LinkedIn",
+    "minutes": "分",
+    "previous": "前へ",
+    "next": "次へ",
+    "paused": "一時停止中",
+    "skip_to_content": "メインコンテンツへ移動"
+  },
+  "footer_contact": {
+    "phone": "1800-120-280-280",
+    "phone_intl": "+91-88512-48073",
+    "phone_usa": "+1-773-313-5065",
+    "email": "info@edusofthealth.com",
+    "address": "B-83, Mangolpuri Industrial Area, Phase-II, New Delhi 110034, India"
+  },
+  "navbar_languages": {
+    "en": "English",
+    "ja": "Japanese",
+    "fr": "French",
+    "zh": "Chinese",
+    "ko": "Korean"
+  },
+  "phone_codes": {
+    "label": "国番号",
+    "codes": [
+      {
+        "code": "+91",
+        "country": "インド"
+      },
+      {
+        "code": "+1",
+        "country": "米国 / カナダ"
+      },
+      {
+        "code": "+977",
+        "country": "ネパール"
+      },
+      {
+        "code": "+880",
+        "country": "バングラデシュ"
+      },
+      {
+        "code": "+63",
+        "country": "フィリピン"
+      },
+      {
+        "code": "+971",
+        "country": "アラブ首長国連邦"
+      },
+      {
+        "code": "+65",
+        "country": "シンガポール"
+      },
+      {
+        "code": "+254",
+        "country": "ケニア"
+      },
+      {
+        "code": "+234",
+        "country": "ナイジェリア"
+      },
+      {
+        "code": "+27",
+        "country": "南アフリカ"
+      },
+      {
+        "code": "+44",
+        "country": "英国"
+      },
+      {
+        "code": "+81",
+        "country": "日本"
+      },
+      {
+        "code": "+33",
+        "country": "フランス"
+      },
+      {
+        "code": "+86",
+        "country": "中国"
+      },
+      {
+        "code": "+82",
+        "country": "韓国"
+      },
+      {
+        "code": "+49",
+        "country": "ドイツ"
+      },
+      {
+        "code": "+61",
+        "country": "オーストラリア"
+      }
+    ],
+    "search": "国名または国番号で検索"
+  },
+  "media_kind": {
+    "studio": "スタジオ",
+    "angle": "アングル",
+    "detail": "ディテール",
+    "in-use": "使用例",
+    "motion": "可動範囲",
+    "packaging": "パッケージ",
+    "screen": "ソフトウェア",
+    "logo": "パートナー",
+    "accessory": "アクセサリー"
+  }
+}

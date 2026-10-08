@@ -1,0 +1,781 @@
+{
+  "nav": {
+    "home": "홈",
+    "products": "제품",
+    "portfolio": "제품",
+    "services": "서비스",
+    "about": "회사",
+    "news": "뉴스",
+    "careers": "채용",
+    "support": "지원",
+    "contact": "문의",
+    "language": "언어",
+    "requestQuote": "견적 요청",
+    "all_products": "전체 제품",
+    "view_all_in": "{{category}} 전체 보기",
+    "featured": "추천",
+    "menu": "메뉴",
+    "close": "닫기",
+    "theme_dark": "다크 테마로 전환",
+    "theme_light": "라이트 테마로 전환",
+    "main_nav_aria": "주 메뉴",
+    "mobile_nav_aria": "모바일 메뉴",
+    "open_menu": "메뉴 열기",
+    "close_menu": "메뉴 닫기",
+    "products_menu": "제품 메뉴",
+    "groups": {
+      "imaging": "X선 영상",
+      "digital": "디지털 및 소프트웨어",
+      "output": "출력 및 액세서리",
+      "specialty": "특수 장비"
+    }
+  },
+  "hero": {
+    "eyebrow": "의료 영상 기술",
+    "line1": "모든 진료 현장에",
+    "line2": "선명한 영상을.",
+    "sub": "Edusoft는 3.5kg 핸드헬드부터 80kW 천장 현가식 DR 촬영실까지 X선 영상 장비를 설계·제조하고 지원합니다. 설치 실적은 4,200대 이상입니다.",
+    "cta_primary": "제품 보기",
+    "cta_secondary": "견적 요청",
+    "showing": "현재 제품",
+    "select": "제품 선택",
+    "view": "시스템 보기",
+    "slots": {
+      "handheld": "핸드헬드",
+      "mobile": "이동형",
+      "carm": "C-암",
+      "room": "DR 촬영실"
+    },
+    "scroll": "스크롤"
+  },
+  "home": {
+    "intro": {
+      "eyebrow": "Edusoft Healthcare",
+      "statement": "28년 넘게 우리는 병원, 클리닉, 현장 의료 프로그램이 진단 영상을 활용할 수 있도록 해왔습니다 —",
+      "statement_em": "인도에서 설계·제조하고, 설치된 모든 곳에서 지원합니다.",
+      "body": "현재 392개 이상의 공립 병원과 3,106개 이상의 사립 병원에서 Edusoft 시스템을 사용하고 있습니다. 13개 지사를 기반으로 네팔, 방글라데시, 필리핀, 중동, 싱가포르, 아프리카, 중남미, 미국으로 영역을 넓히고 있습니다.",
+      "stats": {
+        "installations": "설치 실적",
+        "years": "년 경력",
+        "branches": "지사",
+        "people": "전문 인력",
+        "awards": "수상"
+      }
+    },
+    "ecosystem": {
+      "eyebrow": "제품 생태계",
+      "title": "하나의 영상 생태계.",
+      "sub": "촬영, 디지털화, 출력, 소프트웨어 — 모든 요소가 함께 작동하도록 설계되었습니다.",
+      "products_count_one": "제품 {{count}}종",
+      "products_count_other": "제품 {{count}}종",
+      "explore": "살펴보기"
+    },
+    "tech": {
+      "eyebrow": "핵심 기술",
+      "title": "영상 체인을 중심으로 설계.",
+      "sub": "모든 Edusoft 시스템은 네 가지 요소로 이루어집니다. 각 요소를 강화할수록 진단은 더 명확해집니다.",
+      "steps": [
+        {
+          "k": "발생",
+          "title": "고주파 X선 발생",
+          "body": "210W 핸드헬드부터 80kW 천장 현가식 촬영실까지, 80–270kHz 인버터 발생기가 리플이 적은 안정적인 출력을 제공해 더 낮은 선량으로 일관된 영상을 얻을 수 있습니다.",
+          "stat": "80 kW",
+          "statLabel": "촬영실 최대 출력"
+        },
+        {
+          "k": "획득",
+          "title": "무선 평판 디텍터",
+          "body": "ERAY Gold 디텍터는 CsI 신틸레이터와 비정질 실리콘을 결합해 100μm 픽셀, 73% DQE, IP56 하우징을 갖추고 2~3초 만에 전체 영상을 표시합니다.",
+          "stat": "73%",
+          "statLabel": "DQE · ERAY Gold 100"
+        },
+        {
+          "k": "처리",
+          "title": "영상 획득 소프트웨어",
+          "body": "Edusoft IAS와 ERAY ImageSuite(CDSCO 승인)는 그리드와 노출 오류를 보정하고, 장척 촬영을 이어 붙이며, DICOM 3.0으로 PACS에 영상을 전송합니다.",
+          "stat": "<5 s",
+          "statLabel": "영상 미리보기"
+        },
+        {
+          "k": "출력",
+          "title": "출력 및 보관",
+          "body": "최대 650ppi의 TRIMAX 드라이 레이저 이미저, 인도산 ERAY 서멀 이미저, PACS, RIS, 원격 판독으로 모든 검사를 필요한 곳에 전달합니다.",
+          "stat": "650 ppi",
+          "statLabel": "TRIMAX TX65"
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "플래그십 시스템",
+      "title": "멈추지 않는 현장을 위해.",
+      "drag": "드래그 또는 스크롤",
+      "all": "전체 제품"
+    },
+    "settings": {
+      "eyebrow": "임상 적용",
+      "title": "진료가 이루어지는 모든 곳을 위해.",
+      "items": [
+        {
+          "id": "bedside",
+          "title": "병상 및 중환자 치료",
+          "body": "배터리로 구동되는 이동형 X선 장비가 중환자실, 응급실, 신생아 병동으로 찾아갑니다. 움직일 수 없는 환자를 옮길 필요가 없습니다.",
+          "products": [
+            "eray-40kw-digital-mobile",
+            "eray-50kw-motorized-mobile",
+            "eray-smart-t-series"
+          ]
+        },
+        {
+          "id": "or",
+          "title": "수술실",
+          "body": "펄스 투시, 듀얼 레이저 센터링, DICOM 3.0을 갖춘 평판형 C-암으로 정형외과, 외상, 척추, 비뇨기과, 통증 치료에 활용됩니다.",
+          "products": [
+            "eray-smart-5c-premium-pro",
+            "eray-smart-5c-gold",
+            "eray-smart-5c-premium"
+          ]
+        },
+        {
+          "id": "radiology",
+          "title": "영상의학과",
+          "body": "자동 포지셔닝 기능을 갖춘 천장 현가식 및 바닥 설치형 DR 촬영실을 드라이 레이저 이미저, PACS와 결합해 검사량이 많은 부서를 지원합니다.",
+          "products": [
+            "eray-ceiling-suspended-dr",
+            "eray-smart-eco-dr",
+            "trimax-tx65"
+          ]
+        },
+        {
+          "id": "screening",
+          "title": "검진 및 순회 진료",
+          "body": "4kg 미만의 핸드헬드 X선과 AI 판독 지원으로 결핵 검진 프로그램, 순회 진료, 재난 현장, 재택 의료를 지원합니다.",
+          "products": [
+            "eray-smart-6hs",
+            "eray-smart-5hs",
+            "ai-radiology"
+          ]
+        },
+        {
+          "id": "vet",
+          "title": "수의",
+          "body": "ERAY SMART 및 RAD 시스템은 사람과 동물 모두에 사용할 수 있으며, ERAY Gold 디텍터에는 수의용 측정 도구가 포함됩니다.",
+          "products": [
+            "eray-rad-series",
+            "eray-gold-100",
+            "trimax-dr"
+          ]
+        }
+      ]
+    },
+    "service": {
+      "eyebrow": "엔지니어링 및 서비스",
+      "title": "보증 기간 그 이후까지 이어지는 서비스.",
+      "sub": "시스템을 구성한 엔지니어가 설치, 교육, 유지보수까지 담당합니다.",
+      "steps": [
+        {
+          "t": "구성",
+          "d": "제품 전문가가 검사 구성과 촬영실에 맞춰 발생기, 디텍터, 출력 장비를 선정합니다."
+        },
+        {
+          "t": "설치",
+          "d": "엔지니어가 현장에서 설치·교정하고 병원 네트워크 및 PACS와 연결합니다."
+        },
+        {
+          "t": "교육",
+          "d": "방사선사, 기술자, 임상의를 위한 실습 중심의 애플리케이션 교육."
+        },
+        {
+          "t": "유지보수",
+          "d": "보증 이후 최대 10년의 AMC 또는 CMC 계약으로 점검, 부품, 소프트웨어 업데이트를 제공합니다."
+        },
+        {
+          "t": "지원",
+          "d": "수신자 부담 번호 1800-120-280-280을 통해 기술팀이 원격 및 현장 지원을 제공합니다."
+        }
+      ],
+      "cta": "서비스 보기",
+      "facts": {
+        "amc": "보증 · AMC · CMC",
+        "upto": "최대",
+        "years": "년",
+        "amc_body": "보증 기간 중 현장 서비스를 무상으로 제공하며, 이후 연간 또는 종합 유지보수 계약으로 점검, 부품, 소프트웨어 업데이트를 지원합니다.",
+        "network": "서비스 네트워크",
+        "network_body": "인도 전역의 지사",
+        "line": "서비스 수신자 부담 번호",
+        "line_body": "원격 진단으로 가동 중단 최소화"
+      }
+    },
+    "why": {
+      "eyebrow": "Edusoft를 선택하는 이유",
+      "title": "Bharosemand Medical Co.",
+      "sub": "‘Bharosemand’는 ‘신뢰할 수 있는’이라는 뜻입니다. 모든 시스템이 따르는 기준입니다.",
+      "items": [
+        {
+          "t": "인도 제조",
+          "d": "Make in India 이니셔티브에 따라 자체 공장에서 이동형, 고정형, 핸드헬드 X선 장비를 제조합니다."
+        },
+        {
+          "t": "국제 인증",
+          "d": "BIS, NABL, AERB, CDSCO, ISO 요건을 충족하는 기술입니다."
+        },
+        {
+          "t": "세계적인 파트너",
+          "d": "Carestream Health(미국)와 협력해 CR, DR, 필름, 고급 X선 장비를 공급합니다."
+        },
+        {
+          "t": "정부의 신뢰",
+          "d": "인도 정부 전자조달 플랫폼 GeM의 공인 인증 판매업체입니다."
+        }
+      ],
+      "band": [
+        "인도 제조",
+        "설치 실적 4,200대 이상",
+        "Carestream 파트너",
+        "28년 이상"
+      ]
+    },
+    "presence": {
+      "eyebrow": "대규모 도입",
+      "title": "주 정부 프로그램부터 개인 클리닉까지.",
+      "hites_title": "HITES 핸드헬드 프로그램",
+      "hites_body": "텔랑가나, 자르칸드, 메갈라야, 우타르프라데시, 오디샤 주에 배치할 디텍터 포함 핸드헬드 X선 장비 300대를 수주했습니다.",
+      "units": "대 설치",
+      "reach": "해외 진출",
+      "countries": [
+        "인도",
+        "네팔",
+        "방글라데시",
+        "필리핀",
+        "아랍에미리트",
+        "싱가포르",
+        "아프리카",
+        "중남미",
+        "미국"
+      ]
+    },
+    "voices": {
+      "eyebrow": "고객의 목소리",
+      "title": "일상 진료에서 신뢰받는 장비."
+    },
+    "news": {
+      "eyebrow": "뉴스룸",
+      "title": "Edusoft의 최신 소식.",
+      "all": "전체 뉴스"
+    },
+    "cta": {
+      "title": "영상 장비 계획, 함께 세워 보세요.",
+      "body": "기관에 대해 알려 주시면 제품 전문가가 적합한 구성을 제안하고 견적을 보내드립니다.",
+      "primary": "견적 요청",
+      "secondary": "영업 상담"
+    }
+  },
+  "product_card": {
+    "view": "보기",
+    "compare": "비교",
+    "comparing": "비교 중",
+    "details_aria": "{{name}} 상세 보기"
+  },
+  "portfolio_page": {
+    "eyebrow": "제품 카탈로그",
+    "title": "선명함을 위해 설계한",
+    "title_em": "영상 시스템.",
+    "subtitle": "X선 영상, 디지털 방사선 촬영, 출력 장비, 소프트웨어를 아우르는 {{count}}종의 제품.",
+    "search_placeholder": "이름, kV, 디텍터, 용도로 검색…",
+    "filter_all": "전체 제품",
+    "categories": "카테고리",
+    "no_results": "검색 조건에 맞는 제품이 없습니다.",
+    "clear_filters": "필터 초기화",
+    "search_products_aria": "제품 검색",
+    "clear_search_aria": "검색어 지우기",
+    "filter_category_aria": "카테고리로 필터",
+    "results_one": "결과 {{count}}개",
+    "results_other": "결과 {{count}}개",
+    "compare_tray": "비교",
+    "compare_hint": "최대 3개 제품 선택 가능",
+    "compare_go": "비교하기",
+    "compare_clear": "초기화",
+    "need_help": "어떤 시스템이 맞을지 고민이신가요?",
+    "need_help_body": "전문가가 촬영실, 검사 구성, 예산에 맞는 구성을 제안해 드립니다.",
+    "need_help_cta": "전문가 상담"
+  },
+  "compare_page": {
+    "title": "제품 비교",
+    "empty": "카탈로그에서 제품을 선택하면 나란히 비교할 수 있습니다.",
+    "back": "제품 목록으로",
+    "spec": "사양",
+    "remove": "제거",
+    "not_listed": "—",
+    "only_diff": "차이점 강조"
+  },
+  "product_detail": {
+    "overview": "개요",
+    "key_features": "특징",
+    "highlights": "한눈에 보기",
+    "specifications": "사양",
+    "applications": "적용 분야",
+    "gallery": "갤러리",
+    "downloads": "다운로드",
+    "related": "관련 시스템",
+    "family": "{{category}} 더 보기",
+    "request_quote": "견적 요청",
+    "talk_sales": "영업 상담",
+    "download_brochure": "브로슈어",
+    "pdf": "PDF",
+    "not_found": "제품을 찾을 수 없습니다",
+    "back_to_portfolio": "제품 목록으로",
+    "breadcrumb_aria": "경로",
+    "home": "홈",
+    "portfolio": "제품",
+    "spec_note": "사양은 Edusoft Healthcare가 공개한 내용이며 변경될 수 있습니다. 주문 전 당사와 구성을 확인해 주십시오.",
+    "no_specs": "이 제품의 상세 사양은 브로슈어 또는 제품 전문가를 통해 확인하실 수 있습니다.",
+    "expand_all": "모두 펼치기",
+    "collapse_all": "모두 접기",
+    "viewer_hint": "드래그하여 회전",
+    "viewer_label": "제품 회전 보기",
+    "service_title": "설치, 교육, 유지보수까지 Edusoft가 책임집니다.",
+    "service_body": "모든 시스템에는 현장 설치와 애플리케이션 교육이 포함되며, 보증 이후 최대 10년의 AMC 또는 CMC를 선택할 수 있습니다.",
+    "service_cta": "서비스 안내",
+    "quote_title": "{{name}} 구성 및 견적을 받아 보세요.",
+    "quote_body": "기관 정보를 알려 주시면 전문가가 1영업일 이내에 답변드립니다.",
+    "local_nav": "이 페이지에서",
+    "image_of": "{{total}}장 중 {{n}}번째",
+    "prev_image": "이전 이미지",
+    "next_image": "다음 이미지"
+  },
+  "services_page": {
+    "eyebrow": "서비스 및 지원",
+    "title": "시스템 도입은",
+    "title_em": "시작일 뿐입니다.",
+    "sub": "구성부터 운영 10년 차까지, Edusoft 엔지니어가 영상 장비의 가동을 책임집니다.",
+    "offer_title": "제공 서비스",
+    "items": [
+      {
+        "t": "설치 및 시운전",
+        "d": "Edusoft 엔지니어가 현장 설치, 교정, 네트워크·PACS·프린터 연동을 수행합니다."
+      },
+      {
+        "t": "교육",
+        "d": "방사선사와 임상의가 사용 장비를 최신 상태로 활용할 수 있도록 애플리케이션 교육을 제공합니다."
+      },
+      {
+        "t": "보증, AMC 및 CMC",
+        "d": "보증 기간 중 현장 및 원격 서비스를 무상으로 제공하며, 이후 최대 10년의 연간 유지보수 또는 종합 유지보수 계약을 제공합니다."
+      },
+      {
+        "t": "원격 및 온라인 지원",
+        "d": "기술팀이 원격으로 진단하고 해결해 가동 중단을 줄입니다. 수신자 부담: 1800-120-280-280."
+      },
+      {
+        "t": "의료 영상 서비스",
+        "d": "이동형·고정형 X선, DR, CR, 레이저 출력에 대한 현장 및 원격 영상 서비스."
+      },
+      {
+        "t": "디지털 솔루션",
+        "d": "PACS, RIS, AI, 원격 판독으로 의료 영상과 데이터를 효율적으로 관리합니다."
+      },
+      {
+        "t": "금융 지원",
+        "d": "NBFC 은행 및 금융기관을 통한 유연한 금융 솔루션. 무이자 및 장기 할부도 가능합니다."
+      },
+      {
+        "t": "부품 및 소모품",
+        "d": "장비에 맞춘 정품 부품, 필름, 인쇄 매체(TRIMAX, ERAY, SONY)를 공급합니다."
+      }
+    ],
+    "process_title": "진행 방식",
+    "request_title": "서비스 요청",
+    "request_body": "장비와 문제 상황을 알려 주시면 서비스 데스크가 1영업일 이내에 답변드립니다.",
+    "toll_free": "서비스 수신자 부담 번호",
+    "hours": "서비스 데스크"
+  },
+  "about_page": {
+    "eyebrow": "회사",
+    "title": "더 건강한 세상을 위한",
+    "title_em": "헬스케어의 개척자.",
+    "sub": "Edusoft Healthcare Limited는 혁신과 시너지로 의료 성과를 높입니다. 세계 유수 의료 기업의 기술과 자체 공장에서 생산한 인도산 제품을 결합합니다.",
+    "story_eyebrow": "회사 소개",
+    "story_title": "10년 넘게 방사선 촬영을 혁신해 왔습니다.",
+    "story_body": "Edusoft는 신뢰받는 유통업체에서 이동형, 고정형, 핸드헬드 X선 시스템 제조사로 성장했습니다. 인도 내 392개 이상의 공립 병원과 3,106개 이상의 사립 병원에 설치되었으며, 네팔, 방글라데시, 필리핀, 중남미, 두바이, 싱가포르, 아프리카로 확장하고 있습니다.",
+    "story_body2": "병원, 클리닉, 진단 센터, 수의사를 지원하는 우리의 기준은 한 단어입니다. bharosemand, 곧 ‘신뢰할 수 있는’입니다.",
+    "values_eyebrow": "우리의 신념",
+    "values_title": "여섯 가지 약속.",
+    "values": [
+      {
+        "t": "혁신",
+        "d": "환자 치료의 질을 높이는 첨단 기술과 솔루션."
+      },
+      {
+        "t": "정직",
+        "d": "최고의 윤리 기준으로 환자의 안전과 건강을 최우선으로 합니다."
+      },
+      {
+        "t": "탁월함",
+        "d": "모든 업무에서 뛰어난 서비스와 지원을 제공합니다."
+      },
+      {
+        "t": "파트너십",
+        "d": "업계 리더와 협력해 더 나은 의료 성과를 추구합니다."
+      },
+      {
+        "t": "역량 강화",
+        "d": "의료진이 최상의 치료를 제공하도록 돕습니다."
+      },
+      {
+        "t": "지속적인 학습",
+        "d": "의료 산업을 개선할 새로운 방법을 끊임없이 찾습니다."
+      }
+    ],
+    "vision_label": "비전",
+    "vision": "첨단적이고 합리적이며 지속 가능한 의료 영상 솔루션으로 의료진에게 힘을 실어 주고 환자 치료를 향상시켜, 인도와 해외 시장에서 헬스케어를 새롭게 정의합니다.",
+    "mission_label": "미션",
+    "mission": "의료진의 필요에 맞춘 고품질 방사선 및 의료 영상 장비를 개발·제조·공급하고, 윤리적이며 환자 중심적인 솔루션으로 전 세계의 의료 격차를 해소합니다.",
+    "make_eyebrow": "제조 및 파트너십",
+    "make_title": "인도에서 만들고, 글로벌 파트너와 함께 완성합니다.",
+    "make_body": "Make in India 이니셔티브에 따라 50kW 디지털 이동형 시스템, 80kW 천장 현가식 X선, 디지털 C-암, 2kW 포터블, 핸드헬드 X선 등 첨단 이동형·고정형 X선 장비를 제조합니다. Carestream Health(미국)와의 파트너십으로 CR, DR, 필름, 고급 영상 장비를 제공합니다.",
+    "compliance_eyebrow": "규정 준수",
+    "compliance_title": "중요한 표준에 부합하는 인증.",
+    "compliance_body": "Edusoft 기술은 BIS, NABL, AERB, CDSCO, ISO 요건을 충족하며, Edusoft는 Government e-Marketplace(GeM)의 공인 인증 판매업체입니다.",
+    "certs": [
+      {
+        "k": "BIS",
+        "d": "인도 표준국"
+      },
+      {
+        "k": "NABL",
+        "d": "인도 국가 시험·교정 기관 인정 위원회"
+      },
+      {
+        "k": "AERB",
+        "d": "인도 원자력 규제 위원회"
+      },
+      {
+        "k": "CDSCO",
+        "d": "인도 중앙 의약품 표준 관리 기구"
+      },
+      {
+        "k": "ISO",
+        "d": "국제표준화기구"
+      },
+      {
+        "k": "GeM",
+        "d": "인증 판매업체 · Government e-Marketplace"
+      }
+    ],
+    "people_eyebrow": "우리의 사람들",
+    "people_title": "엔지니어, 기술자, 서비스 전문가.",
+    "people_body": "우리 팀은 엔지니어, 기술자, 영업·마케팅 전문가, 고객 서비스 담당자로 구성되어 있습니다. 각자가 역량을 발휘할 수 있도록 교육과 자원을 제공하며, 의료에 기여한다는 목표로 함께합니다.",
+    "video_title": "Edusoft의 현장",
+    "offices_eyebrow": "사무소",
+    "offices_title": "찾아오시는 길.",
+    "future_title": "앞으로 10년, 의료 영상은 더 휴대하기 쉽고 디지털화되며 연결될 것입니다.",
+    "future_body": "핸드헬드 방사선 촬영, 무선 디텍터, AI 기반 워크플로에 투자해 모든 지역 병원, 클리닉, 검진 캠프에 양질의 영상을 전달하겠습니다.",
+    "facility_alt": "Edusoft Healthcare 팀",
+    "gov_hospitals": "공립 병원",
+    "pvt_hospitals": "사립 병원",
+    "partners": "기술 파트너",
+    "range_motion": "동작 범위"
+  },
+  "support_page": {
+    "eyebrow": "지원",
+    "title": "무엇을 도와드릴까요?",
+    "subtitle": "자주 묻는 질문, 자료, 그리고 서비스팀과의 직통 창구.",
+    "faq_tag": "FAQ",
+    "faq_headline": "자주 묻는 질문",
+    "faq_search": "질문 검색…",
+    "faq_no_results": "검색과 일치하는 질문이 없습니다.",
+    "docs_tag": "자료",
+    "docs_headline": "브로슈어 및 제품 자료",
+    "docs_sub": "최신 브로슈어를 다운로드하세요.",
+    "contact_tag": "지원 요청",
+    "contact_headline": "지원 요청 보내기",
+    "form_product_placeholder": "제품 선택(선택 사항)",
+    "form_product_label": "제품",
+    "form_issue_label": "문제 설명",
+    "form_issue_placeholder": "모델명, 가능하면 일련번호, 발생 증상을 적어 주세요.",
+    "form_submit": "요청 보내기",
+    "form_success_title": "요청이 접수되었습니다",
+    "form_success_body": "서비스 데스크가 1영업일 이내에 답변드립니다.",
+    "form_submit_another": "다른 요청 보내기",
+    "toll_free": "수신자 부담",
+    "search_faqs_aria": "FAQ 검색"
+  },
+  "news_page": {
+    "eyebrow": "뉴스룸",
+    "title": "뉴스 및 소식",
+    "subtitle": "Edusoft Healthcare의 제품 출시, 도입 사례, 회사 소식.",
+    "read_more": "기사 읽기",
+    "filter_all": "전체",
+    "filter_category_aria": "카테고리로 필터",
+    "no_articles": "이 카테고리에는 아직 기사가 없습니다.",
+    "featured": "최신"
+  },
+  "news_article": {
+    "back": "뉴스룸",
+    "share": "공유",
+    "related": "관련 기사",
+    "not_found": "기사를 찾을 수 없습니다",
+    "back_to_news": "뉴스로 돌아가기",
+    "share_x": "X에 공유",
+    "share_linkedin": "LinkedIn에 공유",
+    "by": "작성"
+  },
+  "careers_page": {
+    "eyebrow": "채용",
+    "title": "의료 영상의 미래를",
+    "title_em": "함께 만들어 갑니다.",
+    "subtitle": "모두가 진단 영상을 누릴 수 있도록 일하는 엔지니어, 기술자, 전문가와 함께하세요.",
+    "apply_now": "지원하기",
+    "view_job": "채용 공고 보기",
+    "no_jobs": "현재 조건에 맞는 채용 공고가 없습니다. 곧 다시 확인해 주세요.",
+    "culture_tag": "Edusoft에서 일하기",
+    "culture_headline": "사명과 정밀함이 만나는 곳.",
+    "open_positions": "채용 중인 직무",
+    "search_placeholder": "직무 또는 지역 검색…",
+    "all_departments": "전체",
+    "culture": [
+      {
+        "t": "사람 우선",
+        "d": "교육, 성장, 그리고 팀이 역량을 발휘하는 데 필요한 자원에 투자합니다."
+      },
+      {
+        "t": "사명 중심",
+        "d": "모든 직무가 더 나은 진단과 의료 접근성 확대에 기여합니다."
+      },
+      {
+        "t": "오래가는 제품",
+        "d": "수천 개 병원에 설치된 제품을 다루고 오랫동안 지원합니다."
+      }
+    ],
+    "search_jobs_aria": "채용 검색",
+    "filter_dept_aria": "부서로 필터",
+    "posted_on": "게시일"
+  },
+  "job_detail": {
+    "not_found": "채용 공고를 찾을 수 없습니다",
+    "back": "전체 채용",
+    "about_role": "직무 소개",
+    "responsibilities": "주요 업무",
+    "requirements": "자격 요건",
+    "apply_title": "지원할 준비가 되셨나요?",
+    "apply_body": "지원서를 보내 주세요. 채용팀이 모든 지원서를 검토합니다.",
+    "apply_email_note": "또는 이력서를 이메일로 보내 주세요:",
+    "experience": "경력",
+    "location": "근무지",
+    "type": "고용 형태",
+    "department": "부서"
+  },
+  "contact_page": {
+    "eyebrow": "문의",
+    "title": "영상 장비에 대해 이야기해 보세요.",
+    "subtitle": "영업, 견적, 서비스, 파트너십, 언론 — 하나의 양식으로 담당 팀에 연결됩니다.",
+    "form_headline": "문의 보내기",
+    "step_topic": "어떤 도움이 필요하신가요?",
+    "step_details": "고객 정보",
+    "step_message": "메시지",
+    "offices_headline": "사무소",
+    "name": "이름",
+    "email": "업무용 이메일",
+    "phone": "전화번호",
+    "company": "병원 / 기관",
+    "product": "관심 제품",
+    "product_none": "아직 정하지 않음",
+    "department": "문의 유형",
+    "message": "메시지",
+    "optional": "선택 사항",
+    "submit": "문의 보내기",
+    "success_title": "감사합니다. 문의가 접수되었습니다.",
+    "success": "전문가가 1영업일 이내에 답변드립니다. 긴급 서비스는 1800-120-280-280으로 전화해 주세요.",
+    "error": "메시지를 보내지 못했습니다. 다시 시도하시거나 직접 연락해 주세요.",
+    "direct_contacts": "직통 번호",
+    "toll_free": "수신자 부담(인도)",
+    "international": "해외",
+    "usa": "미국",
+    "general_inquiries": "일반 문의",
+    "privacy_note": "입력하신 정보는 이 문의에 답변하는 데에만 사용됩니다. 자세한 내용은",
+    "privacy_link": "개인정보처리방침",
+    "send_another": "다른 문의 보내기",
+    "name_placeholder": "홍길동",
+    "email_placeholder": "you@hospital.org",
+    "phone_placeholder": "010-1234-5678",
+    "company_placeholder": "○○종합병원",
+    "message_placeholder": "기관 소개, 검토 중인 시스템, 도입 일정을 알려 주세요.",
+    "directions": "오시는 길",
+    "departments": {
+      "quote": "견적",
+      "sales": "영업 문의",
+      "support": "서비스 및 지원",
+      "partnerships": "대리점 / 파트너십",
+      "media": "언론 및 보도",
+      "general": "일반 문의"
+    }
+  },
+  "legal": {
+    "updated": "Edusoft Healthcare 게시 내용 기준",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관",
+    "cookies": "쿠키 정책"
+  },
+  "footer": {
+    "tagline": "의료 영상 기술 — Edusoft Healthcare가 설계, 제조, 지원합니다.",
+    "company": "회사",
+    "products": "제품",
+    "resources": "자료",
+    "contact": "연락처",
+    "privacy": "개인정보",
+    "terms": "약관",
+    "cookies": "쿠키",
+    "copyright": "© {{year}} Edusoft Healthcare Limited. All rights reserved.",
+    "made_in_india": "인도 제조",
+    "newsletter_title": "제품 소식",
+    "newsletter_body": "신제품과 도입 소식을 1년에 몇 차례 보내드립니다.",
+    "newsletter_cta": "구독",
+    "newsletter_placeholder": "이메일 주소",
+    "newsletter_thanks": "구독해 주셔서 감사합니다.",
+    "social": "Edusoft 팔로우",
+    "back_to_top": "맨 위로",
+    "links": {
+      "about": "회사 소개",
+      "services": "서비스",
+      "news": "뉴스",
+      "careers": "채용",
+      "compliance": "규정 준수",
+      "support": "지원",
+      "faq": "FAQ",
+      "brochures": "브로슈어",
+      "contact": "문의",
+      "request_quote": "견적 요청",
+      "all_products": "전체 제품",
+      "compare": "제품 비교"
+    }
+  },
+  "common": {
+    "loading": "불러오는 중…",
+    "error": "문제가 발생했습니다. 다시 시도해 주세요.",
+    "retry": "다시 시도",
+    "back": "뒤로",
+    "learn_more": "자세히 보기",
+    "read_more": "더 읽기",
+    "view_all": "전체 보기",
+    "search": "검색",
+    "clear": "지우기",
+    "submit": "제출",
+    "required": "필수",
+    "optional": "선택 사항",
+    "sending": "보내는 중…",
+    "submitting": "제출 중…",
+    "name_required": "이름을 입력해 주세요.",
+    "email_required": "올바른 이메일 주소를 입력해 주세요.",
+    "message_required": "메시지를 입력해 주세요.",
+    "not_found_title": "페이지가 이동했거나 존재하지 않습니다.",
+    "not_found_body": "새 웹사이트로 바뀌면서 주소가 변경되었을 수 있습니다. 제품 카탈로그나 홈으로 이동해 주세요.",
+    "return_home": "홈으로",
+    "watch_video": "동영상 보기",
+    "video_consent": "YouTube(개인정보 보호 강화 모드)에서 재생됩니다.",
+    "share_twitter": "X",
+    "share_linkedin": "LinkedIn",
+    "minutes": "분",
+    "previous": "이전",
+    "next": "다음",
+    "paused": "일시 정지됨",
+    "skip_to_content": "본문으로 건너뛰기"
+  },
+  "footer_contact": {
+    "phone": "1800-120-280-280",
+    "phone_intl": "+91-88512-48073",
+    "phone_usa": "+1-773-313-5065",
+    "email": "info@edusofthealth.com",
+    "address": "B-83, Mangolpuri Industrial Area, Phase-II, New Delhi 110034, India"
+  },
+  "navbar_languages": {
+    "en": "English",
+    "ja": "Japanese",
+    "fr": "French",
+    "zh": "Chinese",
+    "ko": "Korean"
+  },
+  "phone_codes": {
+    "label": "국가 번호",
+    "codes": [
+      {
+        "code": "+91",
+        "country": "인도"
+      },
+      {
+        "code": "+1",
+        "country": "미국 / 캐나다"
+      },
+      {
+        "code": "+977",
+        "country": "네팔"
+      },
+      {
+        "code": "+880",
+        "country": "방글라데시"
+      },
+      {
+        "code": "+63",
+        "country": "필리핀"
+      },
+      {
+        "code": "+971",
+        "country": "아랍에미리트"
+      },
+      {
+        "code": "+65",
+        "country": "싱가포르"
+      },
+      {
+        "code": "+254",
+        "country": "케냐"
+      },
+      {
+        "code": "+234",
+        "country": "나이지리아"
+      },
+      {
+        "code": "+27",
+        "country": "남아프리카공화국"
+      },
+      {
+        "code": "+44",
+        "country": "영국"
+      },
+      {
+        "code": "+81",
+        "country": "일본"
+      },
+      {
+        "code": "+33",
+        "country": "프랑스"
+      },
+      {
+        "code": "+86",
+        "country": "중국"
+      },
+      {
+        "code": "+82",
+        "country": "대한민국"
+      },
+      {
+        "code": "+49",
+        "country": "독일"
+      },
+      {
+        "code": "+61",
+        "country": "호주"
+      }
+    ],
+    "search": "국가 또는 번호 검색"
+  },
+  "media_kind": {
+    "studio": "스튜디오",
+    "angle": "각도",
+    "detail": "디테일",
+    "in-use": "사용 장면",
+    "motion": "동작 범위",
+    "packaging": "포장",
+    "screen": "소프트웨어",
+    "logo": "파트너",
+    "accessory": "액세서리"
+  }
+}

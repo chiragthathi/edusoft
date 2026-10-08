@@ -1,0 +1,112 @@
+[
+  {
+    "id": "job-1",
+    "slug": "sales-manager-north-india",
+    "title": "Regional Sales Manager — North India",
+    "department": "Sales",
+    "location": "New Delhi, India",
+    "type": "Full-time",
+    "experience": "5–8 years",
+    "posted": "2025-08-10",
+    "description": "We are seeking an experienced Regional Sales Manager to lead EduSoft's sales operations across North India. The successful candidate will drive revenue growth, manage a team of field sales executives, and build long-term relationships with hospitals, diagnostic centres, and distributors.",
+    "responsibilities": [
+      "Achieve regional sales targets for the imaging hardware and software portfolio",
+      "Build and manage a team of 4–6 field sales representatives",
+      "Develop and maintain relationships with key accounts (hospitals, radiology chains, government health departments)",
+      "Identify and onboard new channel partners and distributors",
+      "Provide market intelligence and competitive analysis to the product team",
+      "Represent EduSoft at regional trade exhibitions and clinical conferences"
+    ],
+    "requirements": [
+      "Bachelor's degree in Science, Engineering, or Business; MBA preferred",
+      "5–8 years of experience in medical device / healthcare technology sales",
+      "Proven track record of achieving sales targets in a B2B medical environment",
+      "Strong network within radiology, orthopedics, or diagnostic imaging sectors",
+      "Excellent communication and negotiation skills",
+      "Willingness to travel extensively within the region"
+    ],
+    "applyUrl": "#"
+  },
+  {
+    "id": "job-2",
+    "slug": "application-engineer-imaging",
+    "title": "Application Engineer — Medical Imaging",
+    "department": "Technical",
+    "location": "New Delhi, India",
+    "type": "Full-time",
+    "experience": "2–5 years",
+    "posted": "2025-08-05",
+    "description": "Join our applications team to provide technical support, product training, and clinical workflow optimization for EduSoft's installed base across India and international markets.",
+    "responsibilities": [
+      "Deliver product demonstrations and hands-on training at customer sites",
+      "Support installation, commissioning, and acceptance testing of imaging systems",
+      "Provide clinical application support to radiology technologists and physicians",
+      "Conduct remote and on-site troubleshooting for application-level issues",
+      "Develop training materials and application guides",
+      "Provide feedback to the product team on clinical usage patterns and improvement areas"
+    ],
+    "requirements": [
+      "Degree or diploma in Radiography, Medical Imaging Technology, or Biomedical Engineering",
+      "2–5 years of experience in medical imaging applications or clinical support",
+      "Hands-on experience with DR/CR systems, PACS, or surgical imaging",
+      "Strong communication and presentation skills",
+      "Willingness to travel up to 60% of the time"
+    ],
+    "applyUrl": "#"
+  },
+  {
+    "id": "job-3",
+    "slug": "software-engineer-ai",
+    "title": "Software Engineer — AI & Medical Imaging",
+    "department": "Engineering",
+    "location": "New Delhi, India",
+    "type": "Full-time",
+    "experience": "3–6 years",
+    "posted": "2025-07-28",
+    "description": "We are looking for a talented software engineer to join the EduSoft AI team, contributing to the development and enhancement of our medical imaging AI platform including the TB Screening AI product.",
+    "responsibilities": [
+      "Develop and maintain backend services for AI inference pipelines",
+      "Build DICOM integration layers for PACS and acquisition workstation interfaces",
+      "Optimize model serving infrastructure for sub-30 second processing",
+      "Implement clinical audit trail and compliance features",
+      "Collaborate with radiologists and clinical advisors on AI output validation",
+      "Contribute to regulatory documentation for medical device software submissions"
+    ],
+    "requirements": [
+      "Bachelor's or Master's in Computer Science, Software Engineering, or related field",
+      "3–6 years of professional software development experience",
+      "Proficiency in Python; experience with PyTorch or TensorFlow",
+      "Experience with DICOM, HL7, or healthcare interoperability standards preferred",
+      "Familiarity with Docker, REST APIs, and cloud deployment",
+      "Interest in regulated software development (IEC 62304) is a plus"
+    ],
+    "applyUrl": "#"
+  },
+  {
+    "id": "job-4",
+    "slug": "service-engineer-field",
+    "title": "Field Service Engineer",
+    "department": "Service",
+    "location": "Multiple Locations, India",
+    "type": "Full-time",
+    "experience": "1–4 years",
+    "posted": "2025-07-15",
+    "description": "Field Service Engineers at EduSoft are the technical backbone of our customer relationships — responsible for installation, preventive maintenance, and repair of medical imaging equipment at customer sites across India.",
+    "responsibilities": [
+      "Install, commission, and perform acceptance testing of imaging systems",
+      "Execute planned preventive maintenance visits per service schedule",
+      "Diagnose and repair hardware and software faults on customer sites",
+      "Maintain accurate service records and escalate complex issues to L2/L3 support",
+      "Support customers with basic operational training",
+      "Manage assigned spare parts inventory"
+    ],
+    "requirements": [
+      "Diploma or Bachelor's in Electronics, Biomedical Engineering, or Electrical Engineering",
+      "1–4 years of field service experience in medical equipment or similar industry",
+      "Ability to read electrical schematics and technical manuals",
+      "Strong problem-solving and customer-facing communication skills",
+      "Valid driving licence; willingness to travel extensively"
+    ],
+    "applyUrl": "#"
+  }
+]

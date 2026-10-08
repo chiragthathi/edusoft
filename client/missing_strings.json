@@ -1,0 +1,74 @@
+{
+  "src/pages\\AboutPage.tsx": [
+    "EduSoft Healthcare facility and operations"
+  ],
+  "src/pages\\CareersPage.tsx": [
+    "Filter by department",
+    "Search jobs"
+  ],
+  "src/pages\\ContactPage.tsx": [
+    "info@edusofthealth.com"
+  ],
+  "src/pages\\JobDetailPage.tsx": [
+    "hr@edusofthealth.com",
+    "Position Not Found",
+    "Back to Careers"
+  ],
+  "src/pages\\NewsArticlePage.tsx": [
+    "Article Not Found",
+    "Share on X (Twitter)",
+    "Back to News",
+    "Share on LinkedIn"
+  ],
+  "src/pages\\NewsPage.tsx": [
+    "Filter by category",
+    "No articles found in this category."
+  ],
+  "src/pages\\PortfolioPage.tsx": [
+    "Clear search",
+    "Filter by category",
+    "Search products"
+  ],
+  "src/pages\\ProductDetailPage.tsx": [
+    "Product Not Found",
+    "Portfolio",
+    "Interested in this product?",
+    "Contact our sales team for pricing, availability, and clinical consultations.",
+    "Breadcrumb",
+    "Home",
+    "Back to Portfolio"
+  ],
+  "src/pages\\SupportPage.tsx": [
+    "Search FAQs"
+  ],
+  "src/components/layout\\Footer.tsx": [
+    "EduSoft Healthcare",
+    "EduSoft Healthcare — Home"
+  ],
+  "src/components/layout\\Navbar.tsx": [
+    "LinkedIn",
+    "Mobile navigation",
+    "Main navigation",
+    "Select language",
+    "Twitter/X",
+    "EduSoft Healthcare — Home",
+    "Close menu",
+    "EduSoft Healthcare",
+    "Mobile navigation menu"
+  ],
+  "src/components/home\\AboutSection.tsx": [
+    "ISO",
+    "EduSoft Healthcare clinical team reviewing medical imaging results",
+    "Certified"
+  ],
+  "src/components/home\\HeroSection.tsx": [
+    "Hero slideshow",
+    "⟵ drag ⟶",
+    "LIVE · MEDICAL IMAGING",
+    "Precision solutions for"
+  ],
+  "src\\App.tsx": [
+    "Page not found",
+    "Return Home"
+  ]
+}

@@ -1,0 +1,201 @@
+@import './styles/tokens.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ───────────── BASE ───────────── */
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: calc(var(--header-h) + 1rem);
+  }
+
+  body {
+    @apply bg-bg text-fg font-sans antialiased;
+    font-feature-settings: 'ss01', 'cv11';
+    overflow-x: clip;
+    overflow-wrap: break-word;
+    transition: background-color var(--motion-normal) var(--ease-in-out), color var(--motion-normal) var(--ease-in-out);
+  }
+
+  h1, h2, h3, h4, h5, h6 { @apply font-display; text-wrap: balance; font-weight: 500; }
+  p { text-wrap: pretty; }
+  img, video { max-width: 100%; display: block; }
+
+  /* Grid items default to min-width:auto, so a truncated or scrolling child can
+     stretch its track past the viewport on phones. Let tracks shrink. */
+  :where(.grid) > * { min-width: 0; }
+  button { -webkit-tap-highlight-color: transparent; }
+
+  :focus-visible {
+    outline: 2px solid rgb(var(--brand));
+    outline-offset: 3px;
+    border-radius: var(--radius-xs);
+  }
+
+  ::selection { background: rgb(var(--brand) / 0.22); }
+
+  /* Skip link */
+  .skip-link {
+    position: fixed; left: 1rem; top: -4rem; z-index: 100;
+    @apply rounded-sm bg-fg px-4 py-3 text-sm font-medium text-bg;
+    transition: top var(--motion-fast) var(--ease-out);
+  }
+  .skip-link:focus { top: 1rem; }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+/* ───────────── COMPONENTS ───────────── */
+@layer components {
+  /* Layout */
+  .container-x { @apply mx-auto w-full max-w-container px-gutter; }
+  .section-y { padding-block: var(--space-section); }
+
+  /* Eyebrow / technical label — Geist Mono, spaced caps */
+  .eyebrow {
+    @apply inline-flex items-center gap-2.5 font-mono text-eyebrow uppercase text-muted;
+  }
+  .eyebrow-index { @apply text-brand; }
+
+  /* DICOM overlay annotation — the Edusoft signature label */
+  .dicom {
+    @apply font-mono text-[10px] leading-[1.5] tracking-[0.08em] text-muted tabular-nums;
+  }
+
+  /* Headings */
+  .type-display { @apply font-display text-display-xl font-medium; }
+  .type-h1 { @apply font-display text-display-lg font-medium; }
+  .type-h2 { @apply font-display text-display-md font-medium; }
+  .type-h3 { @apply font-display text-display-sm font-medium; }
+  .lede { @apply text-lede text-muted; }
+
+  /* Buttons */
+  .btn {
+    @apply relative inline-flex select-none items-center justify-center gap-2.5 whitespace-nowrap rounded-full font-medium
+           transition-[background-color,color,box-shadow,transform] duration-fast ease-out
+           disabled:pointer-events-none disabled:opacity-50;
+    height: 3rem; padding-inline: 1.375rem; font-size: 0.9375rem; letter-spacing: -0.01em;
+  }
+  .btn:active { transform: translateY(1px) scale(0.99); }
+  .btn-sm { height: 2.375rem; padding-inline: 1rem; font-size: 0.8125rem; }
+  .btn-lg { height: 3.5rem; padding-inline: 1.75rem; font-size: 1rem; }
+  .btn-primary { @apply bg-brand text-on-brand hover:bg-brand-strong hover:shadow-glow; }
+  .btn-solid { @apply bg-fg text-bg hover:bg-fg/85; }
+  .btn-secondary { @apply bg-transparent text-fg shadow-[inset_0_0_0_1px_rgb(var(--line-strong)/var(--line-strong-a))] hover:bg-fg/[0.05] hover:shadow-[inset_0_0_0_1px_rgb(var(--fg)/0.5)]; }
+  .btn-ghost { @apply bg-transparent px-0 text-fg hover:text-brand; height: auto; }
+  /* Sheen: a band of light sweeps across filled buttons on hover. */
+  .btn-primary, .btn-solid { overflow: hidden; isolation: isolate; }
+  .btn-primary::after, .btn-solid::after {
+    content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+    background: linear-gradient(105deg, transparent 35%, rgb(255 255 255 / 0.28) 50%, transparent 65%);
+    transform: translateX(-120%);
+  }
+  .btn-primary:hover::after, .btn-solid:hover::after { transform: translateX(120%); transition: transform 0.9s var(--ease-out); }
+  .btn-arrow { @apply transition-transform duration-normal ease-out; }
+  .btn:hover .btn-arrow { transform: translateX(3px); }
+
+  /* Text link with animated underline */
+  .link {
+    @apply relative text-fg;
+    background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+    transition: background-size var(--motion-normal) var(--ease-out), color var(--motion-fast);
+  }
+  .link:hover { background-size: 100% 1px; }
+
+  /* Surfaces */
+  .panel { @apply rounded-lg bg-surface shadow-hairline; }
+  .hairline-t { border-top: 1px solid rgb(var(--line) / var(--line-a)); }
+  .hairline-b { border-bottom: 1px solid rgb(var(--line) / var(--line-a)); }
+
+  /* Lightbox — luminous product stage (film-viewer motif) */
+  .lightbox {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+    background:
+      radial-gradient(120% 90% at 50% 18%, rgb(var(--lightbox-from)) 0%, rgb(var(--lightbox-from)) 38%, rgb(var(--lightbox-to)) 100%);
+    box-shadow: inset 0 0 0 1px rgb(var(--lightbox-edge) / var(--lightbox-edge-a)), inset 0 -40px 60px -40px rgb(11 18 32 / 0.12);
+  }
+  /* White (or white-boxed) product photos disappear into the stage;
+     transparent pixels are unaffected by multiply. */
+  .lightbox img { mix-blend-mode: multiply; }
+  /* Floor shadow under products */
+  .lightbox::after {
+    content: ''; position: absolute; z-index: -1; left: 18%; right: 18%; bottom: 9%; height: 7%;
+    background: radial-gradient(closest-side, rgb(11 18 32 / 0.22), transparent);
+    filter: blur(6px);
+  }
+
+  /* Registration marks — detector-corner crop marks */
+  .reg-marks { position: relative; }
+  .reg-marks::before, .reg-marks::after {
+    content: ''; position: absolute; width: 14px; height: 14px; pointer-events: none;
+    border-color: rgb(var(--fg) / 0.35);
+  }
+  .reg-marks::before { top: 10px; left: 10px; border-top: 1px solid; border-left: 1px solid; }
+  .reg-marks::after { bottom: 10px; right: 10px; border-bottom: 1px solid; border-right: 1px solid; }
+
+  /* Chips / tags */
+  .chip {
+    @apply inline-flex h-9 items-center gap-2 whitespace-nowrap rounded-full px-4 text-[13px] font-medium text-muted
+           shadow-[inset_0_0_0_1px_rgb(var(--line)/var(--line-a))] transition-colors duration-fast
+           hover:text-fg hover:shadow-[inset_0_0_0_1px_rgb(var(--line-strong)/var(--line-strong-a))];
+  }
+  .chip[aria-pressed='true'], .chip[aria-current='true'] { @apply bg-fg text-bg shadow-none; }
+
+  /* Forms */
+  .field { @apply relative flex flex-col gap-2; }
+  .field-label { @apply text-[13px] font-medium text-fg; }
+  .field-hint { @apply text-xs text-subtle; }
+  .field-error { @apply flex items-center gap-1.5 text-xs font-medium text-danger; }
+  .control {
+    @apply w-full rounded-sm bg-surface px-4 text-[15px] text-fg placeholder:text-subtle
+           shadow-[inset_0_0_0_1px_rgb(var(--line-strong)/var(--line-strong-a))]
+           transition-[box-shadow,background-color] duration-fast ease-out
+           hover:shadow-[inset_0_0_0_1px_rgb(var(--fg)/0.35)]
+           focus:bg-raised focus:outline-none focus:shadow-[inset_0_0_0_1.5px_rgb(var(--brand)),0_0_0_4px_rgb(var(--brand)/0.14)];
+    min-height: 3.125rem;
+  }
+  textarea.control { @apply py-3.5 leading-relaxed; }
+  select.control { @apply appearance-none pr-10; }
+  .control[aria-invalid='true'] { @apply shadow-[inset_0_0_0_1.5px_rgb(var(--danger)),0_0_0_4px_rgb(var(--danger)/0.12)]; }
+
+  /* Scroll rails (horizontal galleries) */
+  .rail { @apply flex snap-x snap-mandatory gap-4 overflow-x-auto overscroll-x-contain; scrollbar-width: none; }
+  .rail::-webkit-scrollbar { display: none; }
+  .rail > * { @apply snap-start; }
+
+  /* Skeleton shimmer */
+  .skeleton { @apply relative overflow-hidden rounded-md bg-fg/[0.06]; }
+  .skeleton::after {
+    content: ''; position: absolute; inset: 0; transform: translateX(-100%);
+    background: linear-gradient(90deg, transparent, rgb(var(--fg) / 0.06), transparent);
+    animation: shimmer 1.6s infinite;
+  }
+}
+
+/* ───────────── UTILITIES ───────────── */
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+  .tabular { font-variant-numeric: tabular-nums; }
+  .grain {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
+  }
+  .mask-fade-x { mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent); }
+  .mask-fade-b { mask-image: linear-gradient(180deg, #000 60%, transparent); }
+  .no-scrollbar { scrollbar-width: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+}

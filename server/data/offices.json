@@ -1,0 +1,28 @@
+[
+  {
+    "id": "hq",
+    "name": "Global Headquarters",
+    "address": "B-83, Mangolpuri Industrial Area, Phase-II",
+    "city": "New Delhi",
+    "country": "India",
+    "postalCode": "110034",
+    "phone": "+91-88512-48073",
+    "tollFree": "1800-120-280-280",
+    "email": "info@edusofthealth.com",
+    "mapUrl": "https://goo.gl/maps/EXZ1Sw2gZc7S2XLs9",
+    "coords": [28.7003, 77.0829],
+    "type": "headquarters"
+  },
+  {
+    "id": "usa",
+    "name": "Edusoft Healthcare LLC — USA",
+    "address": "3525 West Peterson Ave, Suite 113",
+    "city": "Chicago, IL",
+    "country": "United States",
+    "postalCode": "60659",
+    "phone": "+1-773-313-5065",
+    "email": "edusoft.usa@edusofthealth.com",
+    "coords": [41.9905, -87.7167],
+    "type": "regional"
+  }
+]

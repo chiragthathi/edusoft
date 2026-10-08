@@ -1,0 +1,781 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "portfolio": "Products",
+    "services": "Services",
+    "about": "Company",
+    "news": "News",
+    "careers": "Careers",
+    "support": "Support",
+    "contact": "Contact",
+    "language": "Language",
+    "requestQuote": "Request a quote",
+    "all_products": "All products",
+    "view_all_in": "View all {{category}}",
+    "featured": "Featured",
+    "menu": "Menu",
+    "close": "Close",
+    "theme_dark": "Switch to dark theme",
+    "theme_light": "Switch to light theme",
+    "main_nav_aria": "Main navigation",
+    "mobile_nav_aria": "Mobile navigation",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu",
+    "products_menu": "Products menu",
+    "groups": {
+      "imaging": "X-Ray Imaging",
+      "digital": "Digital & Software",
+      "output": "Output & Accessories",
+      "specialty": "Specialty"
+    }
+  },
+  "hero": {
+    "eyebrow": "Medical imaging technology",
+    "line1": "Clarity at every",
+    "line2": "point of care.",
+    "sub": "Edusoft engineers, manufactures and supports X-ray imaging — from a 3.5 kg handheld to 80 kW ceiling-suspended DR rooms — behind 4,200+ installations.",
+    "cta_primary": "Explore products",
+    "cta_secondary": "Request a quote",
+    "showing": "Now showing",
+    "select": "Select product",
+    "view": "View system",
+    "slots": {
+      "handheld": "Handheld",
+      "mobile": "Mobile",
+      "carm": "C-Arm",
+      "room": "DR Room"
+    },
+    "scroll": "Scroll"
+  },
+  "home": {
+    "intro": {
+      "eyebrow": "Edusoft Healthcare",
+      "statement": "For more than 28 years we have put diagnostic imaging within reach of hospitals, clinics and field programmes —",
+      "statement_em": "engineered and manufactured in India, supported wherever it is installed.",
+      "body": "392+ government and 3,106+ private hospitals run Edusoft systems today, served from 13 branch offices and a growing presence across Nepal, Bangladesh, the Philippines, the Middle East, Singapore, Africa, Latin America and the USA.",
+      "stats": {
+        "installations": "Installations",
+        "years": "Years of experience",
+        "branches": "Branch offices",
+        "people": "Specialists",
+        "awards": "Awards"
+      }
+    },
+    "ecosystem": {
+      "eyebrow": "Product ecosystem",
+      "title": "One imaging ecosystem.",
+      "sub": "Acquisition, digitisation, output and software — each designed to work with the rest.",
+      "products_count_one": "{{count}} product",
+      "products_count_other": "{{count}} products",
+      "explore": "Explore"
+    },
+    "tech": {
+      "eyebrow": "Core technology",
+      "title": "Engineered around the image chain.",
+      "sub": "Every Edusoft system is built on four links. Strengthen each one and the diagnosis gets clearer.",
+      "steps": [
+        {
+          "k": "Generate",
+          "title": "High-frequency generation",
+          "body": "From 210 W handhelds to 80 kW ceiling-suspended rooms, inverter generators at 80–270 kHz deliver stable, low-ripple output for consistent images at lower dose.",
+          "stat": "80 kW",
+          "statLabel": "Peak room power"
+        },
+        {
+          "k": "Capture",
+          "title": "Wireless flat panel detectors",
+          "body": "ERAY Gold detectors pair CsI scintillators with amorphous silicon: 100 μm pixels, 73% DQE, IP56 housings and a full image on screen in two to three seconds.",
+          "stat": "73%",
+          "statLabel": "DQE · ERAY Gold 100"
+        },
+        {
+          "k": "Process",
+          "title": "Acquisition software",
+          "body": "Edusoft IAS and ERAY ImageSuite (CDSCO approved) correct grid and exposure errors, stitch long-length studies and hand images to PACS over DICOM 3.0.",
+          "stat": "<5 s",
+          "statLabel": "Image preview"
+        },
+        {
+          "k": "Deliver",
+          "title": "Output and archive",
+          "body": "TRIMAX dry laser imagers up to 650 ppi, the Made-in-India ERAY thermal imager, PACS, RIS and tele-radiology put every study where it is needed.",
+          "stat": "650 ppi",
+          "statLabel": "TRIMAX TX65"
+        }
+      ]
+    },
+    "featured": {
+      "eyebrow": "Flagship systems",
+      "title": "Built for the rooms that never stop.",
+      "drag": "Drag or scroll",
+      "all": "All products"
+    },
+    "settings": {
+      "eyebrow": "Clinical applications",
+      "title": "Designed for where care happens.",
+      "items": [
+        {
+          "id": "bedside",
+          "title": "Bedside & critical care",
+          "body": "Battery-driven mobile X-ray brings imaging to the ICU, emergency and neonatal wards — no transfers for patients who cannot be moved.",
+          "products": [
+            "eray-40kw-digital-mobile",
+            "eray-50kw-motorized-mobile",
+            "eray-smart-t-series"
+          ]
+        },
+        {
+          "id": "or",
+          "title": "Operating room",
+          "body": "Flat panel C-Arms with pulse fluoroscopy, dual laser centring and DICOM 3.0 for orthopaedics, trauma, spine, urology and pain management.",
+          "products": [
+            "eray-smart-5c-premium-pro",
+            "eray-smart-5c-gold",
+            "eray-smart-5c-premium"
+          ]
+        },
+        {
+          "id": "radiology",
+          "title": "Radiology department",
+          "body": "Ceiling-suspended and floor-mounted DR rooms with auto-positioning, paired with dry laser imagers and PACS for high-volume departments.",
+          "products": [
+            "eray-ceiling-suspended-dr",
+            "eray-smart-eco-dr",
+            "trimax-tx65"
+          ]
+        },
+        {
+          "id": "screening",
+          "title": "Screening & outreach",
+          "body": "Sub-4 kg handheld X-ray and AI reading support for TB screening programmes, outreach camps, disaster sites and home care.",
+          "products": [
+            "eray-smart-6hs",
+            "eray-smart-5hs",
+            "ai-radiology"
+          ]
+        },
+        {
+          "id": "vet",
+          "title": "Veterinary",
+          "body": "ERAY SMART and RAD systems are built for human and veterinary use; ERAY Gold detectors ship with veterinary measurement tools.",
+          "products": [
+            "eray-rad-series",
+            "eray-gold-100",
+            "trimax-dr"
+          ]
+        }
+      ]
+    },
+    "service": {
+      "eyebrow": "Engineering & service",
+      "title": "Service that outlasts the warranty.",
+      "sub": "Installation, training and maintenance from the same engineers who configure your system.",
+      "steps": [
+        {
+          "t": "Configure",
+          "d": "Product specialists size generator, detector and output to your case mix and room."
+        },
+        {
+          "t": "Install",
+          "d": "Engineers install on-site, calibrate and connect the system to your network and PACS."
+        },
+        {
+          "t": "Train",
+          "d": "Hands-on application training for radiographers, technicians and clinicians."
+        },
+        {
+          "t": "Maintain",
+          "d": "Warranty, then AMC or CMC for up to 10 years — check-ups, parts and software updates."
+        },
+        {
+          "t": "Support",
+          "d": "Remote and on-site support from our technical team via the 1800-120-280-280 toll-free line."
+        }
+      ],
+      "cta": "Explore services",
+      "facts": {
+        "amc": "Warranty · AMC · CMC",
+        "upto": "up to",
+        "years": "years",
+        "amc_body": "Free on-site service during warranty, then annual or comprehensive maintenance contracts — check-ups, parts and software updates.",
+        "network": "Service network",
+        "network_body": "Branch offices across India",
+        "line": "Toll-free service line",
+        "line_body": "Remote diagnosis to reduce downtime"
+      }
+    },
+    "why": {
+      "eyebrow": "Why Edusoft",
+      "title": "Bharosemand Medical Co.",
+      "sub": "“Bharosemand” means trustworthy. It is the standard every system is held to.",
+      "items": [
+        {
+          "t": "Made in India",
+          "d": "Mobile, fixed and handheld X-ray manufactured in our own facility under the Make in India initiative."
+        },
+        {
+          "t": "Globally certified",
+          "d": "Technologies certified to BIS, NABL, AERB, CDSCO and ISO requirements."
+        },
+        {
+          "t": "World-class partners",
+          "d": "Partnered with Carestream Health (USA) to bring CR, DR, films and high-end X-ray to market."
+        },
+        {
+          "t": "Government trusted",
+          "d": "An authorised, verified seller on the Government e-Marketplace (GeM)."
+        }
+      ],
+      "band": [
+        "Made in India",
+        "4,200+ installations",
+        "Carestream partner",
+        "28+ years"
+      ]
+    },
+    "presence": {
+      "eyebrow": "Deployed at scale",
+      "title": "From state programmes to single clinics.",
+      "hites_title": "HITES handheld programme",
+      "hites_body": "300 handheld X-ray units with detectors secured for deployment across Telangana, Jharkhand, Meghalaya, Uttar Pradesh and Odisha.",
+      "units": "units installed",
+      "reach": "International reach",
+      "countries": [
+        "India",
+        "Nepal",
+        "Bangladesh",
+        "Philippines",
+        "UAE",
+        "Singapore",
+        "Africa",
+        "Latin America",
+        "USA"
+      ]
+    },
+    "voices": {
+      "eyebrow": "From our customers",
+      "title": "Trusted in daily practice."
+    },
+    "news": {
+      "eyebrow": "Newsroom",
+      "title": "Latest from Edusoft.",
+      "all": "All news"
+    },
+    "cta": {
+      "title": "Plan your imaging with us.",
+      "body": "Tell us about your facility. Our product specialists will recommend a configuration and share a quotation.",
+      "primary": "Request a quote",
+      "secondary": "Talk to sales"
+    }
+  },
+  "product_card": {
+    "view": "View",
+    "compare": "Compare",
+    "comparing": "Comparing",
+    "details_aria": "View details for {{name}}"
+  },
+  "portfolio_page": {
+    "eyebrow": "Product catalogue",
+    "title": "Imaging systems",
+    "title_em": "engineered for clarity.",
+    "subtitle": "{{count}} products across X-ray imaging, digital radiography, output and software.",
+    "search_placeholder": "Search by name, kV, detector, application…",
+    "filter_all": "All products",
+    "categories": "Categories",
+    "no_results": "No products match your search.",
+    "clear_filters": "Clear filters",
+    "search_products_aria": "Search products",
+    "clear_search_aria": "Clear search",
+    "filter_category_aria": "Filter by category",
+    "results_one": "{{count}} result",
+    "results_other": "{{count}} results",
+    "compare_tray": "Compare",
+    "compare_hint": "Select up to 3 products",
+    "compare_go": "Compare now",
+    "compare_clear": "Clear",
+    "need_help": "Not sure which system fits?",
+    "need_help_body": "Our specialists will match a configuration to your room, case mix and budget.",
+    "need_help_cta": "Ask a specialist"
+  },
+  "compare_page": {
+    "title": "Compare products",
+    "empty": "Select products from the catalogue to compare them side by side.",
+    "back": "Back to products",
+    "spec": "Specification",
+    "remove": "Remove",
+    "not_listed": "—",
+    "only_diff": "Highlight differences"
+  },
+  "product_detail": {
+    "overview": "Overview",
+    "key_features": "Features",
+    "highlights": "At a glance",
+    "specifications": "Specifications",
+    "applications": "Applications",
+    "gallery": "Gallery",
+    "downloads": "Downloads",
+    "related": "Related systems",
+    "family": "More in {{category}}",
+    "request_quote": "Request a quote",
+    "talk_sales": "Talk to sales",
+    "download_brochure": "Brochure",
+    "pdf": "PDF",
+    "not_found": "Product not found",
+    "back_to_portfolio": "Back to products",
+    "breadcrumb_aria": "Breadcrumb",
+    "home": "Home",
+    "portfolio": "Products",
+    "spec_note": "Specifications as published by Edusoft Healthcare and subject to change. Confirm configuration with our team before ordering.",
+    "no_specs": "Detailed specifications for this product are available in the brochure or from our product specialists.",
+    "expand_all": "Expand all",
+    "collapse_all": "Collapse all",
+    "viewer_hint": "Drag to rotate",
+    "viewer_label": "Rotate product view",
+    "service_title": "Installed, trained and maintained by Edusoft.",
+    "service_body": "Every system includes on-site installation and application training, with warranty followed by AMC or CMC options for up to 10 years.",
+    "service_cta": "Our service",
+    "quote_title": "Get a configuration and quotation for the {{name}}.",
+    "quote_body": "Share your facility details and our specialists will respond within one business day.",
+    "local_nav": "On this page",
+    "image_of": "Image {{n}} of {{total}}",
+    "prev_image": "Previous image",
+    "next_image": "Next image"
+  },
+  "services_page": {
+    "eyebrow": "Service & support",
+    "title": "The system is only",
+    "title_em": "the beginning.",
+    "sub": "From configuration to the tenth year of operation, Edusoft engineers keep your imaging running.",
+    "offer_title": "What we provide",
+    "items": [
+      {
+        "t": "Installation & commissioning",
+        "d": "On-site installation, calibration and integration with your network, PACS and printers — by Edusoft engineers."
+      },
+      {
+        "t": "Training & education",
+        "d": "Application training that keeps radiographers and clinicians current with the equipment they work with."
+      },
+      {
+        "t": "Warranty, AMC & CMC",
+        "d": "Free on-site and off-site service during warranty, then Annual or Comprehensive Maintenance Contracts for up to 10 years."
+      },
+      {
+        "t": "Remote & online support",
+        "d": "Our technical team diagnoses and resolves issues remotely to reduce downtime. Toll free: 1800-120-280-280."
+      },
+      {
+        "t": "Medical imaging services",
+        "d": "Onsite and offsite imaging services across mobile X-ray, fixed X-ray, DR, CR and laser printing."
+      },
+      {
+        "t": "Digital solutions",
+        "d": "PACS, RIS, AI and tele-radiology to manage medical images and data more efficiently."
+      },
+      {
+        "t": "Financing",
+        "d": "Flexible financing through NBFC banks and institutions, including 0% interest and long-term payment plans."
+      },
+      {
+        "t": "Parts & consumables",
+        "d": "Genuine parts, films and print media — TRIMAX, ERAY and SONY — supplied and matched to your equipment."
+      }
+    ],
+    "process_title": "How we work",
+    "request_title": "Raise a service request",
+    "request_body": "Tell us about the equipment and the issue. Our service desk will respond within one business day.",
+    "toll_free": "Toll-free service line",
+    "hours": "Service desk"
+  },
+  "about_page": {
+    "eyebrow": "Company",
+    "title": "Pioneering healthcare",
+    "title_em": "for a healthier world.",
+    "sub": "Edusoft Healthcare Limited improves healthcare outcomes through innovation and synergy — pairing technologies from the world’s leading medical companies with Made-in-India products manufactured in our own factory.",
+    "story_eyebrow": "Who we are",
+    "story_title": "Transforming radiography for more than a decade.",
+    "story_body": "Edusoft has grown from a trusted distributor into a manufacturer of mobile, fixed and handheld X-ray systems. Our installations span 392+ government and 3,106+ private hospitals across India, with reach extending to Nepal, Bangladesh, the Philippines, Latin America, Dubai, Singapore and Africa.",
+    "story_body2": "We serve hospitals, clinics, diagnostic centres and veterinarians — and we measure ourselves by one word: bharosemand, trustworthy.",
+    "values_eyebrow": "What we believe",
+    "values_title": "Six commitments.",
+    "values": [
+      {
+        "t": "Innovation",
+        "d": "Cutting-edge technology and solutions that enhance the quality of patient care."
+      },
+      {
+        "t": "Integrity",
+        "d": "Patient safety and well-being first, with the highest ethical standards."
+      },
+      {
+        "t": "Excellence",
+        "d": "Exceptional service and support in everything we do."
+      },
+      {
+        "t": "Partnership",
+        "d": "Working with industry leaders toward better healthcare outcomes."
+      },
+      {
+        "t": "Empowerment",
+        "d": "Enabling healthcare professionals to deliver exceptional care."
+      },
+      {
+        "t": "Continuous learning",
+        "d": "Always seeking new ways to improve the healthcare industry."
+      }
+    ],
+    "vision_label": "Vision",
+    "vision": "To redefine global healthcare by delivering cutting-edge, affordable and sustainable medical imaging solutions that empower healthcare providers and elevate patient care, across India and international markets.",
+    "mission_label": "Mission",
+    "mission": "To innovate, manufacture and deliver high-quality radiology and medical imaging equipment tailored to the needs of healthcare professionals — bridging healthcare gaps globally with ethical, patient-centric solutions.",
+    "make_eyebrow": "Manufacturing & partnerships",
+    "make_title": "Made in India. Built with global partners.",
+    "make_body": "Under the Make in India initiative we manufacture advanced mobile and fixed X-ray — including the 50 kW mobile digital system, 80 kW ceiling-suspended X-ray, digital C-Arm, 2 kW portable and handheld X-ray. Our partnership with Carestream Health (USA) brings CR, DR, films and high-end imaging to our customers.",
+    "compliance_eyebrow": "Compliance",
+    "compliance_title": "Certified to the standards that matter.",
+    "compliance_body": "Edusoft technologies are certified to BIS, NABL, AERB, CDSCO and ISO requirements, and Edusoft is an authorised, verified seller on the Government e-Marketplace (GeM).",
+    "certs": [
+      {
+        "k": "BIS",
+        "d": "Bureau of Indian Standards"
+      },
+      {
+        "k": "NABL",
+        "d": "National Accreditation Board for Testing & Calibration Laboratories"
+      },
+      {
+        "k": "AERB",
+        "d": "Atomic Energy Regulatory Board"
+      },
+      {
+        "k": "CDSCO",
+        "d": "Central Drugs Standard Control Organisation"
+      },
+      {
+        "k": "ISO",
+        "d": "International Organization for Standardization"
+      },
+      {
+        "k": "GeM",
+        "d": "Verified seller · Government e-Marketplace"
+      }
+    ],
+    "people_eyebrow": "Our people",
+    "people_title": "Engineers, technologists and service specialists.",
+    "people_body": "Our team spans engineers, technologists, sales and marketing professionals and customer service representatives — trained and resourced to excel, united by the goal of making a difference in healthcare.",
+    "video_title": "See Edusoft in action",
+    "offices_eyebrow": "Offices",
+    "offices_title": "Where to find us.",
+    "future_title": "The next decade of imaging is portable, digital and connected.",
+    "future_body": "We are investing in handheld radiography, wireless detectors and AI-assisted workflows so that quality imaging reaches every district hospital, clinic and screening camp.",
+    "facility_alt": "Edusoft Healthcare team",
+    "gov_hospitals": "Government hospitals",
+    "pvt_hospitals": "Private hospitals",
+    "partners": "Technology partners",
+    "range_motion": "Range of motion"
+  },
+  "support_page": {
+    "eyebrow": "Support",
+    "title": "How can we help?",
+    "subtitle": "Answers, documentation and a direct line to our service team.",
+    "faq_tag": "FAQ",
+    "faq_headline": "Common questions",
+    "faq_search": "Search questions…",
+    "faq_no_results": "No questions match your search.",
+    "docs_tag": "Documentation",
+    "docs_headline": "Brochures & product sheets",
+    "docs_sub": "Download the latest published brochures.",
+    "contact_tag": "Support request",
+    "contact_headline": "Submit a support request",
+    "form_product_placeholder": "Select a product (optional)",
+    "form_product_label": "Product",
+    "form_issue_label": "Describe the issue",
+    "form_issue_placeholder": "Include the model, serial number if available, and what you are seeing.",
+    "form_submit": "Submit request",
+    "form_success_title": "Request received",
+    "form_success_body": "Our service desk will respond within one business day.",
+    "form_submit_another": "Submit another request",
+    "toll_free": "Toll free",
+    "search_faqs_aria": "Search FAQs"
+  },
+  "news_page": {
+    "eyebrow": "Newsroom",
+    "title": "News & updates",
+    "subtitle": "Product launches, deployments and company news from Edusoft Healthcare.",
+    "read_more": "Read article",
+    "filter_all": "All",
+    "filter_category_aria": "Filter by category",
+    "no_articles": "No articles in this category yet.",
+    "featured": "Latest"
+  },
+  "news_article": {
+    "back": "Newsroom",
+    "share": "Share",
+    "related": "Related articles",
+    "not_found": "Article not found",
+    "back_to_news": "Back to news",
+    "share_x": "Share on X",
+    "share_linkedin": "Share on LinkedIn",
+    "by": "By"
+  },
+  "careers_page": {
+    "eyebrow": "Careers",
+    "title": "Build the future of",
+    "title_em": "medical imaging.",
+    "subtitle": "Join engineers, technologists and specialists who put diagnostic imaging within everyone’s reach.",
+    "apply_now": "Apply now",
+    "view_job": "View role",
+    "no_jobs": "No roles match your filters right now. Check back soon.",
+    "culture_tag": "Life at Edusoft",
+    "culture_headline": "Where purpose meets precision.",
+    "open_positions": "Open roles",
+    "search_placeholder": "Search roles or locations…",
+    "all_departments": "All",
+    "culture": [
+      {
+        "t": "People first",
+        "d": "We invest in training, growth and the resources our team needs to excel."
+      },
+      {
+        "t": "Purpose driven",
+        "d": "Every role contributes to better diagnosis and wider access to care."
+      },
+      {
+        "t": "Built to last",
+        "d": "Work on products installed in thousands of hospitals — and support them for years."
+      }
+    ],
+    "search_jobs_aria": "Search jobs",
+    "filter_dept_aria": "Filter by department",
+    "posted_on": "Posted"
+  },
+  "job_detail": {
+    "not_found": "Role not found",
+    "back": "All roles",
+    "about_role": "About the role",
+    "responsibilities": "Responsibilities",
+    "requirements": "Requirements",
+    "apply_title": "Ready to apply?",
+    "apply_body": "Send us your application — our talent team reviews every submission.",
+    "apply_email_note": "Or email your CV to",
+    "experience": "Experience",
+    "location": "Location",
+    "type": "Type",
+    "department": "Department"
+  },
+  "contact_page": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk imaging.",
+    "subtitle": "Sales, quotations, service, partnerships or press — one form reaches the right team.",
+    "form_headline": "Send an enquiry",
+    "step_topic": "What can we help with?",
+    "step_details": "Your details",
+    "step_message": "Your message",
+    "offices_headline": "Offices",
+    "name": "Full name",
+    "email": "Work email",
+    "phone": "Phone",
+    "company": "Hospital / organisation",
+    "product": "Product of interest",
+    "product_none": "Not sure yet",
+    "department": "Enquiry type",
+    "message": "Message",
+    "optional": "Optional",
+    "submit": "Send enquiry",
+    "success_title": "Thank you — we have your enquiry.",
+    "success": "A specialist will respond within one business day. For urgent service, call 1800-120-280-280.",
+    "error": "We couldn’t send your message. Please try again or contact us directly.",
+    "direct_contacts": "Direct lines",
+    "toll_free": "Toll free (India)",
+    "international": "International",
+    "usa": "USA",
+    "general_inquiries": "General enquiries",
+    "privacy_note": "We use your details only to respond to this enquiry. See our",
+    "privacy_link": "Privacy Policy",
+    "send_another": "Send another enquiry",
+    "name_placeholder": "Dr. A. Sharma",
+    "email_placeholder": "you@hospital.org",
+    "phone_placeholder": "98765 43210",
+    "company_placeholder": "City General Hospital",
+    "message_placeholder": "Tell us about your facility, the systems you’re considering and your timeline.",
+    "directions": "Directions",
+    "departments": {
+      "quote": "Quotation",
+      "sales": "Sales enquiry",
+      "support": "Service & support",
+      "partnerships": "Dealer / partnership",
+      "media": "Media & press",
+      "general": "General enquiry"
+    }
+  },
+  "legal": {
+    "updated": "As published by Edusoft Healthcare",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "cookies": "Cookie Policy"
+  },
+  "footer": {
+    "tagline": "Medical imaging technology — engineered, manufactured and supported by Edusoft Healthcare.",
+    "company": "Company",
+    "products": "Products",
+    "resources": "Resources",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "copyright": "© {{year}} Edusoft Healthcare Limited. All rights reserved.",
+    "made_in_india": "Made in India",
+    "newsletter_title": "Product updates",
+    "newsletter_body": "Launches and deployment news, a few times a year.",
+    "newsletter_cta": "Subscribe",
+    "newsletter_placeholder": "Email address",
+    "newsletter_thanks": "Thank you — you’re on the list.",
+    "social": "Follow Edusoft",
+    "back_to_top": "Back to top",
+    "links": {
+      "about": "About",
+      "services": "Services",
+      "news": "News",
+      "careers": "Careers",
+      "compliance": "Compliance",
+      "support": "Support",
+      "faq": "FAQ",
+      "brochures": "Brochures",
+      "contact": "Contact",
+      "request_quote": "Request a quote",
+      "all_products": "All products",
+      "compare": "Compare products"
+    }
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Please try again.",
+    "retry": "Retry",
+    "back": "Back",
+    "learn_more": "Learn more",
+    "read_more": "Read more",
+    "view_all": "View all",
+    "search": "Search",
+    "clear": "Clear",
+    "submit": "Submit",
+    "required": "Required",
+    "optional": "Optional",
+    "sending": "Sending…",
+    "submitting": "Submitting…",
+    "name_required": "Please enter your name.",
+    "email_required": "Please enter a valid email address.",
+    "message_required": "Please add a short message.",
+    "not_found_title": "This page moved or no longer exists.",
+    "not_found_body": "The address may have changed with our new website. Try the product catalogue or head home.",
+    "return_home": "Return home",
+    "watch_video": "Watch video",
+    "video_consent": "Plays from YouTube (privacy-enhanced mode).",
+    "share_twitter": "X",
+    "share_linkedin": "LinkedIn",
+    "minutes": "min",
+    "previous": "Previous",
+    "next": "Next",
+    "paused": "Paused",
+    "skip_to_content": "Skip to main content"
+  },
+  "footer_contact": {
+    "phone": "1800-120-280-280",
+    "phone_intl": "+91-88512-48073",
+    "phone_usa": "+1-773-313-5065",
+    "email": "info@edusofthealth.com",
+    "address": "B-83, Mangolpuri Industrial Area, Phase-II, New Delhi 110034, India"
+  },
+  "navbar_languages": {
+    "en": "English",
+    "ja": "Japanese",
+    "fr": "French",
+    "zh": "Chinese",
+    "ko": "Korean"
+  },
+  "phone_codes": {
+    "label": "Country code",
+    "codes": [
+      {
+        "code": "+91",
+        "country": "India"
+      },
+      {
+        "code": "+1",
+        "country": "USA / Canada"
+      },
+      {
+        "code": "+977",
+        "country": "Nepal"
+      },
+      {
+        "code": "+880",
+        "country": "Bangladesh"
+      },
+      {
+        "code": "+63",
+        "country": "Philippines"
+      },
+      {
+        "code": "+971",
+        "country": "UAE"
+      },
+      {
+        "code": "+65",
+        "country": "Singapore"
+      },
+      {
+        "code": "+254",
+        "country": "Kenya"
+      },
+      {
+        "code": "+234",
+        "country": "Nigeria"
+      },
+      {
+        "code": "+27",
+        "country": "South Africa"
+      },
+      {
+        "code": "+44",
+        "country": "UK"
+      },
+      {
+        "code": "+81",
+        "country": "Japan"
+      },
+      {
+        "code": "+33",
+        "country": "France"
+      },
+      {
+        "code": "+86",
+        "country": "China"
+      },
+      {
+        "code": "+82",
+        "country": "South Korea"
+      },
+      {
+        "code": "+49",
+        "country": "Germany"
+      },
+      {
+        "code": "+61",
+        "country": "Australia"
+      }
+    ],
+    "search": "Search country or code"
+  },
+  "media_kind": {
+    "studio": "Studio",
+    "angle": "Angle",
+    "detail": "Detail",
+    "in-use": "In use",
+    "motion": "Range of motion",
+    "packaging": "Packaging",
+    "screen": "Software",
+    "logo": "Partner",
+    "accessory": "Accessory"
+  }
+}
