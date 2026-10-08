@@ -1,8 +1,15 @@
 import axios from 'axios';
 import type { Category, Faq, Job, NewsItem, Office, ProductDetail, ProductSummary } from './types';
 
+/**
+ * API origin. In production set VITE_API_URL to the backend deployment
+ * (e.g. https://edusoft-ul7j.vercel.app). Unset in development, so requests
+ * stay relative and go through Vite's /api proxy to localhost:5000.
+ */
+export const API_ORIGIN = (import.meta.env.VITE_API_URL ?? '').replace(/\/+$/, '');
+
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: `${API_ORIGIN}/api`,
   timeout: 10000,
   headers: { 'Content-Type': 'application/json' },
 });

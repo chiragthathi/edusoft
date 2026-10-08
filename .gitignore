@@ -12,6 +12,8 @@ client/node_modules/.vite/
 .env
 .env.*
 !.env.example
+# Public build-time config only (VITE_* values are bundled into the browser JS)
+!client/.env.production
 *.local
 
 # ─── Logs ───────────────────────────────────────

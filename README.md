@@ -17,6 +17,20 @@ npm run build
 NODE_ENV=production npm start      # serves client/dist + API on :5000
 ```
 
+## Deployment (Vercel — two projects)
+
+| Project | URL | Vercel Root Directory | Notes |
+|---|---|---|---|
+| Frontend | https://edusoft-three.vercel.app | `client` | Vite build → `dist`. `client/vercel.json` serves the SPA on every route and proxies `/api`, `/sitemap.xml`, `/robots.txt` to the backend. |
+| Backend | https://edusoft-ul7j.vercel.app | `server` | Express API. `GET /` returns a status JSON. |
+
+**Connection**
+- The browser calls the backend directly using `VITE_API_URL` (committed in `client/.env.production`; an env var set in the Vercel dashboard overrides it). It's a build-time value, so redeploy the frontend after changing it.
+- CORS on the backend allows `edusoft-three.vercel.app`, its preview deployments (`edusoft-three-*.vercel.app`), `edusofthealth.com` and localhost. Add more with `CLIENT_ORIGIN="https://a.com,https://b.com"`.
+- When the custom domain goes live, add it to `CLIENT_ORIGIN` and update `VITE_API_URL` if the API moves.
+
+See `server/.env.example` and `client/.env.example` for all variables.
+
 ## Stack
 | Layer | Technology |
 |---|---|

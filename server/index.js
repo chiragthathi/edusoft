@@ -37,11 +37,27 @@ app.use(helmet({
   } : false,
 }));
 
-// CORS
+// CORS — browsers may call the API from these origins.
+// Extra origins: CLIENT_ORIGIN="https://a.com,https://b.com"
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:4173',
+  'https://edusoft-three.vercel.app',
+  'https://edusofthealth.com',
+  'https://www.edusofthealth.com',
+  ...(process.env.CLIENT_ORIGIN || '').split(',').map(s => s.trim()).filter(Boolean),
+];
+// Vercel preview deployments of the frontend project, e.g. edusoft-three-git-main-<team>.vercel.app
+const previewOrigin = /^https:\/\/edusoft-three(-[a-z0-9-]+)?\.vercel\.app$/;
 app.use(cors({
-  origin: process.env.CLIENT_ORIGIN || 'http://localhost:5173',
+  origin(origin, cb) {
+    // Same-origin / server-to-server requests have no Origin header.
+    if (!origin || allowedOrigins.includes(origin) || previewOrigin.test(origin)) return cb(null, true);
+    return cb(null, false);
+  },
   methods: ['GET', 'POST'],
-  allowedHeaders: ['Content-Type']
+  allowedHeaders: ['Content-Type'],
+  maxAge: 86400,
 }));
 
 // 301s from the legacy PHP site so rankings and inbound links carry over.
@@ -92,9 +108,14 @@ app.use('/api/{*path}', (req, res) => {
 // sitemap.xml + robots.txt (generated from live data)
 app.use(seoRouter);
 
-// Serve static React build in production
-if (isProd) {
-  const dist = path.join(__dirname, '../client/dist');
+// Serve the React build only where it exists (single-server deployments).
+// On Vercel the frontend is its own project, so the API answers / with status.
+const dist = path.join(__dirname, '../client/dist');
+const hasClient = isProd && require('fs').existsSync(path.join(dist, 'index.html'));
+if (!hasClient) {
+  app.get('/', (req, res) => res.json({ service: 'Edusoft Healthcare API', status: 'ok', docs: '/api/health' }));
+}
+if (hasClient) {
   // Hashed bundles and processed media never change for a given URL.
   app.use('/assets', express.static(path.join(dist, 'assets'), { immutable: true, maxAge: '1y' }));
   app.use('/media', express.static(path.join(dist, 'media'), { maxAge: '30d' }));
